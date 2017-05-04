@@ -184,27 +184,52 @@ for (i in episode_files_to_merge){
   episode_data_to_merge[i] <-read.table(i, header=TRUE, sep="\t", quote="\"")
 }
 
-episode_data_to_merge[2]
+episode_data_to_merge[51]
+episode_data_to_merge[52]
 
-testxy <- data.frame(episode_data_to_merge[1], episode_data_to_merge[2])
-testxy[2](358)
+
+
+testxy <- data.frame(episode_data_to_merge[3], episode_data_to_merge[4])
 testxy$data.southpark_03.01b.txt[[4]]
 testxy$data.southpark_03.01b.txt <- gsub("\"", "", testxy$data.southpark_03.01b.txt)
 write.table(testxy, file="testxy.csv", row.names=FALSE, col.names=FALSE)
-for (i in 1:2){
+for (i in 1:length(episode_data_to_merge)){
   if (i%%2==1){
-    i=1
+    i
     episode_data=list()
     episode_name<-(names(episode_data_to_merge[i]))
-    episode_data["Character"] <- episode_data_to_merge[i]
-  
-    episode_data_to_merge[i+1]<- as.character(episode_data_to_merge[i+1])
-    episode_data["Text"]<- gsub("\"","", episode_data_to_merge[i+1])
+    
+
+   
     episode_data["Season"] <-NA
     #data/southpark_ length is 15, so +1 and then get season & episode
     episode_data$Season <- substr(episode_name, 16,17)
     episode_data["Episode"] <-NA
     episode_data$Episode <- substr(episode_name, 19,20)
+    
+    episode_speaking <- unlist(episode_data_to_merge[i])
+    episode_speaking <- gsub("\"","", episode_speaking)
+    
+    episode_data$Character <- episode_speaking
+   
+    episode_text <-unlist(episode_data_to_merge[i+1])
+    
+    episode_text <- gsub("\"","", episode_text)
+    if (i==3){
+      episode_text <- episode_text[-144]
+    }
+    if (i==21){
+      episode_text <- episode_text[-c(430,431)]
+      
+    }
+    if (i==41){
+      episode_text <- episode_text[-c(395,396)]
+    }
+    if (i==47){
+      episode_text <- episode_text[-c(346,347)]
+    }
+    episode_data$Text <- episode_text
+    
     write.table(episode_data, "dialogue.csv", row.names=FALSE,col.names = TRUE, append = TRUE)
     
   }
