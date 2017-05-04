@@ -84,9 +84,9 @@ for (i in cast_files){
   current_name<-(names(cast_data[1]))
   current_data <- cast_data[1]
   current_data["season"] <-NA
-  current_data$season <- substr(current_name, 11,12)
+  current_data$season <- substr(current_name, 16,17)
   current_data["episode"] <-NA
-  current_data$episode <- substr(current_name, 14,15)
+  current_data$episode <- substr(current_name, 19,20)
   
   write.table(current_data, "character-appearences.csv", row.names=FALSE, col.names = c("Character", "Season", "Episode"))
   
@@ -94,9 +94,9 @@ for (i in cast_files){
     current_name<-(names(cast_data[i]))
     current_data <- cast_data[i]
     current_data["season"] <-NA
-    current_data$season <- substr(current_name, 11,12)
+    current_data$season <- substr(current_name, 16,17)
     current_data["episode"] <-NA
-    current_data$episode <- substr(current_name, 14,15)
+    current_data$episode <- substr(current_name, 19,20)
     write.table(current_data, "character-appearences.csv", row.names=FALSE,col.names=FALSE, append = TRUE)
   }
 
@@ -175,12 +175,44 @@ dir_files_iterator = idir(path= ".")
 episode_files <- grep(list.files(pattern="southpark", recursive = TRUE), pattern="cast", inv=T, value=T)
 episode_files
 
+#files that need to be merged
 episode_files_to_merge <- grep(episode_files, pattern="b", value=T)
 episode_files_to_merge
 
 episode_data_to_merge <-  list()
 for (i in episode_files_to_merge){
-  episode_data_to_merge[i] <-read.table(i, header=TRUE, sep="\n")
+  episode_data_to_merge[i] <-read.table(i, header=TRUE, sep="\t", quote="\"")
 }
+
+episode_data_to_merge[2]
+
+testxy <- data.frame(episode_data_to_merge[1], episode_data_to_merge[2])
+testxy[2](358)
+testxy$data.southpark_03.01b.txt[[4]]
+testxy$data.southpark_03.01b.txt <- gsub("\"", "", testxy$data.southpark_03.01b.txt)
+write.table(testxy, file="testxy.csv", row.names=FALSE, col.names=FALSE)
+for (i in 1:2){
+  if (i%%2==1){
+    i=1
+    episode_data=list()
+    episode_name<-(names(episode_data_to_merge[i]))
+    episode_data["Character"] <- episode_data_to_merge[i]
+  
+    episode_data_to_merge[i+1]<- as.character(episode_data_to_merge[i+1])
+    episode_data["Text"]<- gsub("\"","", episode_data_to_merge[i+1])
+    episode_data["Season"] <-NA
+    #data/southpark_ length is 15, so +1 and then get season & episode
+    episode_data$Season <- substr(episode_name, 16,17)
+    episode_data["Episode"] <-NA
+    episode_data$Episode <- substr(episode_name, 19,20)
+    write.table(episode_data, "dialogue.csv", row.names=FALSE,col.names = TRUE, append = TRUE)
+    
+  }
+}
+
+dialogue_csv <- read.csv("dialogue.csv",stringsAsFactors = FALSE, sep=" ")
+
+
+
 
 
