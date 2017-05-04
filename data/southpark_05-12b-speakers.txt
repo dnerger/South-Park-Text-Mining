@@ -1,0 +1,753 @@
+"x"
+"
+"
+"Butters:
+"
+"Ms. Choksondik:
+"
+"Butters:
+"
+"Ms. Choksondik:
+"
+"Cartman:
+"
+"Ms. Choksondik:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Ms. Choksondik:
+"
+"Cartman:
+"
+"Ms. Choksondik:
+"
+"Cartman:
+"
+"Ms. Choksondik:
+"
+"Cartman:
+"
+"Ms. Choksondik:
+"
+"Token:
+"
+"Clyde:
+"
+"Token:
+"
+"Ms. Choksondik:
+"
+"Token:
+"
+"Cartman:
+"
+"Ms. Choksondik:
+"
+"Cartman:
+"
+"Token:
+"
+"Cartman:
+"
+"Stan:
+"
+"Token:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Butters:
+"
+"
+"
+"Linda:
+"
+"Token:
+"
+"Bob:
+"
+"Token:
+"
+"Bob:
+"
+"Linda:
+"
+"Token:
+"
+"Bob:
+"
+"Token:
+"
+"Linda:
+"
+"Bob:
+"
+"Token:
+"
+"
+"
+"Bob:
+"
+"Token:
+"
+"Linda:
+"
+"Bob:
+"
+"Linda:
+"
+"Bob:
+"
+"Token:
+"
+"Bob:
+"
+"Linda:
+"
+"Obese Woman:
+"
+"Bob:
+"
+"Token:
+"
+"Linda:
+"
+"Token:
+"
+"Randy:
+"
+"Sharon:
+"
+"Liane:
+"
+"Sheila:
+"
+"Bob:
+"
+"
+"
+"Cartman:
+"
+"Token:
+"
+"Stan:
+"
+"Token:
+"
+"Cartman:
+"
+"Token:
+"
+"Stan:
+"
+"Token:
+"
+"Stan:
+"
+"Token:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Craig:
+"
+"Token:
+"
+"Cartman:
+"
+"Token:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Token:
+"
+"
+"
+"Will Smith:
+"
+"Jada Pinkett Smith:
+"
+"Will Smith:
+"
+"Jada Pinkett Smith:
+"
+"Will Smith:
+"
+"Older Boy:
+"
+"Will Smith:
+"
+"Older Boy:
+"
+"Girl:
+"
+"Older Boy:
+"
+"Will Smith:
+"
+"Kids:
+"
+"
+"
+"Will Smith:
+"
+"Jada Pinkett Smith:
+"
+"Token:
+"
+"Will Smith:
+"
+"Older Boy:
+"
+"Token:
+"
+"Lisa:
+"
+"Token:
+"
+"Will Smith:
+"
+"Frederick:
+"
+"Token:
+"
+"
+"
+"Token:
+"
+"Frederick:
+"
+"Token:
+"
+"Daniel:
+"
+"Token:
+"
+"Lisa:
+"
+"Token:
+"
+"Lisa:
+"
+"Token:
+"
+"Frederick:
+"
+"Lisa:
+"
+"Frederick:
+"
+"Lisa:
+"
+"Daniel:
+"
+"Frederick:
+"
+"Lisa:
+"
+"Frederick:
+"
+"Lisa:
+"
+"Frederick:
+"
+"Lisa:
+"
+"Daniel:
+"
+"Frederick:
+"
+"Token:
+"
+"Lisa:
+"
+"
+"
+"Snoop Dogg:
+"
+"Engineer:
+"
+"Snoop Dogg:
+"
+"Will Smith:
+"
+"Snoop Dogg:
+"
+"Will Smith:
+"
+"Snoop Dogg:
+"
+"Will Smith:
+"
+"Snoop Dogg:
+"
+"Will Smith:
+"
+"Snoop Dogg:
+"
+"Will Smith:
+"
+"Snoop Dogg:
+"
+"Will Smith:
+"
+"Snoop Dogg:
+"
+"
+"
+"Mr. Garrison:
+"
+"Jimbo:
+"
+"Mr. Garrison:
+"
+"Gerald:
+"
+"Mr. Garrison:
+"
+"Jimbo:
+"
+"Ned:
+"
+"Jimbo:
+"
+"Skeeter:
+"
+"Mr. Garrison:
+"
+"Skeeter:
+"
+"Mr. Garrison:
+"
+"Jimbo:
+"
+"Mr. Garrison:
+"
+"Jimbo:
+"
+"
+"
+"Oprah Winfrey:
+"
+"Frederick:
+"
+"Dominique and Zizi:
+"
+"Token:
+"
+"A Boy:
+"
+"Frederick:
+"
+"Token:
+"
+"Lisa:
+"
+"The Kids:
+"
+"Frederick:
+"
+"Token:
+"
+"
+"
+"Kobe Bryant:
+"
+"Skeeter:
+"
+"Kobe Bryant:
+"
+"Barkeep:
+"
+"Men:
+"
+"Kobe Bryant:
+"
+"Man 1:
+"
+"Kobe Bryant:
+"
+"Mr. Garrison:
+"
+"Ned:
+"
+"Mr. Garrison:
+"
+"Jimbo:
+"
+"Mr. Garrison:
+"
+"Bar Patrons:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison:
+"
+"
+"
+"Kobe Bryant:
+"
+"Mr. Garrison:
+"
+"Kobe Bryant:
+"
+"Skeeter:
+"
+"Jimbo:
+"
+"Men:
+"
+"
+"
+"Frederick:
+"
+"Token:
+"
+"Frederick:
+"
+"Players:
+"
+"Player 1:
+"
+"Player 2:
+"
+"Player 3:
+"
+"Player 4:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Frederick:
+"
+"Token:
+"
+"Player:
+"
+"Lisa:
+"
+"Frederick:
+"
+"Token:
+"
+"
+"
+"Bill Cosby:
+"
+"Passenger 1:
+"
+"Passengers:
+"
+"Passenger 2:
+"
+"Passenger 1:
+"
+"Bill Cosby:
+"
+"Passenger 1:
+"
+"Bill Cosby:
+"
+"Passenger 1:
+"
+"
+"
+"Token:
+"
+"
+"
+"Chef:
+"
+"Millionaire Protesters:
+"
+"Oprah Winfrey:
+"
+"Chef:
+"
+"Oprah Winfrey:
+"
+"Will Smith:
+"
+"Kobe Bryant:
+"
+"Millionaire Protesters:
+"
+"Oprah Winfrey:
+"
+"Chef:
+"
+"Will Smith:
+"
+"Chef:
+"
+"Will Smith:
+"
+"Chef:
+"
+"Millionaire Protesters:
+"
+"Chef:
+"
+"
+"
+"Token:
+"
+"Milly Larsen:
+"
+"Mrs. Larsen:
+"
+"Token:
+"
+"Lion 1:
+"
+"Token:
+"
+"Lion 2:
+"
+"Token:
+"
+"Lion 1:
+"
+"Aslan:
+"
+"Lion 2:
+"
+"Token:
+"
+"Aslan:
+"
+"Token:
+"
+"Aslan:
+"
+"Token:
+"
+"Aslan:
+"
+"Token:
+"
+"Aslan:
+"
+"Token:
+"
+"Aslan:
+"
+"Token:
+"
+"Aslan:
+"
+"Token:
+"
+"Aslan:
+"
+"
+"
+"Reporter:
+"
+"Skeeter:
+"
+"Jimbo:
+"
+"Mr. Garrison:
+"
+"Skeeter:
+"
+"Mr. Garrison:
+"
+"Jimbo:
+"
+"Mr. Garrison:
+"
+"Men:
+"
+"Mr. Garrison:
+"
+"Men:
+"
+"
+"
+"Token:
+"
+"Aslan:
+"
+"Token:
+"
+"Aslan:
+"
+"Token:
+"
+"Aslan:
+"
+"Token:
+"
+"Aslan:
+"
+"Token:
+"
+"Aslan:
+"
+"Token:
+"
+"Aslan:
+"
+"Token:
+"
+"
+"
+"Will Smith:
+"
+"Millionaires:
+"
+"Mayor McDaniels:
+"
+"Millionaires:
+"
+"Mayor McDaniels:
+"
+"Voices:
+"
+"Oprah Winfrey:
+"
+"Mayor McDaniels:
+"
+"Will Smith:
+"
+"Millionaire 1:
+"
+"Carl:
+"
+"Will Smith:
+"
+"Snoop Dogg:
+"
+"Will Smith:
+"
+"Skeeter:
+"
+"Gerald:
+"
+"
+"
+"Millionaire:
+"
+"
+"
+"Stan:
+"
+"Token:
+"
+"Stan:
+"
+"Token:
+"
+"Stan:
+"
+"Token:
+"
+"Stan:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Kyle:
+"
+"Token:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Token:
+"
+"Stan:
+"
+"Token:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Butters:
+"
+"Craig:
+"
+"Token:
+"
+"
+"
+"Skeeter:
+"
+"Men:
+"
+"Gerald:
+"
+"Mr. Garrison:
+"
+"Men:
+"
+"Jimbo:
+"
+"Randy:
+"
+"Mr. Garrison:
+"
+"
+"

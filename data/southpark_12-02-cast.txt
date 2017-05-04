@@ -1,0 +1,79 @@
+"x"
+"Stan Marsh
+"
+"Kyle Broflovski
+"
+"Eric Cartman
+"
+"Butters Stotch
+"
+"Randy Marsh
+"
+"Sheila Broflovski
+"
+"Gerald Broflovski
+"
+"Jimbo Kern
+"
+"Hillary Clinton
+"
+"Barack Obama
+"
+"Bill and Gill
+"
+"Bob Summers
+"
+"Britney Spears
+"
+"Chris
+"
+"Clerk
+"
+"Conductor
+"
+"David
+"
+"Doctor
+"
+"Elderly Man
+"
+"ET Reporter
+"
+"Farmer
+"
+"Female Aide
+"
+"Guard
+"
+"Leslie
+"
+"Male Aide
+"
+"Male passenger
+"
+"Manager
+"
+"Moderator
+"
+"Mother
+"
+"Narrator
+"
+"Officer
+"
+"Photographers and Paparazzi
+"
+"Reporter
+"
+"Robert Pooner
+"
+"Ron
+"
+"Sound Engineer
+"
+"Townsfolk
+"
+"Tracy
+"
+"VJ
+"

@@ -1,0 +1,651 @@
+"x"
+"
+"
+"Mr. Garrison:
+"
+"Pioneer Paul:
+"
+"Stan:
+"
+"Kyle:
+"
+"Pioneer Paul:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Mr. Garrison:
+"
+"Butters:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Mr. Garrison:
+"
+"
+"
+"Smithy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Pioneer Paul:
+"
+"Kyle:
+"
+"Smithy:
+"
+"Pioneer Paul:
+"
+"Chad:
+"
+"
+"
+"Gunsmith:
+"
+"Cartman:
+"
+"Gunsmith:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"
+"
+"Pioneer Paul:
+"
+"Clerk:
+"
+"Wendy:
+"
+"Clerk:
+"
+"Kyle:
+"
+"Pioneer Paul:
+"
+"Kyle:
+"
+"Stan:
+"
+"Pioneer Paul:
+"
+"Leader:
+"
+"Injured Man:
+"
+"Leader:
+"
+"Wendy:
+"
+"Stan:
+"
+"Leader:
+"
+"Sheriff:
+"
+"Stan:
+"
+"Pioneer Paul:
+"
+"Stan:
+"
+"Kyle:
+"
+"Pioneer Paul:
+"
+"Clerk:
+"
+"Stan:
+"
+"Pioneer Paul:
+"
+"Stan:
+"
+"
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cashier:
+"
+"Butters, Cartman:
+"
+"
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"
+"
+"Wendy:
+"
+"Kyle:
+"
+"Pioneer Paul:
+"
+"Wendy:
+"
+"Kyle:
+"
+"Pioneer Paul:
+"
+"Stan:
+"
+"Clerk:
+"
+"Pioneer Paul:
+"
+"Clerk:
+"
+"Pioneer Paul:
+"
+"Kyle:
+"
+"Operator:
+"
+"Kyle:
+"
+"Operator:
+"
+"Kyle:
+"
+"Operator:
+"
+"Kyle:
+"
+"
+"
+"Cartman:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Cartman:
+"
+"
+"
+"Butters:
+"
+"Cartman:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Cartman:
+"
+"Cartman:
+"
+"Cartman:
+"
+"
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"
+"
+"Leader:
+"
+"Mr. Garrison:
+"
+"Blond:
+"
+"Leader:
+"
+"Police Chief:
+"
+"Lieutenant:
+"
+"Police Chief:
+"
+"Officer:
+"
+"Police Chief:
+"
+"
+"
+"Leader:
+"
+"Balding Man:
+"
+"Leader:
+"
+"
+"
+"Kyle:
+"
+"Wendy:
+"
+"Pioneer Paul:
+"
+"Kyle:
+"
+"Stan:
+"
+"Pioneer Paul:
+"
+"Stan:
+"
+"Pioneer Paul:
+"
+"Clerk:
+"
+"
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"
+"
+"Leader:
+"
+"Ohrlich:
+"
+"Leader:
+"
+"Ohrlich:
+"
+"Leader:
+"
+"Ohrlich:
+"
+"Frans:
+"
+"Ohrlich:
+"
+"Frans:
+"
+"
+"
+"Frans:
+"
+"Smithy:
+"
+"Frans:
+"
+"Smithy:
+"
+"Frans:
+"
+"Smithy:
+"
+"Frans:
+"
+"Smithy:
+"
+"Craig:
+"
+"Worker:
+"
+"Frans:
+"
+"Worker:
+"
+"Frans:
+"
+"Worker:
+"
+"Pioneer Paul:
+"
+"Frans:
+"
+"
+"
+"Kyle:
+"
+"Frans:
+"
+"Wendy:
+"
+"Jimmy:
+"
+"
+"
+"Officer:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"
+"
+"Frans:
+"
+"Domino:
+"
+"Walsky:
+"
+"Pioneer Paul:
+"
+"Murderin' Murphy:
+"
+"Frans:
+"
+"Woman:
+"
+"Frans:
+"
+"Pioneer Paul:
+"
+"Frans:
+"
+"Mr. Garrison:
+"
+"Kenny:
+"
+"Frans:
+"
+"Kenny:
+"
+"
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"
+"
+"Frans:
+"
+"Woman:
+"
+"Frans:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Wendy:
+"
+"Stan:
+"
+"Frans:
+"
+"Kenny:
+"
+"Stan:
+"
+"Pioneer Paul:
+"
+"Frans:
+"
+"Stan:
+"
+"Pioneer Paul:
+"
+"Murderin' Murphy:
+"
+"Stan:
+"
+"Pioneer Paul:
+"
+"Clerk:
+"
+"Stan:
+"
+"Pioneer Paul:
+"
+"Clerk:
+"
+"Frans:
+"
+"Mr. Garrison:
+"
+"Walsky:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Walsky:
+"
+"Cartman:
+"
+"Walsky:
+"
+"Butters:
+"
+"Walsky:
+"
+"Butters:
+"
+"Walsky:
+"
+"Cartman:
+"
+"Walsky:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Frans:
+"
+"Stan:
+"
+"Murderin' Murphy:
+"
+"Stan:
+"
+"Murderin' Murphy:
+"
+"Officer 2:
+"
+"Frans:
+"
+"Mr. Garrison:
+"
+"Officer 3:
+"
+"Officer 2:
+"
+"Murderin' Murphy:
+"
+"Pioneer Paul:
+"
+"Police Chief:
+"
+"Woman:
+"
+"Officer 2:
+"
+"PA System:
+"
+"Pioneer Paul:
+"
+"Murderin' Murphy:
+"
+"Woman 2:
+"
+"Murderin' Murphy:
+"
+"Pioneer Paul:
+"
+"Gunsmith:
+"
+"Murderin' Murphy:
+"
+"Man 1:
+"
+"Man 2:
+"
+"Man 3:
+"
+"
+"
+"Wendy:
+"
+"Stan:
+"
+"Police Chief:
+"
+"Frans:
+"
+"Police Chief:
+"
+"Frans:
+"
+"Police Chief:
+"
+"Wendy:
+"
+"Butters:
+"
+"
+"

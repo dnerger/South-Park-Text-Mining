@@ -1,0 +1,749 @@
+"x"
+"
+"
+"
+"
+"Kyle:
+"
+"Ike:
+"
+"Kyle:
+"
+"Sheila:
+"
+"Kyle:
+"
+"Sheila:
+"
+"Kyle:
+"
+"
+"
+"Ike:
+"
+"Kyle:
+"
+"
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Mr. Hankey:
+"
+"Kyle:
+"
+"Mr. Hankey:
+"
+"Kyle:
+"
+"Mr. Hankey:
+"
+"Cartman:
+"
+"Mr. Hankey:
+"
+"Autumn:
+"
+"Mr. Hankey:
+"
+"Autumn:
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Mr. Hankey:
+"
+"Amber:
+"
+"Mr. Hankey:
+"
+"Simon:
+"
+"Mr. Hankey:
+"
+"Siimon:
+"
+"Mr. Hankey:
+"
+"Kyle:
+"
+"Mr. Hankey:
+"
+"Stan:
+"
+"Cartman:
+"
+"Mr. Hankey:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Autumn:
+"
+"Mr. Hankey:
+"
+"Autumn:
+"
+"Mr. Hankey:
+"
+"
+"
+"Cartman:
+"
+"Stan:
+"
+"Woman:
+"
+"Tele's Owner:
+"
+"Red:
+"
+"Stan:
+"
+"
+"
+"News Anchor:
+"
+"Ms. Choksondik:
+"
+"Man:
+"
+"Man 2:
+"
+"News Anchor:
+"
+"Assistant:
+"
+"News Anchor:
+"
+"
+"
+"Stan:
+"
+"Charlie Brown:
+"
+"Cartman:
+"
+"Stan:
+"
+"Charlie:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Stan:
+"
+"
+"
+"Mayor:
+"
+"Aide 2:
+"
+"Mayor:
+"
+"Kyle:
+"
+"Mayor:
+"
+"Kyle:
+"
+"Stan:
+"
+"Mayor:
+"
+"The Boys:
+"
+"Mayor:
+"
+"The Boys:
+"
+"Kyle:
+"
+"
+"
+"Mr. Hankey:
+"
+"Kyle:
+"
+"Mr. Hankey:
+"
+"Kyle:
+"
+"Mr. Hankey:
+"
+"The Nuggets:
+"
+"Autumn:
+"
+"Mr. Hankey:
+"
+"Kyle:
+"
+"Mr. Hankey:
+"
+"Amber:
+"
+"
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"The boys:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Kyle:
+"
+"Butters:
+"
+"
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Mr. Hankey:
+"
+"Autumn:
+"
+"Mr. Hankey:
+"
+"Autumn:
+"
+"Mr. Hankey:
+"
+"Autumn:
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Mr. Hankey, Cornwallis:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Sound man:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Sound man:
+"
+"The boys:
+"
+"Sound man:
+"
+"Kyle:
+"
+"The boys:
+"
+"Cartman:
+"
+"Sound man:
+"
+"Boys:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Sound man:
+"
+"Stan:
+"
+"Sound man:
+"
+"Stan:
+"
+"Sound man:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Mayor:
+"
+"Johnson:
+"
+"Mayor:
+"
+"Mr. Hankey:
+"
+"Johnson:
+"
+"Mayor:
+"
+"Mr. Hankey:
+"
+"Autumn:
+"
+"Mr. Hankey:
+"
+"Autumn:
+"
+"Mr. Hankey:
+"
+"Autumn:
+"
+"Mr. Hankey:
+"
+"Johnson:
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Amber:
+"
+"Mr. Hankey:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Boys:
+"
+"Boys, Hankeys:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Sound Man:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Boys:
+"
+"Stan:
+"
+"
+"
+"Stan, Kyle:
+"
+"
+"
+"Mayor:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Mayor:
+"
+"Kyle:
+"
+"Mr. Hankey:
+"
+"
+"
+"Kids:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Simon:
+"
+"Man:
+"
+"Mayor:
+"
+"Man 2:
+"
+"Man 3:
+"
+"Man 4:
+"
+"Mr. Hankey:
+"
+"Kyle:
+"
+"Mayor:
+"
+"Kyle:
+"
+"Mayor:
+"
+"Aide:
+"
+"Kyle:
+"
+"Stan:
+"
+"Mr. Hankey:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Mr. Hankey:
+"
+"Cornwallis:
+"
+"Mr. Hankey:
+"
+"
+"
+"Sharon:
+"
+"Grandpa:
+"
+"
+"
+"
+"
+"Kyle:
+"
+"Kenny:
+"
+"
+"
+"Kyle:
+"
+"
+"
+"Jesus:
+"
+"Santa:
+"
+"Jesus:
+"
+"Santa:
+"
+"
+"
+"Crowd:
+"
+"
+"
+"Amber:
+"
+"Autumn:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Various Folk:
+"
+"Man 5:
+"
+"Mr. Mackey:
+"
+"Randy:
+"
+"Mayor:
+"
+"Ms. Choksondik:
+"
+"Mayor:
+"
+"Kyle:
+"
+"Mr. Hankey:
+"
+"Autumn:
+"
+"Mayor:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Boys:
+"
+"
+"

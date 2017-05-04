@@ -1,0 +1,691 @@
+"x"
+"
+"
+"Mayor:
+"
+"Jimbo:
+"
+"Mayor:
+"
+"Jimbo:
+"
+"Chef:
+"
+"Jimbo:
+"
+"Chef:
+"
+"Mayor:
+"
+"Chef:
+"
+"Jimbo:
+"
+"Chef:
+"
+"Jimbo:
+"
+"Chef:
+"
+"Jimbo:
+"
+"Mayor:
+"
+"
+"
+"Mr. Wyland:
+"
+"Class:
+"
+"Mr. Wyland:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Class:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Craig:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Mr. Wyland:
+"
+"
+"
+"Jimbo:
+"
+"Ned:
+"
+"Stan:
+"
+"Kyle:
+"
+"Jimbo:
+"
+"Stan, Kyle:
+"
+"Jimbo:
+"
+"
+"
+"Chef:
+"
+"Randy:
+"
+"Chef:
+"
+"Wendy:
+"
+"Chef:
+"
+"Mr. Mackey:
+"
+"Chef:
+"
+"Principal Victoria:
+"
+"Mr. Mackey:
+"
+"Principal Victoria:
+"
+"Chef:
+"
+"Man 1:
+"
+"Man 2:
+"
+"Chef:
+"
+"Principal Victoria:
+"
+"Man 3:
+"
+"Mr. Mackey:
+"
+"Man 1:
+"
+"Man 2:
+"
+"Principal Victoria:
+"
+"Man 3:
+"
+"Man 2, Woman 2:
+"
+"Man 1:
+"
+"Man 3:
+"
+"Man 2:
+"
+"Mr. Mackey:
+"
+"Chef:
+"
+"Man 2:
+"
+"Chef:
+"
+"Man 2:
+"
+"Man 3:
+"
+"Man 1:
+"
+"Woman 2:
+"
+"Man 2:
+"
+"
+"
+"Mr. Wyland:
+"
+"Wendy:
+"
+"Mr. Wyland:
+"
+"Stan, Kyle:
+"
+"Wendy:
+"
+"Stan:
+"
+"Kyle:
+"
+"Mr. Wyland:
+"
+"Wendy:
+"
+"Mr. Wyland:
+"
+"
+"
+"Stan, Kyle:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Kyle:
+"
+"Stan:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Clyde:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"
+"
+"Reporter:
+"
+"Chef:
+"
+"Jimbo:
+"
+"Mayor:
+"
+"Chef:
+"
+"Reporter:
+"
+"Man 4:
+"
+"Man 5:
+"
+"Man 6:
+"
+"Reporter:
+"
+"Chef:
+"
+"Monk:
+"
+"The KKK:
+"
+"Reporter:
+"
+"KKK Leader:
+"
+"Jimbo:
+"
+"Ned:
+"
+"KKK Leader:
+"
+"The KKK:
+"
+"Sheila:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison:
+"
+"The KKK:
+"
+"Chef:
+"
+"Jimbo:
+"
+"Mayor:
+"
+"
+"
+"Mayor:
+"
+"Chef:
+"
+"Mayor:
+"
+"Johnson:
+"
+"Assistant:
+"
+"Mayor:
+"
+"
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Stan:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Stan:
+"
+"Gerald:
+"
+"Kyle:
+"
+"Stan:
+"
+"Gerald:
+"
+"Kyle:
+"
+"Gerald:
+"
+"Kyle:
+"
+"Stan, Kyle:
+"
+"Kenny:
+"
+"Stan:
+"
+"
+"
+"The KKK:
+"
+"KKK Leader:
+"
+"The KKK:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison:
+"
+"Chef:
+"
+"Officer Barbrady:
+"
+"Reporter:
+"
+"Man 7:
+"
+"Man 8:
+"
+"Man 9:
+"
+"Chef:
+"
+"Reporter:
+"
+"KKK Leader:
+"
+"The KKK:
+"
+"Jimbo:
+"
+"
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy, Cartman:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"
+"
+"Mr. Garrison:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison:
+"
+"
+"
+"The KKK:
+"
+"Jimbo:
+"
+"Ned:
+"
+"Jimbo:
+"
+"Ned:
+"
+"The KKK:
+"
+"KKK Leader:
+"
+"Brother Anderson:
+"
+"KKK Leader:
+"
+"KKK Members:
+"
+"KKK Leader:
+"
+"Ticket 2974 Holder:
+"
+"KKK Leader:
+"
+"
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"
+"
+"Wendy:
+"
+"Cartman's voice:
+"
+"Wendy:
+"
+"Cartman's voice:
+"
+"Wendy:
+"
+"
+"
+"KKK Leader:
+"
+"Member 1:
+"
+"KKK Members:
+"
+"Member 2:
+"
+"KKK Members:
+"
+"Jimbo:
+"
+"KKK Members:
+"
+"KKK Leader:
+"
+"Jimbo:
+"
+"Ned:
+"
+"Jimbo:
+"
+"KKK Members:
+"
+"Jimbo:
+"
+"KKK Members:
+"
+"Jimbo:
+"
+"KKK Leader:
+"
+"KKK Members:
+"
+"KKK Leader:
+"
+"KKK Members:
+"
+"A Member:
+"
+"Jimbo:
+"
+"KKK Leader:
+"
+"KKK Members:
+"
+"
+"
+"Jimbo:
+"
+"Ned:
+"
+"
+"
+"Jimbo:
+"
+"Chef:
+"
+"Jimbo:
+"
+"
+"
+"Wendy:
+"
+"Bebe:
+"
+"Wendy:
+"
+"Bebe:
+"
+"Wendy:
+"
+"Bebe:
+"
+"Wendy:
+"
+"Bebe:
+"
+"Wendy:
+"
+"Bebe:
+"
+"Wendy:
+"
+"
+"
+"Mr. Wyland:
+"
+"Wendy:
+"
+"People in Audience:
+"
+"Really Shocked Man:
+"
+"Wendy:
+"
+"Mr. Wyland:
+"
+"Kyle:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Kyle's Team:
+"
+"Chef:
+"
+"Kyle's Team:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Kyle's Team:
+"
+"Chef:
+"
+"Mayor:
+"
+"Mr. Wyland:
+"
+"Chef:
+"
+"A Few People:
+"
+"Some KKK members:
+"
+"Kyle:
+"
+"Chef:
+"
+"Jimbo:
+"
+"Chef:
+"
+"Jimbo:
+"
+"Chef:
+"
+"Audience Members:
+"
+"Kyle:
+"
+"
+"
+"Mayor:
+"
+"Stan:
+"
+"Kyle:
+"
+"Chef:
+"
+"Jimbo:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Wendy:
+"

@@ -1,0 +1,57 @@
+"x"
+"Stan Marsh
+"
+"Kyle Broflovski
+"
+"Eric Cartman
+"
+"Kenny McCormick
+"
+"Butters Stotch
+"
+"Clyde Donovan
+"
+"Craig Tucker
+"
+"Token Black
+"
+"Jimmy Valmer
+"
+"Liane Cartman
+"
+"Randy Marsh
+"
+"Anchorman Chris
+"
+"Border Patrol Officers
+Officer Charlie
+Officer Marcus
+"
+"Officer Charlie
+"
+"Officer Marcus
+"
+"Brian Whipple
+"
+"Mrs. Whipple
+"
+"Doctor
+"
+"Elderly Man
+"
+"Nurse Yimenez
+"
+"Mexican Crowds
+"
+"Mexican Commentator
+"
+"Mr. Geiger
+"
+"Narrator
+"
+"President Calderón
+"
+"Backup Singers
+"
+"El Pollo Loco Workers
+"

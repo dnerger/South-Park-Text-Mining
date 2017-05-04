@@ -1,0 +1,59 @@
+"x"
+" Stan Marsh
+"
+" Kyle Broflovski
+"
+" Eric Cartman
+"
+" Tweek Tweak
+"
+" Craig Tucker
+"
+" Butters Stotch
+"
+" Sharon Marsh
+"
+" Randy Marsh
+"
+" Priest Maxi
+"
+" Richard Tweak
+"
+" Stuart McCormick 
+"
+" Mrs. McCormick
+"
+" Stephen Stotch 
+"
+" Linda Stotch
+"
+" Thomas Tucker
+"
+" Man
+"
+" Martha Stewart
+"
+" FBI agent
+"
+" Counselor Gorache
+"
+" Jerome ""Chef"" McElroy
+"
+" The Clergy
+ Priests
+ Bishops
+ Cardinals 
+ The Gelgameks
+"
+" Priests
+"
+" Bishops
+"
+" Cardinals 
+"
+" The Gelgameks
+"
+" News Anchor
+"
+" Old Monk
+"

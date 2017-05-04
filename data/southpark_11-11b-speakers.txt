@@ -1,0 +1,567 @@
+"x"
+"
+"
+"Cartman:
+"
+"Stan:
+"
+"Fanciful Mayor:
+"
+"A Terrorist:
+"
+"Kyle:
+"
+"Butters:
+"
+"The Boys:
+"
+"General:
+"
+"Fanciful Mayor:
+"
+"Terrorists:
+"
+"Rockety Rocket:
+"
+"
+"
+"
+"
+"
+"
+"Steven:
+"
+"Butters:
+"
+"Steven:
+"
+"Butters:
+"
+"Steven:
+"
+"Butters:
+"
+"Fanciful Mayor:
+"
+"Butters:
+"
+"Fanciful Mayor:
+"
+"Cinderella:
+"
+"Butters:
+"
+"Fanciful Mayor:
+"
+"Butters:
+"
+"
+"
+"Stan:
+"
+"General:
+"
+"Kyle:
+"
+"Specialist:
+"
+"Stan:
+"
+"General:
+"
+"Specialist:
+"
+"Kyle:
+"
+"Specialist:
+"
+"Stan:
+"
+"General:
+"
+"Specialist:
+"
+"Stan:
+"
+"Specialist:
+"
+"General:
+"
+"Tom:
+"
+"Kyle:
+"
+"General:
+"
+"Tom:
+"
+"General:
+"
+"Tom:
+"
+"Stan:
+"
+"General:
+"
+"
+"
+"Cartman:
+"
+"
+"
+"Elderly woman:
+"
+"Cartman:
+"
+"
+"
+"General:
+"
+"Stan:
+"
+"General:
+"
+"Lead tech:
+"
+"General:
+"
+"Lead tech:
+"
+"Kyle:
+"
+"Lead tech:
+"
+"Kyle:
+"
+"General:
+"
+"Lead tech:
+"
+"Stan:
+"
+"Lead tech:
+"
+"General:
+"
+"Stan, Kyle:
+"
+"Operator:
+"
+"Lead tech:
+"
+"Stan, Kyle:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"General:
+"
+"
+"
+"Lollipop King:
+"
+"Butters:
+"
+"Fanciful Mayor:
+"
+"Butters:
+"
+"Fanciful Mayor:
+"
+"Snarf:
+"
+"Fanciful Mayor:
+"
+"Lollipop King:
+"
+"Fanciful Mayor:
+"
+"
+"
+"Orc:
+"
+"The Minotaur:
+"
+"Freddy Krueger:
+"
+"The Minotaur:
+"
+"ManBearPig:
+"
+"Headless Horseman:
+"
+"Squirrelly Squirrel:
+"
+"Critter:
+"
+"Woodland Critters:
+"
+"The Minotaur:
+"
+"Creature from the Black Lagoon:
+"
+"Squirrelly Squirrel:
+"
+"Rabbity Rabbit:
+"
+"Beavery Beaver:
+"
+"Beary Bear:
+"
+"Squirrelly Squirrel:
+"
+"Jason Voorhees:
+"
+"
+"
+"Cartman:
+"
+"Secretary:
+"
+"Cartman:
+"
+"Secretary:
+"
+"Tom:
+"
+"
+"
+"Stan, Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Lead tech:
+"
+"Operator:
+"
+"General:
+"
+"
+"
+"Butters:
+"
+"Snarf:
+"
+"Butters:
+"
+"Lollipop King:
+"
+"Strawberry Shortcake:
+"
+"Snarf:
+"
+"Strawberry Shortcake:
+"
+"The Minotaur:
+"
+"Squirrelly Squirrel:
+"
+"Freddy Krueger:
+"
+"Jason Voorhees:
+"
+"Squirrelly Squirrel:
+"
+"Beavery Beaver:
+"
+"Deery Deer:
+"
+"Beary Bear:
+"
+"The Minotaur:
+"
+"Woodland Critters:
+"
+"Beary Bear:
+"
+"Squirrelly Squirrel:
+"
+"Lollipop King:
+"
+"
+"
+"General:
+"
+"Soldiers:
+"
+"General:
+"
+"Kurt Russell:
+"
+"General:
+"
+"Tech 1:
+"
+"General:
+"
+"Tech 3
+"
+"General:
+"
+"Kyle:
+"
+"Cartman:
+"
+"General:
+"
+"Cartman:
+"
+"General:
+"
+"Cartman:
+"
+"General:
+"
+"Kyle:
+"
+"General:
+"
+"Kyle:
+"
+"General:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"Lead tech:
+"
+"General:
+"
+"Kurt Russell:
+"
+"General:
+"
+"Kurt Russell:
+"
+"Tech 3:
+"
+"General:
+"
+"Kurt Russell:
+"
+"Lead tech:
+"
+"Techs:
+"
+"General:
+"
+"Kurt Russell:
+"
+"Stan:
+"
+"Kurt Russell:
+"
+"Stan:
+"
+"General:
+"
+"Stan:
+"
+"General:
+"
+"Kurt Russell:
+"
+"General:
+"
+"Kurt Russell:
+"
+"General:
+"
+"Kurt Russell:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Guard:
+"
+"Cartman:
+"
+"Guard:
+"
+"Cartman:
+"
+"
+"
+"Snarf:
+"
+"Butters:
+"
+"Lollipop King:
+"
+"Perseus:
+"
+"Butters:
+"
+"Perseus:
+"
+"Lollipop King:
+"
+"Snarf:
+"
+"Perseus:
+"
+"Butters:
+"
+"Perseus:
+"
+"Snarf:
+"
+"Perseus:
+"
+"Butters:
+"
+"Perseus:
+"
+"Snarf:
+"
+"
+"
+"General:
+"
+"Lead tech:
+"
+"Operator:
+"
+"Tech 4:
+"
+"Lead tech:
+"
+"Tech 5:
+"
+"General:
+"
+"Lead tech:
+"
+"General:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Butters:
+"
+"Perseus:
+"
+"Lollipop King:
+"
+"
+"
+"Aslan:
+"
+"Zeus:
+"
+"Aslan:
+"
+"Morpheus:
+"
+"Glinda:
+"
+"Jesus:
+"
+"Luke Skywalker:
+"
+"Perseus:
+"
+"Aslan:
+"
+"
+"
+"Paramedic:
+"
+"Cartman:
+"
+"Paramedic:
+"
+"Cartman:
+"
+"Paramedic:
+"
+"Cartman:
+"
+"General:
+"
+"Cartman:
+"
+"Paramedic:
+"
+"Cartman:
+"
+"Paramedic:
+"
+"Cartman:
+"
+"
+"
+"Aslan:
+"
+"Zeus:
+"
+"Morpheus:
+"
+"Butters:
+"
+"Luke Skywalker:
+"
+"Butters:
+"
+"Aslan:
+"
+"
+"
+"Tom:
+"
+"General:
+"
+"
+"
+"Cartman:
+"
+"
+"

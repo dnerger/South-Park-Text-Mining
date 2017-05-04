@@ -1,0 +1,647 @@
+"x"
+"
+"
+"Cartman:
+"
+"A Hall Monitor:
+"
+"Cartman:
+"
+"Hall Monitor:
+"
+"Cartman:
+"
+"Hall Monitor:
+"
+"Cartman:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Car Salesman:
+"
+"Cartman:
+"
+"Boy:
+"
+"Cartman:
+"
+"Boy:
+"
+"Cartman:
+"
+"Boy:
+"
+"Cartman:
+"
+"Boy:
+"
+"Cartman:
+"
+"
+"
+"Teacher:
+"
+"Cartman:
+"
+"Teacher:
+"
+"Cartman:
+"
+"Teacher:
+"
+"Cartman:
+"
+"Fillmore:
+"
+"Class:
+"
+"Teacher:
+"
+"Ike:
+"
+"Teacher:
+"
+"
+"
+"REO Speedwagon:
+"
+"Teacher:
+"
+"Ike:
+"
+"
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"
+"
+"Sheila:
+"
+"Kyle:
+"
+"Sheila:
+"
+"Kyle:
+"
+"Sheila:
+"
+"
+"
+"Kyle:
+"
+"Teacher:
+"
+"Kyle:
+"
+"Teacher:
+"
+"Kyle:
+"
+"Teacher:
+"
+"Kyle:
+"
+"Ike:
+"
+"Teacher:
+"
+"Ike:
+"
+"Teacher:
+"
+"Kyle:
+"
+"Ike:
+"
+"Kyle:
+"
+"Ike:
+"
+"Kyle:
+"
+"Teacher:
+"
+"Kyle:
+"
+"
+"
+"Kyle:
+"
+"Sheila:
+"
+"Kyle:
+"
+"Sheila:
+"
+"Kyle:
+"
+"Ike:
+"
+"Sheila:
+"
+"Kyle:
+"
+"Ike:
+"
+"Sheila:
+"
+"Kyle:
+"
+"Sheila:
+"
+"
+"
+"Det. Yates:
+"
+"Foley:
+"
+"Kyle:
+"
+"Yates:
+"
+"Kyle:
+"
+"Yates:
+"
+"Kyle:
+"
+"Officer 1:
+"
+"Kyle:
+"
+"Officer 2:
+"
+"Kyle:
+"
+"Yates:
+"
+"Kyle:
+"
+"Officer 1:
+"
+"Kyle:
+"
+"Officer 1:
+"
+"Yates:
+"
+"Kyle:
+"
+"Officer 1:
+"
+"Kyle:
+"
+"Officer 3:
+"
+"Kyle:
+"
+"Officer 3:
+"
+"Officer 1:
+"
+"Officer 3:
+"
+"Yates:
+"
+"Officer 1:
+"
+"Kyle:
+"
+"Yates:
+"
+"Kyles:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Miss Stevenson:
+"
+"Ike:
+"
+"Miss Stevenson:
+"
+"Cartman:
+"
+"Miss Stevenson:
+"
+"Cartman:
+"
+"Miss Stevenson:
+"
+"Cartman:
+"
+"Miss Stevenson:
+"
+"Cartman:
+"
+"Miss Stevenson:
+"
+"Cartman:
+"
+"Miss Stevenson:
+"
+"Cartman:
+"
+"Miss Stevenson:
+"
+"
+"
+"Cartman:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Principal Victoria:
+"
+"Miss Stevenson:
+"
+"Cartman:
+"
+"
+"
+"Yates:
+"
+"Randy:
+"
+"Jimbo:
+"
+"Randy:
+"
+"Jimbo:
+"
+"Randy:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Kyle:
+"
+"Ike:
+"
+"Kyle:
+"
+"Ike:
+"
+"Kyle:
+"
+"Ike:
+"
+"
+"
+"Miss Stevenson:
+"
+"
+"
+"Reporter:
+"
+"Miss Stevenson:
+"
+"Man 1:
+"
+"Man 2:
+"
+"Miss Stevenson:
+"
+"Officer 4:
+"
+"
+"
+"Miss Stevenson:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Miss Stevenson:
+"
+"Yates:
+"
+"Officer 1:
+"
+"Yates:
+"
+"Man 3:
+"
+"Randy:
+"
+"Lawyer:
+"
+"Print Reporter:
+"
+"
+"
+"
+"
+"Therapist:
+"
+"Miss Stevenson:
+"
+"Therapist:
+"
+"Miss Stevenson:
+"
+"
+"
+"Miss Stevenson:
+"
+"Ike:
+"
+"Miss Stevenson:
+"
+"Ike:
+"
+"Miss Stevenson:
+"
+"
+"
+"Kyle:
+"
+"
+"
+"Yates:
+"
+"Foley:
+"
+"Sheila:
+"
+"Yates:
+"
+"Sheila:
+"
+"Yates:
+"
+"Sheila:
+"
+"Officer 3:
+"
+"Sheila:
+"
+"Yates:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Butters:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"
+"
+"Miss Stevenson:
+"
+"Ike:
+"
+"Miss Stevenson:
+"
+"
+"
+"Cartman:
+"
+"Leeroy:
+"
+"Cartman:
+"
+"Bellboy:
+"
+"Cartman:
+"
+"Receptionist:
+"
+"Cartman:
+"
+"Receptionist:
+"
+"Cartman:
+"
+"Head Concierge:
+"
+"Cartman:
+"
+"Bellboy:
+"
+"Guest 1:
+"
+"Cartman:
+"
+"Guest 2:
+"
+"Cartman:
+"
+"
+"
+"Miss Stevenson:
+"
+"Ike:
+"
+"Miss Stevenson:
+"
+"
+"
+"Officers:
+"
+"Officer 5:
+"
+"Receptionist:
+"
+"
+"
+"Leeroy:
+"
+"Kyle:
+"
+"Officer 6:
+"
+"
+"
+"Miss Stevenson:
+"
+"Earl:
+"
+"Cartman:
+"
+"Miss Stevenson:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Officer 7:
+"
+"Officer 8:
+"
+"Officer 9:
+"
+"Cartman:
+"
+"Officer 10:
+"
+"Officer 7:
+"
+"Miss Stevenson:
+"
+"Cartman:
+"
+"Leeroy:
+"
+"Miss Stevenson:
+"
+"Officer 7:
+"
+"Miss Stevenson:
+"
+"Kyle:
+"
+"Ike:
+"
+"Kyle:
+"
+"Miss Stevenson:
+"
+"Kyle:
+"
+"Miss Stevenson:
+"
+"Ike:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Officer 8:
+"
+"Cartman:
+"
+"
+"

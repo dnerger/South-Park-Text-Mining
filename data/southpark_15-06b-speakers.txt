@@ -1,0 +1,471 @@
+"x"
+"
+"
+"Butters:
+"
+"Cashier:
+"
+"Butters:
+"
+"Cashier:
+"
+"Butters:
+"
+"Tuong Lu Kim:
+"
+"Butters:
+"
+"Tuong Lu Kim:
+"
+"Butters:
+"
+"Tuong Lu Kim:
+"
+"Butters:
+"
+"Tuong Lu Kim:
+"
+"Butters:
+"
+"Tuong Lu Kim:
+"
+"
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"
+"
+"Steven:
+"
+"Sgt. Yates:
+"
+"Stephen:
+"
+"Sgt. Yates:
+"
+"Stephen:
+"
+"Butters:
+"
+"Stephen:
+"
+"Sgt. Yates:
+"
+"
+"
+"Stephen:
+"
+"Linda:
+"
+"Stephen:
+"
+"Linda:
+"
+"Stephen:
+"
+"
+"
+"Stephen:
+"
+"Dr. Janus:
+"
+"Linda:
+"
+"Dr. Janus:
+"
+"Linda:
+"
+"Dr. Janus:
+"
+"Linda:
+"
+"Stephen:
+"
+"Dr. Janus:
+"
+"
+"
+"Field Reporter:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"
+"
+"Linda:
+"
+"Butters :
+"
+"Linda:
+"
+"Stephen:
+"
+"Butters:
+"
+"Stephen:
+"
+"Butters:
+"
+"Stephen:
+"
+"Butters:
+"
+"Stephen:
+"
+"
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Customer:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Alias 1:
+"
+"Butters:
+"
+"Alias 1:
+"
+"Dr. Janus:
+"
+"Psycho Janus:
+"
+"Dr. Janus:
+"
+"Billy:
+"
+"Psycho Janus:
+"
+"Alias 2:
+"
+"Alias 3:
+"
+"Alias 4:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"
+"
+"Butters:
+"
+"Butters:
+"
+"Butters:
+"
+"Butters:
+"
+"Butters:
+"
+"Butters:
+"
+"
+"
+"Mr. Mackey:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"
+"
+"Dr. Janus:
+"
+"Sgt. Yates:
+"
+"Steven:
+"
+"Sgt. Yates:
+"
+"Steven:
+"
+"
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"
+"
+"Field Reporter:
+"
+"A Woman:
+"
+"Tuong Lu Kim:
+"
+"
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Dr. Janus:
+"
+"Butters:
+"
+"Tuong Lu Kim:
+"
+"
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"Tuong Lu Kim:
+"
+"Sgt. Yates:
+"
+"Tuong Lu Kim:
+"
+"Sgt. Yates:
+"
+"Mr. Takiyama:
+"
+"Sgt. Yates:
+"
+"Tuong Lu Kim:
+"
+"Sgt. Yates:
+"
+"Tuong Lu Kim:
+"
+"Mr. Takiyama:
+"
+"
+"
+"Steven:
+"
+"Sgt. Yates:
+"
+"Butters:
+"
+"Steven:
+"
+"Sgt. Yates:
+"
+"Steven:
+"
+"Sgt. Yates:
+"
+"Desk Officer:
+"
+"Black Officer:
+"
+"Sgt. Yates:
+"
+"Other Officers:
+"
+"Blond Officer:
+"
+"Sgt. Yates:
+"
+"Tuong Lu Kim:
+"
+"
+"

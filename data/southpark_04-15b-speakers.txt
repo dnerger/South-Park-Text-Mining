@@ -1,0 +1,749 @@
+"x"
+"
+"
+"Ms. Choksondik:
+"
+"Class:
+"
+"Bebe, New Kid:
+"
+"Ms. Choksondik:
+"
+"Wendy:
+"
+"Ms. Choksondik:
+"
+"Butters:
+"
+"Ms. Choksondik:
+"
+"Stan:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Stan:
+"
+"
+"
+"Phillip:
+"
+"Terrance:
+"
+"Phillip:
+"
+"Terrance:
+"
+"Phillip:
+"
+"Cartman:
+"
+"Phillip:
+"
+"Terrance:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"
+"
+"
+"
+"Cartman:
+"
+"Liane:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Dr. Doctor:
+"
+"Cartman:
+"
+"Mr. Garrison:
+"
+"Liane:
+"
+"Cartman:
+"
+"Dr. Doctor:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Liane:
+"
+"
+"
+"Ms. Choksondik:
+"
+"Principal Victoria:
+"
+"Ms. Choksondik:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Principal Victoria:
+"
+"Ms. Choksondik:
+"
+"
+"
+"Butters:
+"
+"Bebe:
+"
+"Kyle:
+"
+"Stan:
+"
+"Ms. Choksondik:
+"
+"
+"
+"Liane:
+"
+"Male Counselor:
+"
+"Liane:
+"
+"Male Counselor:
+"
+"Cartman:
+"
+"Rick:
+"
+"Liane:
+"
+"Cartman:
+"
+"Rick:
+"
+"
+"
+"Brunette:
+"
+"Cartman:
+"
+"Taller Boy
+"
+"Rick:
+"
+"Taller Boy:
+"
+"Rick:
+"
+"Pink Monster:
+"
+"Rick:
+"
+"Pink Monster:
+"
+"Rick:
+"
+"Pink Monster:
+"
+"Rick:
+"
+"Taller Boy:
+"
+"Rick:
+"
+"Taller Boy:
+"
+"Cartman:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Kids:
+"
+"Stan:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Clyde:
+"
+"Token:
+"
+"Butters:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kids around Kenny:
+"
+"Kids around Timmy:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Rick:
+"
+"Cartman:
+"
+"
+"
+"Rick:
+"
+"Cartman:
+"
+"Susan:
+"
+"Brunet Boy:
+"
+"Cartman:
+"
+"Blonde Girl:
+"
+"Cartman:
+"
+"Brunet Boy:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Driver:
+"
+"Cartman:
+"
+"Driver:
+"
+"Cartman:
+"
+"Boy 1:
+"
+"Cartman:
+"
+"Driver:
+"
+"
+"
+"Boy 1:
+"
+"Taller Boy:
+"
+"Rick:
+"
+"Sussan:
+"
+"Rick:
+"
+"Susan:
+"
+"Rick:
+"
+"Eric:
+"
+"
+"
+"Gerald:
+"
+"Mr. Garrison:
+"
+"Liane:
+"
+"Mr. Mackey:
+"
+"Stan:
+"
+"Liane:
+"
+"New Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Liane:
+"
+"Mr. Mackey:
+"
+"Principal Victoria:
+"
+"New Cartman:
+"
+"Kyle:
+"
+"New Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Announcer:
+"
+"Jesus:
+"
+"New Cartman:
+"
+"Jesus:
+"
+"New Cartman:
+"
+"Jesus:
+"
+"Kenny:
+"
+"Man 1:
+"
+"Man 2:
+"
+"Man 3:
+"
+"New Cartman:
+"
+"Jesus:
+"
+"Stan:
+"
+"Jesus:
+"
+"Kyle:
+"
+"Jesus:
+"
+"Man 4:
+"
+"Man 5:
+"
+"Man 6:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Chef:
+"
+"Stan, Kyle, Kenny:
+"
+"Stan:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"New Cartman:
+"
+"Chef:
+"
+"New Cartman:
+"
+"Stan:
+"
+"Chef:
+"
+"Stan:
+"
+"Kenny:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"James Taylor:
+"
+"Chef:
+"
+"Chef and James Taylor:
+"
+"Chef:
+"
+"
+"
+"New Cartman:
+"
+"Cartman:
+"
+"New Cartman:
+"
+"Cartman:
+"
+"New Cartman:
+"
+"Cartman:
+"
+"New Cartman:
+"
+"Cartman:
+"
+"New Cartman:
+"
+"Cartman:
+"
+"New Cartman:
+"
+"Cartman:
+"
+"
+"
+"Student 1:
+"
+"Student 2:
+"
+"Student 1:
+"
+"Other Students:
+"
+"Kenny:
+"
+"Student 1:
+"
+"Student 3:
+"
+"Student 2:
+"
+"
+"
+"Announcer:
+"
+"Kenny:
+"
+"Announcer:
+"
+"Man 1:
+"
+"Man 2:
+"
+"
+"
+"Audience:
+"
+"Stan:
+"
+"New Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"New Cartman:
+"
+"
+"
+"Rick:
+"
+"Susan:
+"
+"Rick:
+"
+"Susan:
+"
+"Rick:
+"
+"Susan:
+"
+"Cartman:
+"
+"Blonde Girl:
+"
+"Cartman:
+"
+"Chad:
+"
+"Cartman:
+"
+"Chad:
+"
+"Cartman:
+"
+"
+"
+"Announcer:
+"
+"
+"
+"Howard Stern:
+"
+"Tom Green:
+"
+"Howard Stern:
+"
+"Johnny Knoxville:
+"
+"Howard Stern:
+"
+"Tom Green:
+"
+"Johnny Knoxville:
+"
+"Kenny:
+"
+"Howard Stern:
+"
+"Tom Green:
+"
+"Johnny Knoxville:
+"
+"Tom Green:
+"
+"Kenny:
+"
+"Howard Stern:
+"
+"Tom Green:
+"
+"Johnny Knoxville:
+"
+"Howard Stern:
+"
+"
+"
+"Rick:
+"
+"Campers:
+"
+"Rick...
+"
+"Campers:
+"
+"Rick:
+"
+"Campers:
+"
+"Rick...
+"
+"Campers:
+"
+"Susan:
+"
+"Mr. Sanders:
+"
+"Rick:
+"
+"Susan:
+"
+"Rick:
+"
+"Mr. Sanders:
+"
+"Rick:
+"
+"Mr. Sanders:
+"
+"Susan:
+"
+"Mr. Sanders:
+"
+"Mrs. Sanders:
+"
+"Mr. Sanders:
+"
+"Horace:
+"
+"Mr. Sanders:
+"
+"Horace:
+"
+"Susan:
+"
+"
+"
+"Kyle:
+"
+"Ms. Crabtree:
+"
+"Kyle:
+"
+"Ms. Crabtree:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Butters:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"New Cartman:
+"
+"Kyle:
+"
+"New Cartman:
+"
+"
+"
+"Announcer:
+"
+"Ms. Crabtree:
+"
+"Audience:
+"
+"Announcer:
+"
+"
+"
+"Kyle:
+"
+"New Kenny:
+"
+"Kyle:
+"
+"New Kenny:
+"
+"Stan:
+"
+"New Kenny:
+"
+"
+"
+"Announcer:
+"
+"Mrs. McCormick:
+"
+"
+"
+"Rick:
+"
+"Chad's Dad:
+"
+"Rick:
+"
+"Susan:
+"
+"Alice:
+"
+"Rick:
+"
+"Cartman:
+"
+"Chad:
+"
+"Cartman:
+"
+"Horace:
+"
+"Other campers:
+"
+"Horace:
+"
+"Girl:
+"
+"Other campers:
+"
+"Horace:
+"
+"Rick:
+"
+"Mr. Sanders:
+"
+"Cartman:
+"
+"Susan:
+"
+"Campers:
+"
+"Cartman:
+"
+"Rick:
+"
+"Cartman:
+"
+"
+"
+"Audience:
+"
+"Announcer:
+"
+"Audience:
+"
+"Dr. Doctor:
+"
+"Ms. Crabtree:
+"
+"Stan:
+"
+"Kyle:
+"
+"Announcer:
+"
+"
+"

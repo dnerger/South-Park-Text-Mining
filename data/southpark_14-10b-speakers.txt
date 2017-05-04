@@ -1,0 +1,703 @@
+"x"
+"
+"
+"Cartman:
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"
+"
+"Red:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"
+"
+"An Expert:
+"
+"Stan:
+"
+"Dr. Chinstrap:
+"
+"Stan:
+"
+"Dr. Chinstrap:
+"
+"Stan:
+"
+"Dr. Chinstrap:
+"
+"Stan:
+"
+"Dr. Chinstrap:
+"
+"Stan:
+"
+"Dr. Chinstrap:
+"
+"Class:
+"
+"Stan:
+"
+"Dr. Chinstrap:
+"
+"Stan:
+"
+"Dr. Chinstrap:
+"
+"Stan:
+"
+"Dr. Chinstrap:
+"
+"Stan:
+"
+"Dr. Chinstrap:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Mr. Mackey:
+"
+"Stan:
+"
+"Mr. Mackey:
+"
+"Stan:
+"
+"Mr. Mackey:
+"
+"Stan:
+"
+"Mr. Mackey:
+"
+"Stan:
+"
+"Mr. Mackey:
+"
+"
+"
+"Dr. Chinstrap:
+"
+"Principal Victoria:
+"
+"Sharon:
+"
+"Dr. Chinstrap:
+"
+"Sharon:
+"
+"Dr. Chinstrap:
+"
+"Randy:
+"
+"Dr. Chinstrap:
+"
+"
+"
+"Sgt. Yates:
+"
+"Mr. Yelman:
+"
+"Dr. Chinstrap:
+"
+"
+"
+"Partner:
+"
+"Dr. Chinstrap:
+"
+"Mr. Yelman:
+"
+"Dr. Chinstrap:
+"
+"Mr. Yelman:
+"
+"Dr. Chinstrap:
+"
+"Mr. Yelman:
+"
+"Dr. Chinstrap:
+"
+"Mr. Mackey:
+"
+"Dr. Chinstrap:
+"
+"Mr. Mackey:
+"
+"Mr. Yelman:
+"
+"Dr. Chinstrap:
+"
+"Mr. Mackey:
+"
+"Dr. Chinstrap:
+"
+"Mr. Mackey:
+"
+"
+"
+"Billy:
+"
+"Mackey:
+"
+"Billy:
+"
+"Mackey:
+"
+"Billy:
+"
+"Mackey:
+"
+"Billy:
+"
+"Mackey:
+"
+"Stan:
+"
+"Mackey:
+"
+"Mr. Yelman:
+"
+"Mackey:
+"
+"Stan:
+"
+"
+"
+"Dr. Chinstrap:
+"
+"Partner:
+"
+"Dr. Chinstrap:
+"
+"Randy:
+"
+"Dr. Chinstrap:
+"
+"Randy:
+"
+"Partner:
+"
+"Randy:
+"
+"Dr. Chinstrap:
+"
+"Pinkerton:
+"
+"
+"
+"Mackey:
+"
+"Stan:
+"
+"Mackey:
+"
+"Stan:
+"
+"Mackey:
+"
+"Stan:
+"
+"Mackey:
+"
+"Stan:
+"
+"Mackey:
+"
+"Mr. Yelman:
+"
+"Stan:
+"
+"Mackey:
+"
+"Stan:
+"
+"Billy:
+"
+"Mackey:
+"
+"Billy:
+"
+"Mackey:
+"
+"Stan:
+"
+"Mackey:
+"
+"
+"
+"Stan:
+"
+"Mr. Mackey:
+"
+"
+"
+"Randy:
+"
+"Dr. Chinstrap:
+"
+"Randy:
+"
+"Dr. Chinstrap:
+"
+"Randy:
+"
+"Dr. Chinstrap:
+"
+"Randy:
+"
+"Dr. Chinstrap:
+"
+"Randy:
+"
+"Dr. Chinstrap:
+"
+"Randy:
+"
+"
+"
+"Bus Driver:
+"
+"Stan:
+"
+"Mackey:
+"
+"Billy:
+"
+"Mackey:
+"
+"Stan:
+"
+"Bus Driver:
+"
+"Mr. Yelman:
+"
+"Driver:
+"
+"Mr. Yelman:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"
+"
+"Randy:
+"
+"Stan:
+"
+"
+"
+"Pinkerton:
+"
+"Dr. Chinstrap:
+"
+"Pinkerton:
+"
+"Sharon:
+"
+"Pinkerton:
+"
+"Dr. Chinstrap:
+"
+"Sharon:
+"
+"Leonardo DiCaprio:
+"
+"Dr. Chinstrap:
+"
+"DiCaprio:
+"
+"Dr. Chinstrap:
+"
+"Expert 1:
+"
+"Sharon:
+"
+"DiCaprio:
+"
+"Sharon:
+"
+"Expert 1:
+"
+"Sharon:
+"
+"Expert 2:
+"
+"Sharon:
+"
+"Expert 3:
+"
+"Sharon:
+"
+"Expert 1:
+"
+"Sharon:
+"
+"Expert 1:
+"
+"Sharon:
+"
+"Expert 4:
+"
+"Expert 1:
+"
+"Sharon:
+"
+"Expert 1:
+"
+"Sharon:
+"
+"DiCaprio:
+"
+"Sharon:
+"
+"Hasselback:
+"
+"Sharon:
+"
+"DiCaprio:
+"
+"Sharon:
+"
+"DiCaprio:
+"
+"Expert 1:
+"
+"Sharon:
+"
+"DiCaprio:
+"
+"Sharon:
+"
+"Dr. Chinstrap:
+"
+"Sharon:
+"
+"Dr. Chinstrap:
+"
+"
+"
+"Ranger Pete:
+"
+"Class:
+"
+"Mackey:
+"
+"Ranger Pete:
+"
+"Mackey:
+"
+"Ranger Pete:
+"
+"Mackey:
+"
+"Stan:
+"
+"Mackey:
+"
+"Woodsy Owl:
+"
+"Mackey:
+"
+"Ranger Pete:
+"
+"Billy:
+"
+"Mackey:
+"
+"Ranger Pete:
+"
+"Mackey:
+"
+"DiCaprio:
+"
+"Expert 2:
+"
+"DiCaprio:
+"
+"Stan:
+"
+"
+"
+"An Expert:
+"
+"
+"
+"Fire Captain:
+"
+"Dr. Chinstrap:
+"
+"Fireman 1:
+"
+"Pinkerton:
+"
+"Fireman 1:
+"
+"Fire Captain:
+"
+"Pinkerton:
+"
+"Fire Captain:
+"
+"Pinkerton:
+"
+"Pizza Man:
+"
+"Pinkerton:
+"
+"Dr. Chinstrap:
+"
+"Pizza Man:
+"
+"Pinkerton:
+"
+"Dr. Chinstrap:
+"
+"
+"
+"Mackey:
+"
+"Stan:
+"
+"Mackey:
+"
+"Stan:
+"
+"Mackey:
+"
+"Billy:
+"
+"Mackey:
+"
+"Stan:
+"
+"Mr. Yelman:
+"
+"Stan:
+"
+"Mackey:
+"
+"
+"
+"Pizza Man:
+"
+"Pinkerton:
+"
+"Dr. Chinstrap:
+"
+"Pinkerton:
+"
+"Dr. Chinstrap:
+"
+"Pinkerton:
+"
+"
+"
+"Dr. Chinstrap:
+"
+"Freddy Krueger:
+"
+"Dr. Chinstrap:
+"
+"Freddy Krueger:
+"
+"Dr. Chinstrap:
+"
+"Freddy Krueger:
+"
+"Woman:
+"
+"Freddy Krueger:
+"
+"Dr. Chinstrap:
+"
+"Freddy Krueger:
+"
+"Dr. Chinstrap:
+"
+"Freddy Krueger:
+"
+"Dr. Chinstrap:
+"
+"Freddy Krueger:
+"
+"Dr. Chinstrap:
+"
+"Freddy Krueger:
+"
+"Dr. Chinstrap:
+"
+"Freddy Krueger:
+"
+"
+"
+"Mackey:
+"
+"Billy:
+"
+"Stan:
+"
+"Mackey:
+"
+"Billy:
+"
+"DiCaprio:
+"
+"Stan:
+"
+"Expert 2:
+"
+"Fire Captain:
+"
+"Stan:
+"
+"DiCaprio:
+"
+"Stan:
+"
+"Expert 1:
+"
+"Expert 2:
+"
+"Stan:
+"
+"Expert 2:
+"
+"Mackey:
+"
+"Expert 2:
+"
+"Mackey:
+"
+"Real Mackey:
+"
+"Mackey:
+"
+"Fire Captain:
+"
+"Expert 2:
+"
+"Fire Captain:
+"
+"DiCaprio:
+"
+"Mackey:
+"
+"Stan:
+"
+"Expert 1:
+"
+"Freddy Krueger:
+"
+"Mackey:
+"
+"
+"
+"Dr. Chinstrap:
+"
+"Pinkerton:
+"
+"
+"
+"Dr. Chinstrap:
+"
+"Randy:
+"
+"Fire Captain:
+"
+"Freddy Krueger:
+"
+"Dr. Chinstrap:
+"
+"Mr. Mackey:
+"
+"DiCaprio:
+"
+"Mr. Mackey:
+"
+"Fire Captain:
+"
+"Pinkerton:
+"
+"Dr. Chinstrap:
+"
+"Stan:
+"
+"
+"
+"Wendy:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"

@@ -1,0 +1,60 @@
+"x"
+" Stan Marsh
+"
+" Kyle Broflovski
+"
+" Kenny McCormick
+"
+" Eric Cartman
+"
+" Ike Broflovski
+"
+" Sheila Broflovski
+"
+" Gerald Broflovski
+"
+" Mr. Hankey
+"
+" Autumn
+"
+" Cornwallis
+"
+" Amber
+"
+" Simon
+"
+" Red Harris
+"
+" Mayor McDaniels
+"
+" Johnson
+"
+" Charlie Brown
+ Lucy
+ Linus
+ Snoopy
+"
+" Lucy
+"
+" Linus
+"
+" Snoopy
+"
+" Butters Stotch
+"
+" Sound Man
+"
+" Sharon Marsh
+"
+" Randy Marsh
+"
+" Grandpa Marvin Marsh
+"
+" Mr. Mackey
+"
+" Ms. Choksondik
+"
+" News Anchor
+"
+" Various Townfolk
+"

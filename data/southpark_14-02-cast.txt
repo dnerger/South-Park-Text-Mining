@@ -1,0 +1,67 @@
+"x"
+" Stan Marsh
+"
+" Kyle Broflovski
+"
+" Eric Cartman
+"
+" Kenny McCormick
+"
+" Butters Stotch
+"
+" Mr. Garrison
+"
+" Sharon Marsh
+"
+" Randy Marsh
+"
+" Stephen Stotch
+"
+" Kim Kardashian
+"
+" Shelia Broflovski
+"
+" Gerald Broflovski
+"
+" Mr. Needlebaum
+"
+" Mr. Adler
+"
+" Mrs. Streibel
+"
+" Red
+"
+" Lola
+"
+" A News Anchor
+"
+" Matt Lauer
+"
+" Linda Stotch
+"
+" Meredith Vieira
+"
+" Al Roker
+"
+" Matthew Broderick
+"
+" An Announcer
+"
+" Assemblymen 1-4
+"
+" Assemblywomen 1-2
+"
+" A Field Reporter
+"
+" Morgan Freeman
+"
+" Shoppers 1-7
+"
+" Some Woman Named Marsha
+"
+" The rest of the Kardashians
+"
+" Some Guy
+"
+" Another News Anchor
+"

@@ -1,0 +1,799 @@
+"x"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan and Kenny:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"Randy:
+"
+"Sam:
+"
+"Colleague 1:
+"
+"Colleague 2:
+"
+"Sam:
+"
+"Randy:
+"
+"Colleague 2:
+"
+"Randy:
+"
+"Sam:
+"
+"
+"
+"Kyle:
+"
+"Butters:
+"
+"Kyle:
+"
+"Mr. Garrison:
+"
+"
+"
+"Cop:
+"
+"Mr. Garrison:
+"
+"Mitchell:
+"
+"Jimbo:
+"
+"Randy:
+"
+"Frank:
+"
+"
+"
+"Frank:
+"
+"Cartman:
+"
+"Stan:
+"
+"Mitchell:
+"
+"
+"
+"Frank:
+"
+"Mitchell:
+"
+"
+"
+"Frank:
+"
+"Sheila:
+"
+"
+"
+"Mitchell:
+"
+"Frank:
+"
+"
+"
+"Mitchell:
+"
+"Frank:
+"
+"
+"
+"Frank:
+"
+"Announcer:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan and Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Mitchell:
+"
+"Frank:
+"
+"Mitchell:
+"
+"Frank:
+"
+"Mitchell:
+"
+"Bar Patrons:
+"
+"
+"
+"The Boys:
+"
+"
+"
+"Chef and Principle Victoria:
+"
+"
+"
+"Old Folks:
+"
+"
+"
+"
+"
+"Jimbo:
+"
+"
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"Anchor Tom:
+"
+"Rick Watts:
+"
+"Tom:
+"
+"
+"
+"Ms. Choksondik:
+"
+"Stan:
+"
+"Kyle:
+"
+"Ms. Choksondik:
+"
+"Cartman:
+"
+"Ms. Choksondik:
+"
+"Cartman:
+"
+"Stan:
+"
+"Ms. Choksondik:
+"
+"Timmy:
+"
+"Ms. Choksondik:
+"
+"Butters:
+"
+"Ms. Choksondik:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Ms. Choksondik:
+"
+"
+"
+"Mr. Garrison:
+"
+"Filmore:
+"
+"Mr. Garrison:
+"
+"Kindergartners:
+"
+"Mr. Garrison:
+"
+"
+"
+"Elderly Woman:
+"
+"Elderly Man:
+"
+"Principal Victoria:
+"
+"Mr. Mackey:
+"
+"Man:
+"
+"Peter:
+"
+"Woman 1:
+"
+"Woman 2:
+"
+"Barbardy:
+"
+"Man 1:
+"
+"Woman 3:
+"
+"Man 2:
+"
+"Man 3:
+"
+"Woman 4:
+"
+"
+"
+"Man 4:
+"
+"Man 5:
+"
+"
+"
+"
+"
+"Mr. Garrison:
+"
+"Man 6:
+"
+"Mr. Garrison:
+"
+"Man 6:
+"
+"Mr. Garrison:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"HBC President:
+"
+"Director 1:
+"
+"Director 2:
+"
+"HBC President:
+"
+"Director 3:
+"
+"Director 4:
+"
+"Director 1:
+"
+"Director 3:
+"
+"Director 5:
+"
+"HBC President:
+"
+"Director 3:
+"
+"Director 4:
+"
+"Director 6:
+"
+"Director 3:
+"
+"HBC President:
+"
+"All:
+"
+"
+"
+"Chef:
+"
+"The Boys:
+"
+"Kyle:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"The Boys:
+"
+"Chef:
+"
+"
+"
+"Chef:
+"
+"Kyle:
+"
+"Librarian:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Stan:
+"
+"Kyle:
+"
+"Chef:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Librarian:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Chef:
+"
+"
+"
+"Captain:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"Director 5:
+"
+"Director 1:
+"
+"HBC President:
+"
+"Director 1:
+"
+"Director 2:
+"
+"HBC President:
+"
+"Chef:
+"
+"HBC President:
+"
+"Chef:
+"
+"HBC President:
+"
+"Director 1:
+"
+"Director 2:
+"
+"HBC President:
+"
+"Chef:
+"
+"HBC President:
+"
+"Chef:
+"
+"Kyle:
+"
+"Director 4:
+"
+"Kyle:
+"
+"HBC President:
+"
+"Kyle:
+"
+"HBC President:
+"
+"Cartman:
+"
+"
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Lead Knight:
+"
+"Stan:
+"
+"Lead Knight:
+"
+"
+"
+"HBC President:
+"
+"Lead Knight:
+"
+"Executives:
+"
+"Lead Knight:
+"
+"HBC President:
+"
+"Lead Knight:
+"
+"HBC President:
+"
+"Lead Knight:
+"
+"HBC President:
+"
+"Lead Knight:
+"
+"
+"
+"Chef:
+"
+"Lead Knight:
+"
+"Stan:
+"
+"Lead Knight:
+"
+"Kyle:
+"
+"Chef:
+"
+"
+"
+"Announcer:
+"
+"Barker:
+"
+"Chef:
+"
+"Barker:
+"
+"Kyle:
+"
+"Barker:
+"
+"Stan:
+"
+"Barker:
+"
+"Stan:
+"
+"Barker:
+"
+"Chef:
+"
+"Barker:
+"
+"Stan:
+"
+"Barker:
+"
+"
+"
+"Announcer:
+"
+"
+"
+"Drew:
+"
+"Mimi:
+"
+"HBC President:
+"
+"
+"
+"Waitress:
+"
+"Barker:
+"
+"Waitress:
+"
+"
+"
+"Barker:
+"
+"Chef:
+"
+"Barker:
+"
+"Stan:
+"
+"Barker:
+"
+"
+"
+"Sorcerer:
+"
+"Chef:
+"
+"Barker:
+"
+"Sorcerer:
+"
+"Chef:
+"
+"Sorcerer:
+"
+"
+"
+"Mimi:
+"
+"Drew:
+"
+"Randy:
+"
+"Man 7:
+"
+"Mr. Garrison:
+"
+"Randy:
+"
+"Mr. Garrison:
+"
+"Man 7:
+"
+"Mr. Garrison:
+"
+"Jimbo:
+"
+"Randy:
+"
+"Jimbo:
+"
+"Mr. Garrison:
+"
+"Drew:
+"
+"
+"
+"Mimi:
+"
+"Drew:
+"
+"Lead Knight:
+"
+"HBC President:
+"
+"Mimi:
+"
+"
+"
+"Mr. Garrison:
+"
+"
+"
+"Sorcerer:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Sorcerer:
+"
+"Stan:
+"
+"Cartman:
+"
+"Chef:
+"
+"Sorcerer:
+"
+"Chef:
+"
+"Sorcerer:
+"
+"
+"
+"Blond Knight:
+"
+"HBC President:
+"
+"Blond Knight:
+"
+"Bald Knight:
+"
+"HBC President:
+"
+"
+"
+"Announcer:
+"
+"
+"
+"Lead Knight:
+"
+"Director 1:
+"
+"HBC President:
+"
+"
+"
+"Randy:
+"
+"
+"
+"Kyle:
+"
+"Cartman:
+"
+"Lead Knight:
+"
+"Geldon:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Kyle:
+"
+"Ike:
+"
+"Sheila:
+"
+"Gerald:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"
+"
+"The men:
+"
+"Randy:
+"
+"Colleague 1:
+"
+"Mr. Garrison:
+"
+"
+"
+"HBC President:
+"
+"Blond Knight:
+"
+"Chef:
+"
+"Stan:
+"
+"Kenny:
+"
+"Stan:
+"
+"Cartman:
+"
+"
+"

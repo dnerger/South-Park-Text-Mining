@@ -1,0 +1,543 @@
+"x"
+"
+"
+"Group:
+"
+"Cartman:
+"
+"Coach:
+"
+"Cartman:
+"
+"Coach:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Stan:
+"
+"
+"
+"Randy:
+"
+"Customer:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Randy:
+"
+"
+"
+"Clerk:
+"
+"Randy:
+"
+"Clerk:
+"
+"Randy:
+"
+"Clerk:
+"
+"Randy:
+"
+"Clerk:
+"
+"Randy:
+"
+"Clerk:
+"
+"Randy:
+"
+"
+"
+"Stan:
+"
+"Randy:
+"
+"Cartman:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Dr. Doctor:
+"
+"Randy:
+"
+"Dr. Doctor:
+"
+"Randy:
+"
+"Dr. Doctor:
+"
+"Randy:
+"
+"Dr. Doctor:
+"
+"Randy:
+"
+"Dr. Doctor:
+"
+"Randy:
+"
+"Dr. Doctor:
+"
+"Randy:
+"
+"Dr. Doctor:
+"
+"Randy:
+"
+"
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Worker 1:
+"
+"Cartman:
+"
+"Worker 1:
+"
+"Cartman:
+"
+"Worker 2:
+"
+"Cartman:
+"
+"
+"
+"Stan:
+"
+"Randy:
+"
+"
+"
+"Clerk 2:
+"
+"Cartman:
+"
+"Clerk 2:
+"
+"Cartman:
+"
+"Clerk 2:
+"
+"Cartman:
+"
+"Clerk 2:
+"
+"Cartman:
+"
+"Clerk 2:
+"
+"Cartman:
+"
+"
+"
+"Randy:
+"
+"
+"
+"Randy:
+"
+"Sharon:
+"
+"
+"
+"Dr. Doctor:
+"
+"Randy:
+"
+"Dr. Doctor:
+"
+"Randy:
+"
+"Dr. Doctor:
+"
+"
+"
+"Randy:
+"
+"
+"
+"Randy:
+"
+"
+"
+"Randy:
+"
+"Jimbo:
+"
+"Randy:
+"
+"Jimbo:
+"
+"Randy:
+"
+"
+"
+"Tough Boy 1:
+"
+"Cartman:
+"
+"Tough Boy 1:
+"
+"Cartman:
+"
+"
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"
+"
+"Randy:
+"
+"
+"
+"
+"
+"Cartman:
+"
+"Teabag:
+"
+"Cartman:
+"
+"Teabag:
+"
+"Cartman:
+"
+"Teabag:
+"
+"Cartman:
+"
+"Teabag:
+"
+"Cartman:
+"
+"Teabag:
+"
+"Cartman:
+"
+"Teabag:
+"
+"Cartman:
+"
+"Teabag:
+"
+"Barbrady:
+"
+"Cartman:
+"
+"
+"
+"Jimbo:
+"
+"Randy:
+"
+"Nelson:
+"
+"Randy:
+"
+"Player 1:
+"
+"Player 2:
+"
+"Randy:
+"
+"Nelson:
+"
+"Randy:
+"
+"Woman 1:
+"
+"Randy:
+"
+"
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"
+"
+"Nurse:
+"
+"Dr. Doctor:
+"
+"Nurse:
+"
+"Dr. Doctor:
+"
+"
+"
+"Jimbo:
+"
+"Player 3:
+"
+"
+"
+"Randy:
+"
+"Woman 2:
+"
+"Woman 3:
+"
+"Woman 2:
+"
+"
+"
+"The Colonel:
+"
+"Tommy:
+"
+"Cartman:
+"
+"The Colonel:
+"
+"The Colonel:
+"
+"Cartman:
+"
+"The Colonel:
+"
+"Cartman:
+"
+"The Colonel:
+"
+"Cartman:
+"
+"The Colonel:
+"
+"
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"
+"
+"Randy:
+"
+"Clerk:
+"
+"Randy:
+"
+"Clerk:
+"
+"
+"
+"Randy:
+"
+"
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy:
+"
+"Cartman:
+"
+"Billy's Mom:
+"
+"Cartman:
+"
+"
+"
+"Randy:
+"
+"Men:
+"
+"Randy:
+"
+"Men:
+"
+"Randy:
+"
+"Men:
+"
+"Randy:
+"
+"Men:
+"
+"Clerk:
+"
+"Man 1:
+"
+"Man 2:
+"
+"Clerk:
+"
+"Man 3:
+"
+"Dr. Doctor:
+"
+"
+"
+"Tough Boy 2:
+"
+"Cartman:
+"
+"Tough Boy 3:
+"
+"Cartman:
+"
+"The Colonel:
+"
+"Cartman:
+"
+"The Colonel:
+"
+"Cartman:
+"
+"The Colonel:
+"
+"Cartman:
+"
+"The Colonel:
+"
+"Cartman:
+"
+"The Colonel:
+"
+"Cartman:
+"
+"The Colonel:
+"
+"Cartman:
+"
+"The Colonel:
+"
+"Cartman:
+"
+"Barbrady:
+"
+"Henchman:
+"
+"Billy's Mom:
+"
+"Billy:
+"
+"
+"
+"Barbrady:
+"
+"Dr. Doctor:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Woman 4:
+"
+"Sharon:
+"
+"Woman 5:
+"
+"
+"

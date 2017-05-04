@@ -1,0 +1,575 @@
+"x"
+"
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Butters:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Clyde:
+"
+"Cartman:
+"
+"Nurse Bronski:
+"
+"Mrs. Melman:
+"
+"Stan:
+"
+"Nurse Bronski:
+"
+"Craig:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Butters:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Mr. Adler:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Butters:
+"
+"Cartman:
+"
+"Jenny:
+"
+"Cartman:
+"
+"Jenny:
+"
+"Cartman:
+"
+"Jenny:
+"
+"Cartman:
+"
+"Jenny:
+"
+"Cartman:
+"
+"Jenny:
+"
+"
+"
+"Mr. Garrison:
+"
+"Jenny:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Jenny:
+"
+"Cartman:
+"
+"Mr. Garrison:
+"
+"Jenny:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Jenny:
+"
+"Cartman:
+"
+"Jenny:
+"
+"Class:
+"
+"Cartman:
+"
+"Kids:
+"
+"Butters:
+"
+"Cartman:
+"
+"Timmy:
+"
+"
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"The three adults:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Craig:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Craig:
+"
+"Stan:
+"
+"Craig:
+"
+"Stan:
+"
+"Kenny:
+"
+"Stan:
+"
+"Kenny:
+"
+"Stan:
+"
+"Kenny:
+"
+"Stan:
+"
+"Wendy:
+"
+"Kenny:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Craig:
+"
+"Stan:
+"
+"Craig:
+"
+"Kyle:
+"
+"Craig:
+"
+"Kyle:
+"
+"Stan:
+"
+"Wendy:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Craig:
+"
+"Kyle:
+"
+"Stan:
+"
+"Token:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Frog King:
+"
+"Singer:
+"
+"Frog King:
+"
+"Singer:
+"
+"
+"
+"Girl 1:
+"
+"Girl 2:
+"
+"Emily:
+"
+"Girl 2:
+"
+"Emily:
+"
+"Stan:
+"
+"
+"
+"Stan:
+"
+"
+"
+"Boy 1:
+"
+"Butters:
+"
+"
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Selena Gomez:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Principal Victoria:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"
+"
+"Frog King:
+"
+"Sparrow Prince:
+"
+"Frog King:
+"
+"Sparrow Prince:
+"
+"Frog King:
+"
+"
+"
+"Stan:
+"
+"Butters:
+"
+"Craig:
+"
+"Catatafish:
+"
+"Singers:
+"
+"Kyle:
+"
+"Catatafish:
+"
+"Stan:
+"
+"Kyle:
+"
+"Catatafish:
+"
+"Singers:
+"
+"Stan:
+"
+"Catatafish:
+"
+"Singers:
+"
+"Catatafish:
+"
+"Kyle:
+"
+"Catatafish:
+"
+"
+"
+"Principal Victoria:
+"
+"Mr. Mackey:
+"
+"Mr. Adler:
+"
+"Principal Victoria:
+"
+"Mr. Mackey:
+"
+"Mr. Adler:
+"
+"Mr. Mackey:
+"
+"Principal Victoria:
+"
+"Mr. Mackey:
+"
+"Principal Victoria:
+"
+"Mr. Adler:
+"
+"Mr. Mackey:
+"
+"Mr. Adler:
+"
+"Mr. Mackey:
+"
+"
+"
+"Mother:
+"
+"Stan:
+"
+"Mother:
+"
+"Stan:
+"
+"Catatafish:
+"
+"
+"
+"Butters:
+"
+"Stan:
+"
+"Kyle:
+"
+"Vernon:
+"
+"Stan:
+"
+"Vernon:
+"
+"Stan:
+"
+"Vernon:
+"
+"Frog King:
+"
+"Kyle:
+"
+"Vernon:
+"
+"Singers:
+"
+"Frog King:
+"
+"Stan:
+"
+"
+"
+"Singers:
+"
+"Stan:
+"
+"Butters:
+"
+"Singers:
+"
+"Stan:
+"
+"Craig:
+"
+"Frog King:
+"
+"Singers:
+"
+"
+"
+"Kyle:
+"
+"Mr. Mackey:
+"
+"Stan:
+"
+"Mr. Mackey:
+"
+"Sparrow Prince:
+"
+"
+"
+"Singers:
+"
+"Frog King:
+"
+"
+"
+"Singers:
+"
+"
+"
+"Stan:
+"
+"Singers:
+"
+"Frog King:
+"
+"
+"
+"Frog King:
+"
+"Butters:
+"
+"Frog King:
+"
+"Mr. Mackey:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Frog King:
+"
+"Sparrow Prince:
+"
+"Catatafish:
+"
+"Frog King:
+"
+"Sparrow Prince:
+"
+"
+"

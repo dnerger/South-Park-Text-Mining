@@ -1,0 +1,517 @@
+"x"
+"
+"
+"Editor:
+"
+"Stan:
+"
+"Mr. Jarvis:
+"
+"Stan:
+"
+"Mr. Jarvis:
+"
+"Stan:
+"
+"Mr. Jarvis:
+"
+"Stan:
+"
+"
+"
+"Stan:
+"
+"Driver:
+"
+"Stan:
+"
+"Driver:
+"
+"Stan:
+"
+"Driver:
+"
+"Stan:
+"
+"
+"
+"Judge:
+"
+"Stan:
+"
+"Judge:
+"
+"Stan:
+"
+"Judge:
+"
+"Stan:
+"
+"Judge:
+"
+"Stan:
+"
+"Judge:
+"
+"Stan:
+"
+"Judge:
+"
+"Stan:
+"
+"Judge:
+"
+"
+"
+"Stan:
+"
+"# 10:
+"
+"Stan:
+"
+"# 8:
+"
+"Stan:
+"
+"# 8:
+"
+"Stan:
+"
+"# 7:
+"
+"Stan:
+"
+"# 15:
+"
+"# 3:
+"
+"# 6:
+"
+"Stan:
+"
+"# 13:
+"
+"Stan:
+"
+"# 13:
+"
+"Stan:
+"
+"# 3:
+"
+"Stan:
+"
+"# 8:
+"
+"# 13:
+"
+"Stan:
+"
+"# 13:
+"
+"# 7:
+"
+"Stan:
+"
+"# 10:
+"
+"Stan:
+"
+"Coach:
+"
+"# 7:
+"
+"Coach:
+"
+"Stan:
+"
+"Gavin:
+"
+"# 7:
+"
+"Park County:
+"
+"Gavin:
+"
+"Adams County:
+"
+"# 6:
+"
+"
+"
+"Stan:
+"
+"Sharon:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Sharon:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"
+"
+"Announcer:
+"
+"Denver Goalie:
+"
+"Announcer:
+"
+"Crowd:
+"
+"Randy:
+"
+"Announcer:
+"
+"Kyle:
+"
+"Randy:
+"
+"Announcer:
+"
+"
+"
+"Sharon:
+"
+"Randy:
+"
+"
+"
+"Stan:
+"
+"A Man:
+"
+"Woman:
+"
+"Stan:
+"
+"Mr. Brown:
+"
+"Stan:
+"
+"Mr. Brown:
+"
+"Mrs. Brown:
+"
+"Mr. Brown:
+"
+"Stan:
+"
+"Mr. Brown:
+"
+"Stan:
+"
+"Mr. Brown:
+"
+"Mrs. Brown:
+"
+"Mr. Brown:
+"
+"
+"
+"
+"
+"Stan:
+"
+"Nelson:
+"
+"Stan:
+"
+"Nelson:
+"
+"Stan:
+"
+"Nelson:
+"
+"Stan:
+"
+"Nelson:
+"
+"Stan:
+"
+"Nelson:
+"
+"Stan:
+"
+"Nelson:
+"
+"Stan:
+"
+"Nelson:
+"
+"Stan:
+"
+"Nelson:
+"
+"Stan:
+"
+"Judge:
+"
+"
+"
+"Announcer:
+"
+"Adams County:
+"
+"Stan:
+"
+"Gavin:
+"
+"Stan:
+"
+"Gavin:
+"
+"Adams County:
+"
+"
+"
+"Stan:
+"
+"# 6:
+"
+"# 7:
+"
+"# 3:
+"
+"Stan:
+"
+"# 7:
+"
+"# 13:
+"
+"# 15:
+"
+"# 8:
+"
+"# 6:
+"
+"
+"
+"# 7:
+"
+"Gavin:
+"
+"
+"
+"Stan:
+"
+"
+"
+"Gavin:
+"
+"Stan:
+"
+"Announcer:
+"
+"Stan:
+"
+"Judge:
+"
+"# 10:
+"
+"
+"
+"Stan:
+"
+"Nelson:
+"
+"Stan:
+"
+"Nelson:
+"
+"Dr. Doctor:
+"
+"Stan:
+"
+"Dr. Doctor:
+"
+"Stan:
+"
+"Nelson:
+"
+"Dr. Doctor:
+"
+"Stan:
+"
+"Judge:
+"
+"Nelson:
+"
+"Dr. Doctor:
+"
+"Nelson:
+"
+"Stan:
+"
+"Judge:
+"
+"Stan:
+"
+"Nelson:
+"
+"Dr. Doctor:
+"
+"
+"
+"# 6:
+"
+"# 3:
+"
+"Stan:
+"
+"# 6:
+"
+"Stan:
+"
+"# 8:
+"
+"Stan:
+"
+"# 6:
+"
+"Stan:
+"
+"# 3:
+"
+"Stan:
+"
+"# 13:
+"
+"# 6:
+"
+"Park County:
+"
+"Kyle:
+"
+"Stan:
+"
+"Park County:
+"
+"Kyle:
+"
+"
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"
+"
+"Announcer:
+"
+"Stan:
+"
+"Official:
+"
+"Stan:
+"
+"Official:
+"
+"Park County:
+"
+"Stan:
+"
+"Official:
+"
+"Stan:
+"
+"Official:
+"
+"Stan:
+"
+"Av 1:
+"
+"Av 2:
+"
+"Official:
+"
+"Av 1:
+"
+"Av 3:
+"
+"Stan:
+"
+"Judge:
+"
+"Av 1:
+"
+"The Avs:
+"
+"
+"
+"Announcer:
+"
+"
+"
+"Denver Fans:
+"
+"Stan:
+"
+"Man:
+"
+"Fans:
+"
+"# 15:
+"
+"
+"
+"Stan:
+"
+"Ike:
+"
+"# 8:
+"
+"A Red Wing:
+"
+"
+"
+"Randy:
+"
+"# 6:
+"
+"Red Wings Coach:
+"
+"Former Coach:
+"
+"
+"
+"Fans:
+"
+"Nelson:
+"
+"Fans:
+"
+"
+"

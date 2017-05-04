@@ -1,0 +1,62 @@
+"x"
+"Stan Marsh
+"
+"Kyle Broflovski
+"
+"Eric Cartman
+"
+"Butters Stotch
+"
+"Timmy Burch
+"
+"Jimmy Valmer
+"
+"Towelie
+"
+"Cashier
+"
+"Rancho Palos Verdes Counselor
+"
+"Jeff Van Vonderen
+"
+"The Lake Tardicaca Campers and Staff
+Nathan
+Mimsy
+Frances
+Lenora
+""Beaky Buzzard""
+""Droopy Dawg""
+""Elmer Fudd""
+""Pete Puma""
+""Porky Pig""
+Specialist 1
+Specialist 2
+Specialist 3
+Counselor Steve
+"
+"Nathan
+"
+"Mimsy
+"
+"Frances
+"
+"Lenora
+"
+"""Beaky Buzzard""
+"
+"""Droopy Dawg""
+"
+"""Elmer Fudd""
+"
+"""Pete Puma""
+"
+"""Porky Pig""
+"
+"Specialist 1
+"
+"Specialist 2
+"
+"Specialist 3
+"
+"Counselor Steve
+"

@@ -1,0 +1,775 @@
+"x"
+"
+"
+"Butters:
+"
+"Sledders
+"
+"Butters:
+"
+"Stan:
+"
+"Token:
+"
+"Cartman:
+"
+"Lizzy:
+"
+"Stan:
+"
+"Cartman:
+"
+"Lizzy:
+"
+"Stan:
+"
+"The rest of the boys:
+"
+"Lizzy:
+"
+"Kyle:
+"
+"The Girls:
+"
+"Cartman:
+"
+"Lizzy:
+"
+"The Girls:
+"
+"Stan:
+"
+"The rest of the boys:
+"
+"A few others:
+"
+"Lizzy:
+"
+"Stan:
+"
+"Lizzy:
+"
+"Kyle:
+"
+"Lizzy:
+"
+"Stan:
+"
+"Butters:
+"
+"Clyde:
+"
+"Token:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Token:
+"
+"Cartman:
+"
+"
+"
+"Mr. Mackey:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Man 1:
+"
+"Mr. Mackey:
+"
+"Man 1:
+"
+"Agent Keen:
+"
+"Mr. Mackey:
+"
+"Agent Sharp:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Agent Keen:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Agent Keen:
+"
+"Liane:
+"
+"
+"
+"Announcer:
+"
+"Leslie:
+"
+"
+"
+"Prosecutor:
+"
+"Cartman:
+"
+"Prosecutor:
+"
+"Cartman:
+"
+"Prosecutor:
+"
+"Cartman:
+"
+"Prosecutor:
+"
+"Cartman:
+"
+"Prosecutor:
+"
+"Cartman:
+"
+"Prosecutor:
+"
+"Cartman:
+"
+"Liane:
+"
+"Prosecutor:
+"
+"Cartman:
+"
+"Prosecutor:
+"
+"Lizzy:
+"
+"Stan, Kyle:
+"
+"Stan:
+"
+"
+"
+"Judge:
+"
+"Cartman:
+"
+"Judge:
+"
+"The Girls:
+"
+"Judge:
+"
+"Black Bailiff:
+"
+"White Bailiff:
+"
+"
+"
+"Cartman:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Cartman:
+"
+"
+"
+"Anchor:
+"
+"Greg Nimins:
+"
+"
+"
+"Cartman:
+"
+"Kenny:
+"
+"
+"
+"Greg Nimins:
+"
+"Policeman 1:
+"
+"
+"
+"Greg Nimins:
+"
+"Kyle:
+"
+"Greg Nimins:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Cartman::
+"
+"
+"
+"Stan:
+"
+"Lizzy:
+"
+"Stan:
+"
+"
+"
+"Driver:
+"
+"
+"
+"
+"
+"Warden:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Warden:
+"
+"Romper Stomper:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Butters:
+"
+"Clyde:
+"
+"Kyle:
+"
+"Clyde:
+"
+"Stan:
+"
+"Kyle:
+"
+"Clyde:
+"
+"Stan:
+"
+"Kyle:
+"
+"Lizzy:
+"
+"Stan:
+"
+"
+"
+"Romper Stomper:
+"
+"Inmates:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Inmates:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"
+"
+"Stan:
+"
+"Pip:
+"
+"Clyde:
+"
+"All the boys:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kenny, Stan:
+"
+"Stan:
+"
+"Stan, Kenny, Kyle:
+"
+"Stan:
+"
+"Kenny:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Butters:
+"
+"Pip:
+"
+"Stan:
+"
+"All the boys:
+"
+"Kyle:
+"
+"Butters:
+"
+"Lizzy:
+"
+"Stan:
+"
+"Some boys:
+"
+"Other boys:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"The group:
+"
+"
+"
+"Mother 1:
+"
+"Boy 1:
+"
+"Mother 1:
+"
+"Boy 1:
+"
+"Boy 2:
+"
+"Mother 2:
+"
+"Boy 2:
+"
+"Guard:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Linda Black:
+"
+"Stan:
+"
+"Linda Black:
+"
+"Kyle:
+"
+"Stan:
+"
+"Token:
+"
+"Kyle:
+"
+"Token:
+"
+"Steve Black:
+"
+"Stan:
+"
+"Steve Black:
+"
+"Kyle:
+"
+"Steve Black:
+"
+"Kyle:
+"
+"Steve Black:
+"
+"Stan:
+"
+"Steve Black:
+"
+"Kyle:
+"
+"Steve Black:
+"
+"Stan, Kyle:
+"
+"Steve Black:
+"
+"
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"
+"
+"Aide:
+"
+"Governor:
+"
+"Token:
+"
+"Governor:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Token:
+"
+"Kyle:
+"
+"Stan:
+"
+"Token:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Token:
+"
+"Governor:
+"
+"
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Guard:
+"
+"Cartman:
+"
+"Guard:
+"
+"Cartman:
+"
+"
+"
+"Lizzy:
+"
+"Stan:
+"
+"Kyle:
+"
+"Lizzy:
+"
+"Bebe:
+"
+"Kyle:
+"
+"Stan:
+"
+"Clyde:
+"
+"Stan:
+"
+"Clyde:
+"
+"Kyle:
+"
+"Lizzy:
+"
+"Other girls:
+"
+"Butters:
+"
+"Cartman:
+"
+"Stan:
+"
+"Boy Sledders:
+"
+"Cartman:
+"
+"Clyde:
+"
+"Cartman:
+"
+"Lizzy:
+"
+"Stan:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Token, Kyle, Stan:
+"
+"Stan:
+"
+"Lizzy:
+"
+"Kyle:
+"
+"Kids at Finish Line:
+"
+"Stan:
+"
+"Cartman:
+"
+"Lizzy:
+"
+"Bear:
+"
+"Boy Sledders:
+"
+"Stan:
+"
+"Girls:
+"
+"Kyle:
+"
+"Butters:
+"
+"Boys:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Pip:
+"
+"Cartman:
+"
+"Stan, Kyle, Butters, Token:
+"
+"Cartman:
+"
+"
+"
+"Guard:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"Cartman:
+"
+"Romper Stomper:
+"
+"
+"

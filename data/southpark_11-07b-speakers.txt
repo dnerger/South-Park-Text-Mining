@@ -1,0 +1,597 @@
+"x"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Bum:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Butters:
+"
+"Cartman:
+"
+"Stan:
+"
+"Clyde:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Bum:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Mayor McDaniels:
+"
+"Fire Chief:
+"
+"Mayor McDaniels:
+"
+"Mr. Valmer:
+"
+"Other Members:
+"
+"Randy:
+"
+"Mr. Valmer:
+"
+"Mr. Mackey:
+"
+"Gerald:
+"
+"Aide:
+"
+"Mrs. Testaburger:
+"
+"Randy:
+"
+"Homeless Advisor:
+"
+"
+"
+"Kyle:
+"
+"Bum:
+"
+"Kyle:
+"
+"Bum:
+"
+"Kyle:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Bum:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"Bum 1:
+"
+"Randy:
+"
+"Bum 2:
+"
+"Randy:
+"
+"Bum 3:
+"
+"Bum 4:
+"
+"Randy:
+"
+"Bum 5:
+"
+"Randy:
+"
+"Bum 6:
+"
+"Bum 7:
+"
+"Randy:
+"
+"Bum 7:
+"
+"Randy:
+"
+"Bum 7:
+"
+"Randy:
+"
+"Bum 8:
+"
+"Randy:
+"
+"
+"
+"Gerald:
+"
+"Randy:
+"
+"Jimbo:
+"
+"Randy:
+"
+"
+"
+"Announcer:
+"
+"Chris Swollenballs:
+"
+"Randy:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Chris Swollenballs:
+"
+"Bum 9:
+"
+"Chris Swollenballs:
+"
+"Bum 9:
+"
+"Chris Swollenballs:
+"
+"Bum 10:
+"
+"Chris Swollenballs:
+"
+"Cartman:
+"
+"Stan:
+"
+"
+"
+"Cartman:
+"
+"Aide:
+"
+"Bum 11:
+"
+"Aide:
+"
+"Stan:
+"
+"Aide:
+"
+"The Boys:
+"
+"Aide:
+"
+"The Boys:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Stan:
+"
+"
+"
+"Randy:
+"
+"Gerald:
+"
+"Randy:
+"
+"Stephen:
+"
+"Gerald:
+"
+"Randy:
+"
+"Gerald:
+"
+"Bums:
+"
+"Gerald:
+"
+"Bum 12:
+"
+"Gerald:
+"
+"Stephen:
+"
+"Randy:
+"
+"
+"
+"Homeless Advisor:
+"
+"Stan:
+"
+"Homeless Advisor:
+"
+"Stan:
+"
+"Homeless Advisor:
+"
+"Stan:
+"
+"Cartman:
+"
+"Homeless Advisor:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Homeless Advisor:
+"
+"
+"
+"Randy:
+"
+"Linda:
+"
+"Stephen:
+"
+"A Man:
+"
+"Randy:
+"
+"Steve:
+"
+"Stephen:
+"
+"Steve:
+"
+"Linda:
+"
+"Randy:
+"
+"Steve:
+"
+"Stephen:
+"
+"Randy:
+"
+"Bum 13:
+"
+"Randy:
+"
+"
+"
+"Homeless Advisor:
+"
+"Bum 14:
+"
+"Homeless Advisor:
+"
+"Bum 14:
+"
+"Homeless Advisor:
+"
+"Bum 14:
+"
+"Homeless Advisor:
+"
+"Bum 14:
+"
+"Homeless Advisor:
+"
+"Bum 15:
+"
+"Kyle:
+"
+"Homeless Advisor:
+"
+"Cartman:
+"
+"Homeless Advisor:
+"
+"Gerald:
+"
+"Homeless Advisor:
+"
+"Kyle:
+"
+"Homeless Advisor:
+"
+"Cartman:
+"
+"Gerald:
+"
+"Bum 16:
+"
+"Bum 17:
+"
+"Bum 18:
+"
+"Gerald:
+"
+"Bum 16:
+"
+"Gerald:
+"
+"Bum:
+"
+"Homeless Advisor:
+"
+"
+"
+"Randy:
+"
+"Jimbo:
+"
+"Randy:
+"
+"Linda:
+"
+"Randy:
+"
+"Head of Public Safety:
+"
+"Gerald:
+"
+"Randy:
+"
+"Head of Public Safety:
+"
+"Linda:
+"
+"Stephen:
+"
+"Head of Public Safety:
+"
+"Jimbo:
+"
+"Glen:
+"
+"Linda:
+"
+"Randy:
+"
+"Glen:
+"
+"Randy:
+"
+"Linda:
+"
+"Randy:
+"
+"Glen:
+"
+"Randy:
+"
+"
+"
+"
+"
+"Glen:
+"
+"
+"
+"Stan:
+"
+"Man 1:
+"
+"Stan:
+"
+"Man 2:
+"
+"Kyle:
+"
+"Man 1:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Man 1:
+"
+"Cartman:
+"
+"Man 2:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Man 2:
+"
+"Man 1:
+"
+"Kyle:
+"
+"Man 1:
+"
+"Stan:
+"
+"Kyle:
+"
+"Man 1:
+"
+"Stan:
+"
+"Man 1:
+"
+"Woman:
+"
+"Dennis:
+"
+"Christine:
+"
+"Dennis:
+"
+"Christine:
+"
+"Dennis:
+"
+"Christine:
+"
+"Dennis:
+"
+"Christine:
+"
+"Dennis:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"
+"
+"
+"
+"Randy:
+"
+"Jimbo:
+"
+"Stephen:
+"
+"Linda:
+"
+"A Woman:
+"
+"Randy:
+"
+"Stan:
+"
+"Stephen:
+"
+"Randy:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Backup Singers:
+"
+"The Boys:
+"
+"Cartman:
+"
+"The Boys:
+"
+"Cartman:
+"
+"Bum:
+"
+"The Boys:
+"
+"Kyle:
+"
+"Cartman:
+"
+"The Boys:
+"
+"Cartman:
+"
+"Stephen:
+"
+"Jimbo:
+"
+"Randy:
+"
+"Cartman:
+"
+"
+"
+"Gerald:
+"
+"Cartman:
+"
+"
+"
+"The Boys:
+"
+"
+"
+"Cartman:
+"
+"Bum:
+"
+"Cartman:
+"
+"Stan:
+"
+"
+"

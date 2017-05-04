@@ -1,0 +1,75 @@
+"x"
+" Stan Marsh
+"
+" Kyle Broflovski
+"
+" Eric Cartman
+"
+" Butters Stotch
+"
+" Kenny McCormick
+"
+" DogPoo Petuski
+"
+" Gerald Broflovski
+"
+" Sheila Broflovski
+"
+" Ike Broflovski
+"
+" Randy Marsh
+"
+" Sharon Marsh
+"
+" Stephen Stotch
+"
+" Stuart McCormick
+"
+" Jimbo Kern
+"
+" Mr. Garrison
+"
+" Officer Barbrady
+"
+" Skeeter
+"
+" Joe and Teresa Giudice (from ""Real Housewives of New Jersey"")
+"
+" Jacqueline (from ""Real Housewives of New Jersey"")
+"
+" Caroline (from ""Real Housewives of New Jersey"")
+"
+" Snooki (from ""Jersey Shore"")
+"
+" The Situation (from ""Jersey Shore"")
+"
+" Steve ""Last Call""
+"
+" P-Train
+"
+" Tan Jovi
+"
+" Salon Girl
+"
+" Reporter
+"
+" Announcer
+"
+" Bar Patron 1
+"
+" Bar Patron 2
+"
+" Jersey Man 2
+"
+" Jersey Woman
+"
+" Operative
+"
+" Paratrooper
+"
+" Arnold Schwarzenegger
+"
+" Woman
+"
+" Woman 1
+"

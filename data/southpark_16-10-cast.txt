@@ -1,0 +1,88 @@
+"x"
+"Stan Marsh
+"
+"Kyle Broflovski
+"
+"Eric Cartman
+"
+"Gerald Broflovski
+"
+"Sheila Broflovski
+"
+"Ike Broflovski
+"
+"Randy Marsh
+"
+"Sharon Marsh
+"
+"Sgt. Yates
+"
+"Liane Cartman
+"
+"Jimbo
+"
+"Mechanic
+"
+"Mr. Black
+"
+"Mr. Mackey
+"
+"Stephen Stotch
+"
+"Stuart McCormick
+"
+"Boy and Mom
+"
+"Cat Burglar
+"
+"Husband and Wife
+"
+"Man and Woman
+"
+"Officer
+"
+"Shoe Salesman
+"
+"Stranger
+"
+"Wolf Security Systems personnel
+Alvin
+Brian
+David
+Jeff
+Kevin
+Marcus
+Martin
+Michael
+Mike
+Peter
+Varashnu
+Security Agent
+Spokesman
+"
+"Alvin
+"
+"Brian
+"
+"David
+"
+"Jeff
+"
+"Kevin
+"
+"Marcus
+"
+"Martin
+"
+"Michael
+"
+"Mike
+"
+"Peter
+"
+"Varashnu
+"
+"Security Agent
+"
+"Spokesman
+"

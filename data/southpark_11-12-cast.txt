@@ -1,0 +1,87 @@
+"x"
+"Stan Marsh
+"
+"Kyle Broflovski
+"
+"Eric Cartman 
+"
+"Butters Stotch
+"
+"Stephen Stotch
+"
+"Linda Stotch
+"
+"The Pentagon
+General
+Technicians
+Tom
+Guard 2
+Lab Techs
+Official
+Reporters
+"
+"General
+"
+"Technicians
+"
+"Tom
+"
+"Guard 2
+"
+"Lab Techs
+"
+"Official
+"
+"Reporters
+"
+"Citizens of Imaginationland
+"
+"The Council of Nine
+Aslan
+Gandalf
+Glinda
+Jesus Christ
+Luke Skywalker
+Morpheus
+Popeye
+Wonder Woman
+Zeus
+"
+"Aslan
+"
+"Gandalf
+"
+"Glinda
+"
+"Jesus Christ
+"
+"Luke Skywalker
+"
+"Morpheus
+"
+"Popeye
+"
+"Wonder Woman
+"
+"Zeus
+"
+"Miscellaneous
+Chief Justice
+Al Gore
+Anchorman Steven
+Doctor
+Hippies
+Mike, guest commentator
+"
+"Chief Justice
+"
+"Al Gore
+"
+"Anchorman Steven
+"
+"Doctor
+"
+"Hippies
+"
+"Mike, guest commentator
+"

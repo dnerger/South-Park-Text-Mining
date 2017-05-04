@@ -1,0 +1,571 @@
+"x"
+"
+"
+"Coon:
+"
+"Toolshed:
+"
+"Coon:
+"
+"Toolshed:
+"
+"TupperWear:
+"
+"All:
+"
+"Coon:
+"
+"TupperWear:
+"
+"Coon:
+"
+"Mosquito:
+"
+"Coon:
+"
+"Mosquito:
+"
+"Coon:
+"
+"Iron Maiden:
+"
+"Coon:
+"
+"Mint-Berry Crunch:
+"
+"Coon:
+"
+"Alarm:
+"
+"Coon:
+"
+"Mosquito:
+"
+"Coon:
+"
+"News 4 Reporter:
+"
+"Coon:
+"
+"Coon's Friends:
+"
+"Coon:
+"
+"
+"
+"Coon:
+"
+"Liane:
+"
+"Coon:
+"
+"Liane:
+"
+"
+"
+"Coon:
+"
+"Liane:
+"
+"Coon:
+"
+"Liane:
+"
+"Coon:
+"
+"
+"
+"Fireman:
+"
+"Fire Captain:
+"
+"Liane:
+"
+"Coon:
+"
+"Liane:
+"
+"Fire Captain:
+"
+"Fireman:
+"
+"Coon:
+"
+"Fire Captain:
+"
+"Liane:
+"
+"Coon:
+"
+"Mosquito:
+"
+"Fire Captain:
+"
+"Coon:
+"
+"Liane:
+"
+"Coon:
+"
+"Officer:
+"
+"Fireman:
+"
+"Fire Captain:
+"
+"Stan:
+"
+"Announcer:
+"
+"Fire Captain:
+"
+"Captain Hindsight:
+"
+"Fireman:
+"
+"Captain Hindsight:
+"
+"Fireman:
+"
+"Captain Hindsight:
+"
+"Fire Captain:
+"
+"Captain Hindsight:
+"
+"Fireman:
+"
+"Officer:
+"
+"Fire Captain:
+"
+"
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Alarm:
+"
+"Randy:
+"
+"Alarm: Alert.
+"
+"Stan:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"
+"
+"Coon:
+"
+"Toolshed:
+"
+"Mosquito:
+"
+"Coon:
+"
+"TupperWear:
+"
+"Coon:
+"
+"The Human Kite:
+"
+"Coon:
+"
+"Toolshed:
+"
+"Coon:
+"
+"Professor Chaos:
+"
+"Coon:
+"
+"Professor Chaos:
+"
+"Coon:
+"
+"Mysterion:
+"
+"Coon:
+"
+"Mysterion:
+"
+"Coon:
+"
+"
+"
+"BP Man 1:
+"
+"BP Man 2:
+"
+"BP Man 3:
+"
+"BP Man 4:
+"
+"BP Man 3:
+"
+"
+"
+"Alarm:
+"
+"
+"
+"Coon:
+"
+"
+"
+"Reporter:
+"
+"Man:
+"
+"Woman:
+"
+"Cajun Shrimper:
+"
+"
+"
+"Mysterion:
+"
+"The Human Kite:
+"
+"Coon:
+"
+"Mint-Berry Crunch:
+"
+"
+"
+"Rescuer 1:
+"
+"Coon:
+"
+"Captain Hindsight:
+"
+"Rescuer 2:
+"
+"Rescuer 3:
+"
+"Captain Hindsight:
+"
+"Rescuer 3:
+"
+"Captain Hindsight:
+"
+"Rescuer 2:
+"
+"Rescuer 4:
+"
+"Captain Hindsight:
+"
+"Rescuer 2:
+"
+"Captain Hindsight:
+"
+"Rescuer 5:
+"
+"Captain Hindsight:
+"
+"Rescuer 4:
+"
+"
+"
+"Coon:
+"
+"
+"
+"Butler:
+"
+"Cartman:
+"
+"Butler:
+"
+"Cartman:
+"
+"Butler:
+"
+"Cartman:
+"
+"Butler:
+"
+"Captain Hindsight:
+"
+"Cartman:
+"
+"Captain Hindsight:
+"
+"Cartman:
+"
+"Officer 2:
+"
+"Captain Hindsight:
+"
+"Officer 2:
+"
+"Captain Hindsight:
+"
+"Officer 2:
+"
+"Fireman 2:
+"
+"Captain Hindsight:
+"
+"Commissioner:
+"
+"Captain Hindsight:
+"
+"Cartman:
+"
+"Captain Hindsight:
+"
+"Cartman:
+"
+"Captain Hindsight:
+"
+"Cartman:
+"
+"
+"
+"Anchor Man:
+"
+"
+"
+"Tony Hayward:
+"
+"
+"
+"Coon:
+"
+"Toolshed:
+"
+"Coon:
+"
+"Professor Chaos:
+"
+"Coon:
+"
+"Mosquito:
+"
+"Coon:
+"
+"Mosquito:
+"
+"Mysterion:
+"
+"Coon:
+"
+"Toolshed:
+"
+"Coon:
+"
+"Mysterion:
+"
+"Coon:
+"
+"Mosquito:
+"
+"Coon:
+"
+"Mosquito:
+"
+"Coon:
+"
+"Mysterion:
+"
+"Iron Maiden:
+"
+"Coon:
+"
+"Mint-Berry Crunch:
+"
+"Coon:
+"
+"Mosquito:
+"
+"Coon:
+"
+"Mosquito:
+"
+"Coon:
+"
+"Toolshed:
+"
+"
+"
+"Coon:
+"
+"
+"
+"Coon:
+"
+"Mint-Berry Crunch:
+"
+"Mosquito:
+"
+"Coon:
+"
+"
+"
+"Anchor Man:
+"
+"
+"
+"Tony Hayward:
+"
+"
+"
+"Butler:
+"
+"Captain Hindsight:
+"
+"Butler:
+"
+"Captain Hindsight:
+"
+"Butler:
+"
+"Captain Hindsight:
+"
+"Butler:
+"
+"Captain Hindsight:
+"
+"Butler:
+"
+"Captain Hindsight:
+"
+"Butler:
+"
+"Captain Hindsight:
+"
+"Butler:
+"
+"
+"
+"Reporter:
+"
+"Rescuer 6:
+"
+"Cajun Shrimper:
+"
+"Reporter:
+"
+"
+"
+"Coon:
+"
+"Toolshed:
+"
+"Coon:
+"
+"Mysterion:
+"
+"Coon:
+"
+"Mysterion:
+"
+"TupperWear:
+"
+"The Human Kite:
+"
+"Coon:
+"
+"Toolshed:
+"
+"Coon:
+"
+"The Human Kite:
+"
+"Mysterion:
+"
+"Coon:
+"
+"Mysterion:
+"
+"Liane:
+"
+"Mysterion:
+"
+"Liane:
+"
+"Coon:
+"
+"
+"
+"Liane:
+"
+"Coon:
+"
+"
+"
+"DP Executive 1:
+"
+"Tony Hayward:
+"
+"DP Executive 2:
+"
+"DP Executive 3:
+"
+"Tony Hayward:
+"
+"DP Executive 4:
+"
+"Tony Hayward:
+"
+"DP Executives:
+"
+"Tony Hayward:
+"
+"DP Executive 5:
+"
+"Tony Hayward:
+"
+"DP Executive 6:
+"
+"Tony Hayward:
+"
+"DP Executive 6:
+"
+"Tony Hayward:
+"
+"
+"
+"
+"
+"Anchor Man:
+"
+"Stan:
+"
+"
+"
+"Reporter:
+"
+"Tony Hayward:
+"
+"Reporter:
+"
+"Stan:
+"
+"
+"
+"Cartman:
+"
+"Cartman:
+"
+"
+"

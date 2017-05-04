@@ -1,0 +1,611 @@
+"x"
+"
+"
+"Tour Guide:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Tour Guide:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Butters:
+"
+"Stan:
+"
+"Tom Cruise:
+"
+"Cartman:
+"
+"Butters:
+"
+"Tom Cruise:
+"
+"Kyle:
+"
+"Tom Cruise:
+"
+"Stan:
+"
+"Tom Cruise:
+"
+"Stan:
+"
+"Tom Cruise:
+"
+"Stan:
+"
+"Tom Cruise:
+"
+"Mr. Garrison:
+"
+"Tom Cruise:
+"
+"Stan:
+"
+"Tom Cruise:
+"
+"
+"
+"Tom Cruise:
+"
+"Tiger Woods:
+"
+"Bono:
+"
+"Tom Cruise:
+"
+"Sally Struthers:
+"
+"George Lucas:
+"
+"Paris Hilton:
+"
+"Tom Cruise:
+"
+"All Celebrities:
+"
+"Jared Fogle:
+"
+"Tom Cruise:
+"
+"
+"
+"Principal Victoria:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Randy:
+"
+"Principal Victoria:
+"
+"Stan:
+"
+"Mayor:
+"
+"Mr. Mackey:
+"
+"Stan:
+"
+"Principal Victoria:
+"
+"Gerald:
+"
+"Sgt. Yates:
+"
+"Randy:
+"
+"
+"
+"Randy:
+"
+"Tom Cruise:
+"
+"Randy:
+"
+"Tom Cruise:
+"
+"Randy:
+"
+"Tom Cruise:
+"
+"Randy:
+"
+"Tom Cruise:
+"
+"Randy:
+"
+"Tom Cruise:
+"
+"Randy:
+"
+"Tom Cruise:
+"
+"Stan:
+"
+"Randy:
+"
+"Tom Cruise:
+"
+"Randy:
+"
+"Tom Cruise:
+"
+"
+"
+"Randy:
+"
+"Mr. Garrison:
+"
+"Stephen:
+"
+"Kyle:
+"
+"Mr. Mackey:
+"
+"Sgt. Yates:
+"
+"Stan:
+"
+"McDaniels:
+"
+"Stan:
+"
+"Mr. Garrison:
+"
+"Stan:
+"
+"Sgt. Yates:
+"
+"Stan:
+"
+"Randy:
+"
+"Mr. Garrison:
+"
+"Jimbo:
+"
+"
+"
+"Hillary Clinton:
+"
+"Jesse Jackson:
+"
+"Tom Cruise:
+"
+"Oprah Winfrey:
+"
+"Tom Cruise:
+"
+"Jimmy Buffet:
+"
+"Tom Cruise:
+"
+"Tim Burton:
+"
+"Tom Cruise:
+"
+"Cartman:
+"
+"Tom Cruise:
+"
+"Cartman:
+"
+"Michael Richards:
+"
+"Jennifer Lopez:
+"
+"Tom Cruise:
+"
+"Jennifer Lopez:
+"
+"
+"
+"Narrator:
+"
+"Seaman:
+"
+"Narrator:
+"
+"
+"
+"Stan:
+"
+"Jesus:
+"
+"Buddha:
+"
+"Stan:
+"
+"Narrator:
+"
+"Kyle:
+"
+"Joseph Smith:
+"
+"Kyle:
+"
+"Lao Tzu:
+"
+"Stan:
+"
+"Jesus:
+"
+"Kyle:
+"
+"Joseph Smith:
+"
+"Jesus:
+"
+"Kyle:
+"
+"Joseph Smith:
+"
+"Stan:
+"
+"Jesus:
+"
+"Moses:
+"
+"Kyle:
+"
+"Moses:
+"
+"
+"
+"Tom Cruise:
+"
+"Russel Crowe:
+"
+"Rob Reiner:
+"
+"Tom Cruise:
+"
+"Rob Reiner:
+"
+"Cartman:
+"
+"Tom Cruise:
+"
+"Jennifer Lopez:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Jennifer Lopez:
+"
+"Cartman:
+"
+"Jennifer Lopez:
+"
+"Cartman:
+"
+"Mitch Conner:
+"
+"Cartman:
+"
+"Mitch Conner:
+"
+"Cartman:
+"
+"Mitch Conner:
+"
+"Cartman:
+"
+"Mitch Conner:
+"
+"Tom Cruise:
+"
+"Mitch Conner:
+"
+"Tom Cruise:
+"
+"Jennifer Lopez:
+"
+"
+"
+"Randy:
+"
+"Mayor:
+"
+"Muhammad:
+"
+"Mr Garrison:
+"
+"Jimbo:
+"
+"Randy:
+"
+"Stan:
+"
+"Gerald:
+"
+"Kyle:
+"
+"Sgt. Yates:
+"
+"Stan:
+"
+"Sheila:
+"
+"Mr. Garrison:
+"
+"Randy:
+"
+"Mayor:
+"
+"Muhammad:
+"
+"
+"
+"Hillary Clinton:
+"
+"Tom Cruise:
+"
+"Rob Reiner:
+"
+"Jennifer Lopez:
+"
+"Jennifer Lopez:
+"
+"Cartman:
+"
+"Jennifer Lopez:
+"
+"Cartman:
+"
+"Jennifer Lopez:
+"
+"Cartman:
+"
+"Jennifer Lopez:
+"
+"Cartman:
+"
+"Charlie Sheen:
+"
+"Jennifer Lopez:
+"
+"Cartman:
+"
+"Jennifer Lopez:
+"
+"Cartman:
+"
+"Jennifer Lopez:
+"
+"Cartman:
+"
+"
+"
+"Randy:
+"
+"Mayor:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison:
+"
+"Mayor:
+"
+"Randy:
+"
+"
+"
+"Jared Fogle:
+"
+"Stan:
+"
+"Randy:
+"
+"Sgt. Yates:
+"
+"Stan:
+"
+"Kyle:
+"
+"Sgt. Yates:
+"
+"
+"
+"Lead Ginger:
+"
+"All Gingers:
+"
+"
+"
+"Mitch Conner:
+"
+"Cartman:
+"
+"Mitch Conner:
+"
+"Cartman:
+"
+"Mitch Conner:
+"
+"Cartman:
+"
+"Mitch Conner:
+"
+"Cartman:
+"
+"Mitch Conner:
+"
+"Cartman:
+"
+"Mitch Conner:
+"
+"Cartman:
+"
+"Mitch Conner:
+"
+"Cartman:
+"
+"Mitch:
+"
+"
+"
+"Barbrady:
+"
+"
+"
+"Sgt. Yates:
+"
+"Mayor:
+"
+"Jimbo:
+"
+"McDaniels:
+"
+"Kyle:
+"
+"Stan:
+"
+"Gerald:
+"
+"Stan:
+"
+"Randy:
+"
+"Jimbo:
+"
+"Randy:
+"
+"Tom Cruise:
+"
+"Randy:
+"
+"Tom Cruise:
+"
+"Randy:
+"
+"Tom Cruise:
+"
+"Kanye West:
+"
+"Randy:
+"
+"Tom Cruise:
+"
+"Randy:
+"
+"Tom Cruise:
+"
+"Tom Cruise:
+"
+"Rob Reiner:
+"
+"Hillary Clinton:
+"
+"Tom Cruise:
+"
+"Rob Reiner:
+"
+"Tom Cruise:
+"
+"Rob Reiner:
+"
+"Tom Cruise:
+"
+"
+"
+"Rob Reiner:
+"
+"
+"
+"Robert Redford:
+"
+"Steven Spielberg:
+"
+"Tom Cruise:
+"
+"Rob Reiner:
+"
+"
+"
+"Rob Reiner:
+"
+"Rob Reiner:
+"
+"Tom Cruise:
+"
+"Tom Cruise:
+"
+"
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Mr. Hat:
+"
+"Mitch Conner:
+"
+"Mr. Hat:
+"
+"Mitch Conner:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"
+"
+"Randy:
+"
+"Lead Ginger:
+"
+"Townspeople:
+"
+"Stan:
+"
+"Lead Ginger:
+"
+"
+"
+"Mr. Hat:
+"
+"Mitch Conner:
+"
+"Mr. Garrison:
+"
+"Mitch:
+"
+"Garrison:
+"
+"Cartman:
+"
+"
+"
+"
+"

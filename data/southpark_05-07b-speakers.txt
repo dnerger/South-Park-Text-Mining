@@ -1,0 +1,689 @@
+"x"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan, Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"
+"
+"Kyle:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"
+"
+"Sharon:
+"
+"Stan:
+"
+"Sharon:
+"
+"Stan:
+"
+"Sharon:
+"
+"Man:
+"
+"Sharon:
+"
+"Stan:
+"
+"Sharon:
+"
+"Stan:
+"
+"Randy:
+"
+"Sharon:
+"
+"Stan:
+"
+"Sharon:
+"
+"Stan:
+"
+"Sharon:
+"
+"
+"
+"Sharon:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Sharon:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Sharon:
+"
+"Randy:
+"
+"Stan:
+"
+"Sharon:
+"
+"Stan:
+"
+"Sharon:
+"
+"Randy:
+"
+"
+"
+"Principal Victoria:
+"
+"Sharon:
+"
+"Principal Victoria:
+"
+"Mr. Tweek:
+"
+"Stuart:
+"
+"Chef:
+"
+"Ms. Choksondik:
+"
+"Chef:
+"
+"Sheila:
+"
+"Adults:
+"
+"
+"
+"Mr. Mackey:
+"
+"Stan:
+"
+"Mr. Mackey:
+"
+"
+"
+"Ms. Choksondik:
+"
+"Wendy:
+"
+"Bebe:
+"
+"Girls:
+"
+"Ms. Choksondik:
+"
+"Wendy:
+"
+"Ms. Choksondik:
+"
+"Girls:
+"
+"Ms. Choksondik:
+"
+"Girls:
+"
+"Ms. Choksondik:
+"
+"
+"
+"Chef:
+"
+"Boys:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Girls:
+"
+"Kyle:
+"
+"Stan:
+"
+"Girls:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Girls:
+"
+"Bebe:
+"
+"Kyle:
+"
+"Girls:
+"
+"Wendy:
+"
+"Kyle:
+"
+"Bebe:
+"
+"Cartman:
+"
+"Butters:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Girls:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Boys:
+"
+"
+"
+"Pharmacist:
+"
+"Stan:
+"
+"Pharmacist:
+"
+"Kyle:
+"
+"Pharmacist:
+"
+"Stan:
+"
+"Butters:
+"
+"Pharmacist:
+"
+"Kyle:
+"
+"Pharmacist:
+"
+"Assistant:
+"
+"Mark:
+"
+"Assistant:
+"
+"Cartman:
+"
+"Mark:
+"
+"Assistant:
+"
+"Stan:
+"
+"Mark:
+"
+"Assistant:
+"
+"Butters:
+"
+"Assistant:
+"
+"Kyle:
+"
+"
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"
+"
+"Stan:
+"
+"Butters:
+"
+"Kyle:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Butters:
+"
+"Tweek:
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Stan:
+"
+"Timmy:
+"
+"
+"
+"Principal Victoria:
+"
+"Ms. Choksondik:
+"
+"Principal Victoria:
+"
+"Ms. Choksondik:
+"
+"Chef:
+"
+"Ms. Choksondik:
+"
+"Chef:
+"
+"Mr. Adler:
+"
+"Principal Victoria:
+"
+"
+"
+"Mr. Garrison:
+"
+"Jenny:
+"
+"Mr. Garrison:
+"
+"Filmore:
+"
+"Mr. Garrison:
+"
+"
+"
+"Ms. Choksondik:
+"
+"Narrator:
+"
+"Girls:
+"
+"Narrator:
+"
+"Girl:
+"
+"Narrator:
+"
+"Girls:
+"
+"Narrator:
+"
+"Ms. Choksondik:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Stan:
+"
+"Mr. Mackey:
+"
+"Kyle:
+"
+"Mr. Mackey:
+"
+"Stan:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Kyle:
+"
+"Stan:
+"
+"Boys:
+"
+"Mr. Mackey:
+"
+"
+"
+"Mr. Garrison:
+"
+"Filmore:
+"
+"Mr. Garrison:
+"
+"Girl:
+"
+"Mr. Garrison:
+"
+"Boy:
+"
+"Mr. Garrison:
+"
+"Sally:
+"
+"Mr. Garrison:
+"
+"Boy 2:
+"
+"Mr. Garrison:
+"
+"
+"
+"Clyde:
+"
+"Wendy:
+"
+"Bebe:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Kyle:
+"
+"Bebe:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Stan:
+"
+"
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"Ms. Choksondik:
+"
+"Mr. Mackey:
+"
+"
+"
+"Boys:
+"
+"Girls:
+"
+"
+"
+"Sharon:
+"
+"
+"
+"Ms. Choksondik:
+"
+"
+"
+"Chef:
+"
+"
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"
+"
+"Sharon:
+"
+"Stan:
+"
+"Ms. Choksondik:
+"
+"Kids:
+"
+"Chef:
+"
+"Parents:
+"
+"Chef:
+"
+"Mr. Garrison:
+"
+"Ms. Choksondik:
+"
+"Sharon:
+"
+"Sheila:
+"
+"Principal Victoria:
+"
+"Kids:
+"
+"Stan:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Sheila:
+"
+"Chef:
+"
+"Gerald:
+"
+"Chef:
+"
+"Stan:
+"
+"Wendy:
+"
+"Cartman:
+"
+"
+"
+"Mr. Garrison:
+"

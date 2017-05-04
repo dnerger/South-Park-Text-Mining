@@ -1,0 +1,78 @@
+"x"
+"Stan
+"
+"Kyle
+"
+"Cartman
+"
+"Butters
+"
+"Steven Stotch
+"
+"General
+"
+"Tom
+"
+"Technicians
+"
+"Operator
+"
+"Soldiers
+"
+"Kurt Russell
+"
+"Paramedic
+"
+"Secretary
+"
+"Guard
+"
+"Elderly woman
+"
+"Terrorists
+"
+"Citizens of Imaginationland
+"
+"The Council of Nine
+Aslan
+Glinda
+Jesus
+Luke Skywalker
+Morpheus
+Popeye
+Zeus
+Wonder Woman and Gandalf
+"
+"Aslan
+"
+"Glinda
+"
+"Jesus
+"
+"Luke Skywalker
+"
+"Morpheus
+"
+"Popeye
+"
+"Zeus
+"
+"Wonder Woman and Gandalf
+"
+"The Woodland Critters
+Beary Bear
+Beavery Beaver
+Deery Deer
+Rabbity Rabbit
+Squirrelly Squirrel
+"
+"Beary Bear
+"
+"Beavery Beaver
+"
+"Deery Deer
+"
+"Rabbity Rabbit
+"
+"Squirrelly Squirrel
+"

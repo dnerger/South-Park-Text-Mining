@@ -1,0 +1,82 @@
+"x"
+" Stan Marsh
+"
+" Kyle Broflovski
+"
+" Eric Cartman
+"
+" Kenny McCormick
+"
+" Gerald Broflovski
+"
+" Sheila Broflovski
+"
+" Ike Broflovski
+"
+" An Officer
+"
+" Announcer
+"
+" Dr. Carroll
+"
+" Dr. Land
+"
+" Dr. Phillips
+"
+" Flight Attendant
+"
+" Man 1
+"
+" Man 2
+"
+" TAPS (Jason, Grant, Kris, and another member)
+"
+" The Tiny Miss Pageant Judge, Contestants, and their Moms
+ Brandy's Mom
+ Jessica's Mom
+ Heidi and her Mom
+ Kylie and her Mom
+ Lady Judge
+ MC
+"
+" Brandy's Mom
+"
+" Jessica's Mom
+"
+" Heidi and her Mom
+"
+" Kylie and her Mom
+"
+" Lady Judge
+"
+" MC
+"
+" The Dead Celebrities and the Purgatorial Plane
+ Billy Mays
+ David Carradine
+ Bea Arthur
+ DJ AM
+ Ed McMahon
+ Farrah Fawcett
+ Michael Jackson
+ Patrick Swayze
+ Walter Cronkite
+"
+" Billy Mays
+"
+" David Carradine
+"
+" Bea Arthur
+"
+" DJ AM
+"
+" Ed McMahon
+"
+" Farrah Fawcett
+"
+" Michael Jackson
+"
+" Patrick Swayze
+"
+" Walter Cronkite
+"

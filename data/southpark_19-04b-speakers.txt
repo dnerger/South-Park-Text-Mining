@@ -1,0 +1,597 @@
+"x"
+"
+"
+"Gerald:
+"
+"Randy:
+"
+"Gerald:
+"
+"
+"
+"Randy:
+"
+"Greeter:
+"
+"Gerald:
+"
+"Greeter:
+"
+"Randy:
+"
+"Gerald:
+"
+"Randy:
+"
+"Gerald:
+"
+"Greeter:
+"
+"Waiter:
+"
+"Gerald:
+"
+"Waiter:
+"
+"Gerald:
+"
+"Randy:
+"
+"Father:
+"
+"Mother:
+"
+"Father:
+"
+"David:
+"
+"Mother:
+"
+"Father:
+"
+"Mother:
+"
+"
+"
+"Father:
+"
+"Cartman:
+"
+"Father:
+"
+"Cartman:
+"
+"Father:
+"
+"Cartman:
+"
+"Father:
+"
+"Cartman:
+"
+"Father:
+"
+"Cartman:
+"
+"Father:
+"
+"Cartman:
+"
+"David:
+"
+"Cartman:
+"
+"David:
+"
+"Cartman:
+"
+"David:
+"
+"Cartman:
+"
+"Father:
+"
+"Male food critic:
+"
+"Father:
+"
+"Male food critic:
+"
+"Father:
+"
+"Cartman:
+"
+"Male food critic:
+"
+"Female food critic:
+"
+"Male food critic:
+"
+"Cartman:
+"
+"
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"David:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"David:
+"
+"Cartman:
+"
+"David:
+"
+"Cartman:
+"
+"David:
+"
+"Cartman:
+"
+"
+"
+"Gerald's review:
+"
+"Sheila:
+"
+"Gerald:
+"
+"Sheila:
+"
+"Gerald:
+"
+"Sheila:
+"
+"Gerald:
+"
+"Sheila:
+"
+"Gerald:
+"
+"Gerald's review:
+"
+"Gerald:
+"
+"
+"
+"Wendy:
+"
+"Butters:
+"
+"Cartman:
+"
+"Tuong Lu Kim:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Tuong Lu Kim:
+"
+"Cartman:
+"
+"Tuong Lu Kim:
+"
+"Butters:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"David:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"Barkley:
+"
+"Sgt. Yates:
+"
+"Barkley:
+"
+"Sgt. Yates:
+"
+"Barkley:
+"
+"Sgt. Yates:
+"
+"Barkley:
+"
+"Sgt. Yates:
+"
+"
+"
+"Whistlin' Willy:
+"
+"Male food critic:
+"
+"Female food critic:
+"
+"Son:
+"
+"Diner 1:
+"
+"Whistlin' Willy:
+"
+"Diner 2:
+"
+"Whistlin' Willy:
+"
+"Male food critic:
+"
+"Whistlin' Willy:
+"
+"Male food critic:
+"
+"Gerald:
+"
+"Whistlin' Willy:
+"
+"Gerald:
+"
+"
+"
+"Tuong Lu Kim:
+"
+"Father:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"David:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"
+"
+"Maggie:
+"
+"Yates:
+"
+"Maggie:
+"
+"Yates:
+"
+"Maggie:
+"
+"Yates:
+"
+"Maggie:
+"
+"Yates:
+"
+"
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Yelpers:
+"
+"A reviewer:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"A Yelper:
+"
+"Cartman:
+"
+"Other Yelpers:
+"
+"Cartman:
+"
+"Other Yelpers:
+"
+"Gerald:
+"
+"Cartman:
+"
+"A Yelper:
+"
+"Cartman:
+"
+"Other Yelpers:
+"
+"Sgt. Yates:
+"
+"Gerald:
+"
+"
+"
+"
+"
+"Anchor Tom:
+"
+"Whistlin' Willy:
+"
+"
+"
+"Kyle:
+"
+"Cartman:
+"
+"Token:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"David:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Gerald's review:
+"
+"Sheila:
+"
+"Gerald:
+"
+"
+"
+"Reporter:
+"
+"Reporter:
+"
+"David:
+"
+"Barkley:
+"
+"Sgt. Yates:
+"
+"Barkley:
+"
+"Sgt. Yates:
+"
+"Barkley:
+"
+"Sgt. Yates:
+"
+"
+"
+"Kyle:
+"
+"David:
+"
+"Kyle:
+"
+"David:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Gerald:
+"
+"Sgt. Yates:
+"
+"Yelper 1:
+"
+"Yelper 2:
+"
+"Yelper 3:
+"
+"Gerald:
+"
+"Male food critic:
+"
+"Yelper 4:
+"
+"Cartman:
+"
+"Kyle:
+"
+"David:
+"
+"Kyle:
+"
+"
+"
+"Mayor McDaniels:
+"
+"Gerald:
+"
+"Mayor McDaniels:
+"
+"Kyle:
+"
+"Mayor McDaniels:
+"
+"Mr. Davis:
+"
+"Mayor McDaniels:
+"
+"
+"
+"David:
+"
+"Father:
+"
+"
+"
+"Diner 3:
+"
+"Waiter:
+"
+"Chef:
+"
+"
+"
+"Lead Singer:
+"
+"Backup Singers:
+"
+"Lead Singer:
+"
+"Backup Singers:
+"
+"Lead Singer:
+"
+"
+"
+"Lead Singer:
+"
+"Backup Singers:
+"
+"Lead Singer:
+"
+"Backup Singers:
+"
+"Lead Singer:
+"
+"Backup Singers:
+"
+"Lead Singer:
+"
+"
+"
+"Lead Singer:
+"
+"Backup Singers:
+"
+"Lead Singer:
+"
+"All Singers:
+"
+"Backup Singers:
+"
+"Lead Singer:
+"
+"Backup Singers:
+"
+"Lead Singer:
+"
+"
+"
+"Diner 4:
+"
+"Backup Singers:
+"
+"Waiter 2:
+"
+"
+"
+"David:
+"
+"Cartman:
+"
+"David:
+"
+"Cartman:
+"
+"David:
+"
+"Cartman:
+"
+"Backup Singers:
+"
+"
+"
+"Lead Singer:
+"
+"Backup Singers:
+"
+"Lead Singer:
+"
+"
+"
+"Lead Singer:
+"
+"Backup Singers:
+"
+"Dr. Doctor:
+"
+"Backup Singers:
+"
+"Lead Singer:
+"
+"Backup Singers:
+"
+"Lead Singer:
+"
+"Backup Singers:
+"
+"
+"

@@ -1,0 +1,599 @@
+"x"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan
+"
+"
+"
+"Chef:
+"
+"
+"
+"Stan:
+"
+"Chef:
+"
+"
+"
+"Mrs. Garrison:
+"
+"Chef:
+"
+"Mrs. Garrison:
+"
+"
+"
+"Cartman:
+"
+"
+"
+"Stan:
+"
+"
+"
+"Mayor McDaniels:
+"
+"
+"
+"Jimbo:
+"
+"Gerald:
+"
+"Mr. Mackey:
+"
+"A Man:
+"
+"A Sign-Holder:
+"
+"Randy:
+"
+"Chef:
+"
+"
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Chef:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"
+"
+"Mrs. Garrison:
+"
+"Patrons:
+"
+"Randy:
+"
+"
+"
+"Gerald:
+"
+"Chef:
+"
+"Mrs. Garrison:
+"
+"Chef:
+"
+"Randy:
+"
+"Chef:
+"
+"Randy:
+"
+"Chef:
+"
+"Jimbo:
+"
+"Chef:
+"
+"Randy:
+"
+"Chef:
+"
+"Townsfolk:
+"
+"Kyle:
+"
+"Chef:
+"
+"Stan:
+"
+"
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kenny:
+"
+"
+"
+"A Boy:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Clyde:
+"
+"Stan:
+"
+"Clyde:
+"
+"Kyle:
+"
+"Clyde:
+"
+"Stan:
+"
+"Clyde:
+"
+"Kyle:
+"
+"Chef:
+"
+"The Boys:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Cartman:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Stan:
+"
+"
+"
+"Det. Jarvis:
+"
+"Kyle:
+"
+"Det. Jarvis:
+"
+"Stan:
+"
+"Det. Jarvis:
+"
+"Stan:
+"
+"Det. Jarvis:
+"
+"Butters:
+"
+"Det. Jarvis:
+"
+"Stan:
+"
+"Det. Jarvis:
+"
+"The Class:
+"
+"Det. Jarvis:
+"
+"Butters:
+"
+"Det. Jarvis:
+"
+"Kyle:
+"
+"Det. Jarvis:
+"
+"
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"Cartman:
+"
+"Butler:
+"
+"Kyle:
+"
+"Butler:
+"
+"Head Adventurer:
+"
+"Butler:
+"
+"Head Adventurer:
+"
+"Club Members:
+"
+"Mr. Connolly:
+"
+"Kyle:
+"
+"Mr. Connolly:
+"
+"Cartman:
+"
+"Marksman:
+"
+"Marine:
+"
+"Kyle:
+"
+"Mr. Connolly:
+"
+"Kyle:
+"
+"Mr. Connolly:
+"
+"Stan:
+"
+"Mr. Connolly:
+"
+"Stan:
+"
+"Kyle:
+"
+"Mr. Connolly:
+"
+"Kyle:
+"
+"Mr. Connolly:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Woman:
+"
+"Nurse:
+"
+"Kyle:
+"
+"Dr. Neeland:
+"
+"Kyle:
+"
+"Dr. Neeland:
+"
+"Stan:
+"
+"Dr. Neeland:
+"
+"Stan:
+"
+"Dr. Neeland:
+"
+"Chef:
+"
+"Dr. Neeland:
+"
+"Chef:
+"
+"Dr. Neeland:
+"
+"Cartman:
+"
+"Chef:
+"
+"Dr. Neeland:
+"
+"Cartman:
+"
+"Dr. Neeland:
+"
+"Kyle:
+"
+"Dr. Neeland:
+"
+"Stan:
+"
+"Dr. Neeland:
+"
+"
+"
+"DJ:
+"
+"Chef:
+"
+"Stan:
+"
+"Dr. Neeland:
+"
+"Stripper:
+"
+"Kyle:
+"
+"Stripper:
+"
+"Cartman:
+"
+"Blonde:
+"
+"Cartman:
+"
+"DJ:
+"
+"Stan:
+"
+"Chef:
+"
+"Stan:
+"
+"Dr. Neeland:
+"
+"Spontaneous Bootay:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Cartman:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"The Boys:
+"
+"Kenny:
+"
+"Chef:
+"
+"Mr. Connolly:
+"
+"Chef:
+"
+"The Boys:
+"
+"
+"
+"Mr. Connolly:
+"
+"Stan:
+"
+"Mr. Connolly:
+"
+"Cartman:
+"
+"Mr. Connolly:
+"
+"Stan:
+"
+"Mr. Connolly:
+"
+"Stan:
+"
+"Mr. Connolly:
+"
+"Stan:
+"
+"Mr. Connolly:
+"
+"Kyle:
+"
+"Mr. Connolly:
+"
+"Stan:
+"
+"Mr. Connolly:
+"
+"Stan:
+"
+"Mr. Connolly:
+"
+"Kyle:
+"
+"Mr. Connolly:
+"
+"Guard 1:
+"
+"Kyle:
+"
+"Mr. Connolly:
+"
+"Stan:
+"
+"Guard 2:
+"
+"Kyle:
+"
+"
+"
+"William:
+"
+"Kyle:
+"
+"Chef:
+"
+"William:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Stan:
+"
+"Chef:
+"
+"Kyle
+"
+"
+"
+"Cartman:
+"
+"Mr. Connolly:
+"
+"Kyle:
+"
+"Mr. Connolly:
+"
+"
+"
+"Chef:
+"
+"Mr. Connolly:
+"
+"Stan:
+"
+"Mr. Connolly:
+"
+"Stan:
+"
+"Mr. Connolly:
+"
+"Kyle:
+"
+"Mr. Connolly:
+"
+"Stan:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Mr. Connolly:
+"
+"The Boys:
+"
+"Chef:
+"
+"Stan:
+"
+"Cartman:
+"
+"Mr. Connolly:
+"
+"Chef:
+"
+"Marksman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Mr. Connolly:
+"
+"Cartman:
+"
+"Chef:
+"
+"Cartman:
+"
+"Stan:
+"
+"
+"
+"Kyle:
+"
+"Randy:
+"
+"Mr. Mackey:
+"
+"Kyle:
+"
+"
+"
+"Mr. Connolly:
+"
+"Tech:
+"
+"Mr. Connolly:
+"
+"Darth Chef:
+"
+"Mr. Connolly:
+"
+"Darth Chef:
+"
+"Mr. Connolly:
+"
+"Darth Chef:
+"
+"Mr. Connolly:
+"
+"
+"

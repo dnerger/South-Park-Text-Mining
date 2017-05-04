@@ -1,0 +1,607 @@
+"x"
+"
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"
+"
+"Mr. Mackey:
+"
+"Kyle:
+"
+"Mr. Mackey:
+"
+"Kids:
+"
+"Kyle:
+"
+"Mr. Garrison:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Butters:
+"
+"Mr. Garrison:
+"
+"Kyle:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Cartman:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Mr. Garrison:
+"
+"Stan:
+"
+"The Other Kids:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"
+"
+"Gerald:
+"
+"Linda:
+"
+"Randy:
+"
+"Gerald:
+"
+"Kyle:
+"
+"Sheila:
+"
+"Sharon:
+"
+"Kyle:
+"
+"Sheila:
+"
+"Linda:
+"
+"Stan:
+"
+"Chris:
+"
+"Kyle:
+"
+"Sheila:
+"
+"Stan:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sheila:
+"
+"
+"
+"Tour Guide:
+"
+"Cartman:
+"
+"Tour Guide:
+"
+"Voice:
+"
+"Cartman:
+"
+"Tour Guide:
+"
+"Cartman:
+"
+"Tour Guide:
+"
+"Randy:
+"
+"Tour Guide:
+"
+"Butters:
+"
+"Tour Guide:
+"
+"Cartman:
+"
+"Tour Guide:
+"
+"Randy:
+"
+"Janitor:
+"
+"Randy:
+"
+"Janitor:
+"
+"Tour Guide:
+"
+"Cartman:
+"
+"Tour Guide:
+"
+"Kyle:
+"
+"Stan:
+"
+"Tour Guide:
+"
+"Cartman:
+"
+"Tour Guide:
+"
+"Cartman:
+"
+"Randy:
+"
+"
+"
+"Tour Guide:
+"
+"Randy:
+"
+"Stan:
+"
+"Tour Guide:
+"
+"Smoker:
+"
+"Tour Guide:
+"
+"Smoker:
+"
+"Tour Guide:
+"
+"Gerald:
+"
+"Sharon:
+"
+"Chris:
+"
+"Richard:
+"
+"Tour Guide:
+"
+"Chris:
+"
+"The Boys:
+"
+"
+"
+"Mr. Garrison:
+"
+"Butters:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"Butters:
+"
+"Stan:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Butters:
+"
+"
+"
+"Chef:
+"
+"The Boys:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"Stan:
+"
+"Kyle:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Cartman:
+"
+"Chef:
+"
+"Cartman:
+"
+"
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Frog King:
+"
+"Singer:
+"
+"
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Chef:
+"
+"Principal Victoria:
+"
+"Chef:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Chef:
+"
+"
+"
+"Mr. Mackey:
+"
+"Stan:
+"
+"Randy:
+"
+"Butters:
+"
+"Chris:
+"
+"Butters:
+"
+"Chris:
+"
+"Mr. Mackey:
+"
+"Sharon:
+"
+"Liane:
+"
+"Sheila:
+"
+"Stan:
+"
+"
+"
+"Camp Warden:
+"
+"
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Singers:
+"
+"Frog King:
+"
+"Singers:
+"
+"Sparrow Prince:
+"
+"Singers:
+"
+"
+"
+"Camp Warden:
+"
+"Kyle:
+"
+"Camp Warden:
+"
+"Kyle:
+"
+"Camp Warden:
+"
+"Kyle:
+"
+"Camp Warden:
+"
+"Kyle:
+"
+"Camp Warden:
+"
+"
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Singers:
+"
+"A Catfish:
+"
+"Singers:
+"
+"Catatafish:
+"
+"Singers:
+"
+"
+"
+"Camp Warden:
+"
+"Camp Soldier:
+"
+"Camp Warden:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Camp Warden:
+"
+"Stan:
+"
+"Butters:
+"
+"Stan:
+"
+"
+"
+"Girl 1:
+"
+"Girl 2:
+"
+"Camp Soldier:
+"
+"Cartman:
+"
+"Camp Soldier:
+"
+"Cartman:
+"
+"Camp Soldier:
+"
+"Cartman:
+"
+"The Girls:
+"
+"Cartman:
+"
+"
+"
+"Tour Guide:
+"
+"Sharon:
+"
+"Tour Guide:
+"
+"Mr. Garrison:
+"
+"Randy:
+"
+"Gerald:
+"
+"Mr. Garrison:
+"
+"Man 1:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"Man 2:
+"
+"Man 3:
+"
+"Mr. Garrison:
+"
+"Audience:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"
+"
+"Frog King:
+"
+"
+"
+"Mr. Slave:
+"
+"Mr. Garrison:
+"
+"Man 4:
+"
+"Man 5:
+"
+"Mr. Garrison:
+"
+"Man 3:
+"
+"Mr. Garrison:
+"
+"Mr. Slave:
+"
+"Man 6:
+"
+"Man 3:
+"
+"Man 7:
+"
+"Mr. Garrison:
+"
+"Randy:
+"
+"Gerald:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"
+"
+"Randy:
+"
+"Sheila:
+"
+"Chris:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Camp Warden:
+"
+"Mr. Slave:
+"
+"Singers:
+"
+"Catatafish:
+"
+"Sparrow Prince:
+"
+"Frog King:
+"
+"The Three Spirits:
+"
+"
+"

@@ -1,0 +1,845 @@
+"x"
+"
+"
+"Ms. Choksondik:
+"
+"Rancher:
+"
+"Ms. Choksondik:
+"
+"Kids:
+"
+"Rancher Bob:
+"
+"Kyle:
+"
+"Rancher Bob:
+"
+"Cartman:
+"
+"Rancher Bob:
+"
+"Kids:
+"
+"Kyle:
+"
+"Rancher Bob:
+"
+"Cartman:
+"
+"Rancher Bob:
+"
+"Stan:
+"
+"Rancher Bob:
+"
+"Kyle:
+"
+"Rancher Bob:
+"
+"Stan:
+"
+"Butters:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Rancher Bob:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Butters:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Butters:
+"
+"Stan:
+"
+"Cartman:
+"
+"
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Butters:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Butters:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"Kyle:
+"
+"Butters:
+"
+"
+"
+"Officer Barbrady:
+"
+"Sharon:
+"
+"Officer Barbrady:
+"
+"Sharon:
+"
+"Rancher Bob:
+"
+"Shelly:
+"
+"Sharon:
+"
+"Stan:
+"
+"Sharon:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Shelly:
+"
+"Sharon:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Sharon:
+"
+"Stan:
+"
+"Butters:
+"
+"Kyle:
+"
+"
+"
+"Sharon:
+"
+"Rancher Bob:
+"
+"Sharon:
+"
+"Rancher Bob:
+"
+"Officer Barbrady:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Kyle, Butters:
+"
+"Cartman:
+"
+"
+"
+"Sharon:
+"
+"Sheila:
+"
+"Sharon:
+"
+"Sheila:
+"
+"Kyle:
+"
+"Sharon:
+"
+"Sheila:
+"
+"Kyle:
+"
+"Sharon:
+"
+"Sheila:
+"
+"Chris:
+"
+"Butters:
+"
+"Stan:
+"
+"Chris:
+"
+"Butters:
+"
+"Kyle:
+"
+"Chris:
+"
+"Butters:
+"
+"Chris:
+"
+"Butters:
+"
+"Chris:
+"
+"Sharon:
+"
+"Stan:
+"
+"Sharon:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Sharon:
+"
+"Sheila:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Butters:
+"
+"Stan:
+"
+"
+"
+"Randy:
+"
+"Gerald:
+"
+"Liane:
+"
+"Sharon:
+"
+"Liane:
+"
+"Sheila:
+"
+"
+"
+"Butters:
+"
+"Kyle:
+"
+"Butters:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Cartman:
+"
+"
+"
+"Sharon:
+"
+"Liane:
+"
+"Sharon:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle, Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Butters:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"Kyle:
+"
+"Field Reporter:
+"
+"Butters:
+"
+"Field Reporter:
+"
+"Craig's father, Tom:
+"
+"Randy:
+"
+"Field Reporter:
+"
+"Butters:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Field Reporter:
+"
+"
+"
+"Stan:
+"
+"Butters:
+"
+"
+"
+"Stan:
+"
+"Butters:
+"
+"Voices:
+"
+"Kyle:
+"
+"Hippies:
+"
+"Cartman:
+"
+"Stan:
+"
+"Hippie:
+"
+"Hippies:
+"
+"Kyle:
+"
+"Butters:
+"
+"Cartman:
+"
+"
+"
+"Field Reporter:
+"
+"Sharon:
+"
+"FBI Agent:
+"
+"Officer Barbrady:
+"
+"FBI Agent:
+"
+"FBI Negotiator:
+"
+"FBI Agent:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Butters:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Glen Dumont:
+"
+"Officer Barbardy:
+"
+"Glen Dumont:
+"
+"
+"
+"Stan:
+"
+"Glen Dumont:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"
+"
+"Glen Dumont:
+"
+"Randy:
+"
+"Glen Dumont:
+"
+"Randy:
+"
+"Sharon:
+"
+"Glen Dumont:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"
+"
+"Glen Dumont:
+"
+"Sheila:
+"
+"Glen Dumont:
+"
+"
+"
+"Kyle:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"Cartman:
+"
+"Glen Dumont:
+"
+"
+"
+"Glen Dumont:
+"
+"Adults:
+"
+"Officer Barbrady:
+"
+"FBI Agent:
+"
+"Glen Dumont:
+"
+"Sharon:
+"
+"Glen Dumont:
+"
+"Randy:
+"
+"FBI Agent:
+"
+"Glen Dumont:
+"
+"FBI Agent:
+"
+"Officer Barbrady:
+"
+"FBI Agent:
+"
+"
+"
+"FBI Agent:
+"
+"Michael Dorn:
+"
+"FBI Agent:
+"
+"Michael Dorn:
+"
+"FBI Agent:
+"
+"Cartman:
+"
+"Michael Dorn:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Cartman:
+"
+"FBI Agent:
+"
+"FBI Agents:
+"
+"Hippies:
+"
+"Cartman:
+"
+"Michael Dorn:
+"
+"Cartman:
+"
+"Michael Dorn:
+"
+"Cartman:
+"
+"Michael Dorn:
+"
+"Cartman:
+"
+"Michael Dorn:
+"
+"Cartman:
+"
+"
+"
+"Field Reporter:
+"
+"
+"
+"Butters:
+"
+"
+"
+"Cartman:
+"
+"Boys:
+"
+"
+"
+"Butters:
+"
+"Kyle:
+"
+"
+"
+"Cartman:
+"
+"Michael Dorn:
+"
+"Cartman:
+"
+"Michael Dorn:
+"
+"Cartman:
+"
+"
+"
+"Kyle:
+"
+"
+"
+"FBI Agent:
+"
+"Cartman:
+"
+"FBI Agent:
+"
+"
+"
+"Kyle:
+"
+"
+"
+"Cartman:
+"
+"Michael Dorn:
+"
+"Cartman:
+"
+"
+"
+"Stan:
+"
+"FBI Agent:
+"
+"Michael Dorn:
+"
+"Officer Barbrady:
+"
+"Rancher Bob:
+"
+"Officer Barbrady:
+"
+"Rancher Bob:
+"
+"Butters:
+"
+"Rancher Bob:
+"
+"Kyle:
+"
+"
+"
+"Dr. Doctor:
+"
+"Randy:
+"
+"Dr. Doctor:
+"
+"Kyle:
+"
+"Dr. Doctor:
+"
+"Cartman:
+"
+"Stan:
+"
+"Butters:
+"
+"Sheila:
+"
+"Chris:
+"
+"Butters:
+"
+"Kyle:
+"
+"Gerald:
+"
+"Chris:
+"
+"The Boys:
+"
+"
+"

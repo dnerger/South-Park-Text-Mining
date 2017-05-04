@@ -1,0 +1,723 @@
+"x"
+"
+"
+"Announcer:
+"
+"
+"
+"Mr. Garrison:
+"
+"Class::
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Mr. Garrison:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Stan:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"
+"
+"Cartman:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Mr. Garrison:
+"
+"Mr. Mackey:
+"
+"Mr. Hat:
+"
+"Mr. Mackey:
+"
+"Mr. Hat:
+"
+"Mr. Mackey:
+"
+"Mr. Hat:
+"
+"Mr. Mackey:
+"
+"Mr. Hat:
+"
+"Mr. Mackey:
+"
+"Mr. Hat:
+"
+"Mr. Mackey:
+"
+"Stan:
+"
+"Mr. Mackey:
+"
+"Students:
+"
+"Ms. Crabtree:
+"
+"Mr. Mackey:
+"
+"
+"
+"Mr. Mackey:
+"
+"Coordinator:
+"
+"Mr. Mackey:
+"
+"Coordinator:
+"
+"Mr. Mackey:
+"
+"Coordinator:
+"
+"Tough Guy 1:
+"
+"Tough Guy 2:
+"
+"Tough Guy 1:
+"
+"Kyle:
+"
+"Tough Guy 1:
+"
+"Stan:
+"
+"Kyle:
+"
+"Tough Guy 1:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Tough Guy 1:
+"
+"Cartman:
+"
+"Black kid:
+"
+"Cartman:
+"
+"Stan:
+"
+"Tough Guy 1:
+"
+"Kyle:
+"
+"Coordinator:
+"
+"Tough Guy 1:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"
+"
+"Coordinator:
+"
+"Yoko Ono:
+"
+"Coordinator:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Tough Guy 1:
+"
+"Stan:
+"
+"Tough Guy 2:
+"
+"Kyle:
+"
+"Tough Guy 1:
+"
+"Athlete:
+"
+"Stan:
+"
+"Kyle:
+"
+"Tough Guy 1:
+"
+"Stan:
+"
+"New Yorkers:
+"
+"Athlete:
+"
+"New Yorker 1:
+"
+"New Yorker 2:
+"
+"Tough Guy 1:
+"
+"Kyle:
+"
+"Stan:
+"
+"Tough Guy 1:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Mrs. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mrs. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mrs. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mrs. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mrs. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mrs. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mrs. Garrison Sr.:
+"
+"Mr. Garrison Sr.:
+"
+"Mrs. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"
+"
+"Yoko Ono:
+"
+"Coordinator:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Yoko Ono:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Mr. Mackey:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison Sr.:
+"
+"
+"
+"Reporter:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Reporter:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Delivery Man:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Patron 1:
+"
+"Mr. Garrison Sr.:
+"
+"Patron 1:
+"
+"Patron 2:
+"
+"Patron 3:
+"
+"Patron 1:
+"
+"Mr. Garrison Sr.:
+"
+"Patron 2:
+"
+"Patron 3:
+"
+"Blond:
+"
+"Mr. Garrison Sr.:
+"
+"Patron 1:
+"
+"Patron 2:
+"
+"Patron 4:
+"
+"Patron 5:
+"
+"Mr. Garrison Sr.:
+"
+"Patron 2:
+"
+"Patron 1:
+"
+"Patrons:
+"
+"Patron 2:
+"
+"Patron 1:
+"
+"Patron 2:
+"
+"Patron 3:
+"
+"Mr. Garrison Sr.:
+"
+"Blond:
+"
+"Patrons:
+"
+"Patron 6:
+"
+"Patron 7:
+"
+"Patron 8:
+"
+"Patron 9:
+"
+"Mr. Garrison Sr.:
+"
+"Patron 8:
+"
+"Mr. Garrison Sr.:
+"
+"Blond:
+"
+"Mr. Garrison Sr.:
+"
+"Patron 3:
+"
+"Patron 2:
+"
+"Patron 1:
+"
+"Patron 3:
+"
+"Patron 1:
+"
+"Bartender:
+"
+"Patron 1:
+"
+"Patron 2:
+"
+"Patron 3:
+"
+"Bartender:
+"
+"Patron 10:
+"
+"Patron 1:
+"
+"Patron 3:
+"
+"
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Coordinator:
+"
+"Chip:
+"
+"Coordinator:
+"
+"
+"
+"Mr. Garrison:
+"
+"
+"
+"Mr. Garrison:
+"
+"
+"
+"Mr. Garrison:
+"
+"Mrs. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mr. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mrs. Garrison Sr.:
+"
+"Mr. Garrison:
+"
+"Mrs. Garrison Sr.:
+"
+"Mr. Garrison Sr.:
+"
+"Kenny G.
+"
+"
+"
+"Announcer:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Kenny G:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Yoko Ono:
+"
+"Stan, Kyle, Kenny, Cartman:
+"
+"Stan:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Stan, Kyle, Kenny, Cartman:
+"
+"
+"
+"Reporter:
+"
+"Rick:
+"
+"Kenny G.:
+"
+"Yoko Ono:
+"
+"Mr. Mackey:
+"
+"Kyle:
+"
+"Stan:
+"
+"Mr. Mackey:
+"
+"Kyle:
+"
+"Tough Guy 1:
+"
+"Tough Guy 2:
+"
+"Stan:
+"
+"Tough Guy 1:
+"
+"Stan:
+"
+"Tough Guy 2:
+"
+"Kyle:
+"
+"Tough Guy 1:
+"
+"Kyle:
+"
+"Stan:
+"
+"Tough Guy 1:
+"
+"Tough Guy 2:
+"
+"Cartman:
+"
+"Tough Guy 1:
+"
+"Mr. Garrison:
+"
+"Kenny G:
+"
+"Mr. Garrison:
+"
+"Ms. Crabtree:
+"
+"Mr. Garrison:
+"
+"
+"

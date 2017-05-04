@@ -1,0 +1,607 @@
+"x"
+"
+"
+"Clyde:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"Toddler Stan:
+"
+"Toddler Kyle:
+"
+"Toddler Cartman:
+"
+"Toddler Kyle:
+"
+"Toddler Cartman:
+"
+"Toddler Kenny:
+"
+"Toddler Stan:
+"
+"Toddler Cartman:
+"
+"Kyle:
+"
+"Trent:
+"
+"Boy:
+"
+"Trent:
+"
+"Boy:
+"
+"Trent:
+"
+"Kyle:
+"
+"Trent:
+"
+"Stan:
+"
+"Kyle:
+"
+"Trent:
+"
+"Stan:
+"
+"Cartman:
+"
+"Trent:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Stan:
+"
+"Kyle:
+"
+"Trent:
+"
+"Teacher:
+"
+"Trent:
+"
+"Teacher:
+"
+"Stan:
+"
+"
+"
+"Paramedic:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Officer:
+"
+"Stan:
+"
+"Kyle:
+"
+"Trent:
+"
+"Cartman:
+"
+"Officer:
+"
+"Trent:
+"
+"Butters:
+"
+"Trent:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"The Boys:
+"
+"
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"The Boys:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"
+"
+"Warden:
+"
+"Trent:
+"
+"
+"
+"Butters:
+"
+"Stephen:
+"
+"Butters:
+"
+"Stephen:
+"
+"Butters:
+"
+"Linda:
+"
+"Butters:
+"
+"Linda:
+"
+"Butters:
+"
+"Stephen:
+"
+"Butters:
+"
+"
+"
+"Stephen:
+"
+"Butters:
+"
+"Linda:
+"
+"Stephen:
+"
+"Butters:
+"
+"Linda:
+"
+"Butters:
+"
+"Trent:
+"
+"Butters:
+"
+"Trent:
+"
+"Butters:
+"
+"Trent:
+"
+"Butters:
+"
+"Trent:
+"
+"Butters:
+"
+"Trent:
+"
+"Butters:
+"
+"
+"
+"Linda:
+"
+"Stephen:
+"
+"Dr. Doctor:
+"
+"Linda:
+"
+"Dr. Doctor:
+"
+"Linda:
+"
+"Stephen:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"
+"
+"Sixth Grader 1:
+"
+"Sixth Grade Leader:
+"
+"Kyle:
+"
+"Stan:
+"
+"Sixth Grade Leader:
+"
+"Stan:
+"
+"Sixth Grade Leader:
+"
+"Kyle:
+"
+"Sixth Grade Leader:
+"
+"Cartman:
+"
+"Sixth Grade Leader:
+"
+"Kyle:
+"
+"Sixth Grade Leader:
+"
+"Stan:
+"
+"Sixth Graders:
+"
+"Sixth Grade Leader:
+"
+"Sixth Graders:
+"
+"Stan:
+"
+"Sixth Grader 2:
+"
+"Sixth Grader 3:
+"
+"Stan:
+"
+"Sixth Grade Leader:
+"
+"Stan:
+"
+"Sixth Grade Leader:
+"
+"Kyle:
+"
+"Sixth Grade Leader:
+"
+"Cartman:
+"
+"
+"
+"
+"
+"Woman 1:
+"
+"Woman 2:
+"
+"Man 2:
+"
+"Man 3:
+"
+"
+"
+"Trent:
+"
+"Sheila:
+"
+"Trent:
+"
+"
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kenny:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"
+"
+"Stan:
+"
+"Sixth Grade Leader:
+"
+"Stan:
+"
+"Sixth Grader 4:
+"
+"Sixth Grader 5:
+"
+"Sixth Grader 2:
+"
+"Sixth Grader 8:
+"
+"Sixth Grader 4:
+"
+"Sixth Grader 2:
+"
+"Sixth Graders:
+"
+"Sixth Grader 3:
+"
+"Kyle:
+"
+"Sixth Grade Leader:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Sixth Grader 9:
+"
+"Sixth Grader 2:
+"
+"Sixth Grade Leader:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Man 4:
+"
+"Cartman:
+"
+"
+"
+"Dr. Doctor:
+"
+"Nurse 1:
+"
+"Dr. Doctor:
+"
+"Nurse 2:
+"
+"Sixth Grader:
+"
+"Dr. Doctor:
+"
+"Stan:
+"
+"Sixth Grade Leader:
+"
+"Kyle:
+"
+"Dr. Doctor:
+"
+"Stan:
+"
+"Dr. Doctor:
+"
+"
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Stan:
+"
+"Shelly:
+"
+"Stan:
+"
+"Shelly:
+"
+"Stan:
+"
+"Shelly:
+"
+"Stan:
+"
+"Shelly:
+"
+"Stan:
+"
+"Shelly:
+"
+"Kyle:
+"
+"Shelly:
+"
+"Cartman:
+"
+"Shelly:
+"
+"Stan:
+"
+"Shelly:
+"
+"
+"
+"Man 5:
+"
+"Woman 3:
+"
+"Man 6:
+"
+"Man 5:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Stan:
+"
+"Trent:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Trent:
+"
+"Kyle:
+"
+"Trent:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Trent:
+"
+"Cartman:
+"
+"Trent:
+"
+"Officer 2:
+"
+"Trent:
+"
+"Cartman:
+"
+"Officer 2:
+"
+"Trent:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"The Boys:
+"
+"Cartman:
+"
+"Sixth Grader 2:
+"
+"Cartman:
+"
+"Sixth Grader 2:
+"
+"Sixth Grader 1:
+"
+"Sixth Graders:
+"
+"Sixth Grader 1:
+"
+"Sixth Grader 2:
+"
+"Cartman:
+"
+"
+"

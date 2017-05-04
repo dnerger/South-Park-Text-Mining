@@ -1,0 +1,629 @@
+"x"
+"
+"
+"Kyle:
+"
+"
+"
+"Local Announcer 1:
+"
+"
+"
+"Randy:
+"
+"Mr. Varcas:
+"
+"Mr. Donovan:
+"
+"
+"
+"Kyle:
+"
+"Butters:
+"
+"Umpire:
+"
+"Mr. Varcas:
+"
+"Randy:
+"
+"Mr. Varcas:
+"
+"Randy:
+"
+"Mr. Varcas:
+"
+"Randy:
+"
+"Sharon:
+"
+"Mr. Varcas:
+"
+"Randy:
+"
+"Sharon:
+"
+"Mr. Varcas:
+"
+"Randy:
+"
+"Mr. Varcas:
+"
+"Stan:
+"
+"Kyle:
+"
+"Umpire:
+"
+"Stan:
+"
+"Local Announcer 1:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Steven:
+"
+"Stan:
+"
+"Steven:
+"
+"Gerald:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Tom:
+"
+"Stan:
+"
+"
+"
+"Randy:
+"
+"
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Craig:
+"
+"Stan:
+"
+"Butters:
+"
+"Craig:
+"
+"Jimmy:
+"
+"Stan:
+"
+"Kyle:
+"
+"Butters:
+"
+"The other boys:
+"
+"Stan:
+"
+"Butters:
+"
+"
+"
+"Gerald:
+"
+"Mr. Donovan:
+"
+"Randy:
+"
+"Men:
+"
+"Steven:
+"
+"Gerald:
+"
+"Stan:
+"
+"Richard:
+"
+"Randy:
+"
+"Steven:
+"
+"Randy:
+"
+"Steven:
+"
+"Gerald:
+"
+"Randy:
+"
+"
+"
+"DJ:
+"
+"
+"
+"
+"
+"FC Announcer:
+"
+"Stan:
+"
+"FC Team:
+"
+"FC Fat Player:
+"
+"FC Pitcher:
+"
+"FC Team:
+"
+"Kyle:
+"
+"FC Batter:
+"
+"FC Catcher:
+"
+"Butters:
+"
+"Stan:
+"
+"FC Pitcher:
+"
+"Kyle:
+"
+"FC Batter:
+"
+"SP Team:
+"
+"FC Team:
+"
+"Randy:
+"
+"Mr. Pratt:
+"
+"Randy:
+"
+"Cartman:
+"
+"FC Announcer:
+"
+"Randy:
+"
+"Mr. Pratt:
+"
+"Umpire:
+"
+"Randy:
+"
+"FC Team:
+"
+"Stan:
+"
+"Cartman:
+"
+"Morgan:
+"
+"Kyle:
+"
+"Umpire:
+"
+"Cartman:
+"
+"FC Pitcher:
+"
+"Morgan:
+"
+"FC Pitcher:
+"
+"Morgan:
+"
+"FC Pitcher:
+"
+"Morgan:
+"
+"Cartman:
+"
+"Umpire:
+"
+"Stan:
+"
+"Cartman:
+"
+"Randy:
+"
+"Mr. Pratt:
+"
+"Morgan:
+"
+"FC Pitcher:
+"
+"Morgan:
+"
+"Umpire:
+"
+"FC Batter 1:
+"
+"
+"
+"Umpire:
+"
+"Cartman:
+"
+"Randy:
+"
+"Cartman:
+"
+"Umpire:
+"
+"Kyle:
+"
+"Randy:
+"
+"Mr. Pratt:
+"
+"Randy:
+"
+"Sharon:
+"
+"Mr. Pratt:
+"
+"Stan:
+"
+"Umpire:
+"
+"FC Announcer:
+"
+"Stan:
+"
+"Randy:
+"
+"
+"
+"Umpire:
+"
+"Greeley Batter:
+"
+"Greeley Team:
+"
+"Greeley Man:
+"
+"Randy:
+"
+"
+"
+"Umpire:
+"
+"Butters:
+"
+"SP Team:
+"
+"
+"
+"Umpire:
+"
+"Cartman:
+"
+"
+"
+"Randy:
+"
+"
+"
+"Umpire:
+"
+"Pueblo Team:
+"
+"Pueblo Dad:
+"
+"Randy:
+"
+"Umpire:
+"
+"Randy:
+"
+"
+"
+"Steven:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Steven:
+"
+"Kyle:
+"
+"Mr. Donovan:
+"
+"Steven:
+"
+"Stan:
+"
+"
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"
+"
+"Announcer:
+"
+"
+"
+"Anchor Tom:
+"
+"Reporter:
+"
+"Stan:
+"
+"Denver Player:
+"
+"Denver Player 2:
+"
+"Reporter:
+"
+"Stan:
+"
+"Reporter:
+"
+"Randy:
+"
+"Reporter Chris:
+"
+"Bat dad:
+"
+"Sheila:
+"
+"A Woman:
+"
+"Tom Nelson:
+"
+"Reporter Chris:
+"
+"Randy:
+"
+"Tom Nelson:
+"
+"Denver Cop:
+"
+"Tom Nelson:
+"
+"Reporter Chris:
+"
+"Randy:
+"
+"Denver Player 3:
+"
+"Denver Player 4:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Clyde:
+"
+"Cartman:
+"
+"Stan:
+"
+"Craig:
+"
+"Kyle:
+"
+"
+"
+"Announcer:
+"
+"Kyle 1:
+"
+"Kyle:
+"
+"Kyle 1:
+"
+"Kyle:
+"
+"Kyle 1:
+"
+"Craig:
+"
+"Stan:
+"
+"
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"
+"
+"Announcer:
+"
+"Denver Pitcher:
+"
+"Denver Catcher:
+"
+"Cartman:
+"
+"Denver Pitcher:
+"
+"Kyle:
+"
+"Denver Pitcher:
+"
+"Bat Dad:
+"
+"Woman:
+"
+"Announcer:
+"
+"Kyle 1:
+"
+"Umpire:
+"
+"Kyle 1:
+"
+"Umpire:
+"
+"SP Team:
+"
+"Kyle 1:
+"
+"Second Baseman:
+"
+"Kyle 1:
+"
+"Umpire:
+"
+"SP Team:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle 1:
+"
+"Umpire:
+"
+"Mr. Donovan:
+"
+"Kyle 1:
+"
+"Kyle:
+"
+"Kyle 1:
+"
+"Steven:
+"
+"Bat Dad:
+"
+"Umpire:
+"
+"Kyle 1:
+"
+"Kyle:
+"
+"Stan:
+"
+"Token:
+"
+"Mr. Williams:
+"
+"
+"
+"Bat Dad:
+"
+"Umpire:
+"
+"Denver Team:
+"
+"Kyle:
+"
+"Butters:
+"
+"
+"
+"Announcer:
+"
+"Umpire:
+"
+"Bat Dad:
+"
+"Gerald:
+"
+"Bat Dad:
+"
+"A Voice:
+"
+"Umpire:
+"
+"Kyle 1:
+"
+"Randy:
+"
+"Bat Dad:
+"
+"Randy:
+"
+"Stan:
+"
+"Bat Dad:
+"
+"Commentator:
+"
+"Umpire:
+"
+"Stan:
+"
+"Umpire 2:
+"
+"Bat Dad:
+"
+"Stan:
+"
+"Kyle:
+"
+"Umpire 2:
+"
+"SP Team:
+"
+"Mickey:
+"
+"Sharon:
+"
+"Crowd:
+"
+"Randy:
+"
+"SP Team:
+"
+"Umpire 2:
+"
+"SP Team:
+"
+"SP Adults:
+"
+"Commentator:
+"
+"Kyle 1:
+"
+"Randy:
+"
+"Stan:
+"
+"
+"

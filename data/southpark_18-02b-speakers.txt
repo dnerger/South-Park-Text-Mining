@@ -1,0 +1,627 @@
+"x"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Craig:
+"
+"Cartman:
+"
+"Jimmy:
+"
+"Token:
+"
+"Kyle:
+"
+"Craig:
+"
+"Cartman:
+"
+"Craig:
+"
+"Kyle:
+"
+"Jimmy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"
+"
+"Cartman:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"Pricipal Victoria:
+"
+"Woman:
+"
+"Mr. Adler:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Adler:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"Mr. Mackey:
+"
+"Principal Victoria:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Principal Victoria:
+"
+"Mr. Mackey:
+"
+"Coach:
+"
+"Mr. Mackey:
+"
+"Mr. Garrison:
+"
+"Mr. Mackey:
+"
+"Principal Victoria:
+"
+"Mr. Garrison:
+"
+"
+"
+"Kyle:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Stan:
+"
+"
+"
+"DJ:
+"
+"Kyle:
+"
+"Cartman:
+"
+"DJ:
+"
+"Cartman:
+"
+"Stan:
+"
+"DJ:
+"
+"Scott:
+"
+"Cartman:
+"
+"DJ:
+"
+"Craig:
+"
+"Kyle:
+"
+"Craig:
+"
+"Cartman:
+"
+"Craig:
+"
+"DJ:
+"
+"Stan:
+"
+"DJ:
+"
+"Principal Victoria:
+"
+"Stan:
+"
+"Principal Victoria:
+"
+"DJ:
+"
+"Mark:
+"
+"DJ:
+"
+"Mr. Garrison:
+"
+"Cartman:
+"
+"
+"
+"John Garner:
+"
+"Randy:
+"
+"John Garner:
+"
+"Mr. Garrison:
+"
+"John Garner:
+"
+"Mr. Mackey:
+"
+"John Garner:
+"
+"Mr. Mackey:
+"
+"John Garner:
+"
+"Mr. Mackey:
+"
+"
+"
+"Stephen:
+"
+"Mr. Garrison:
+"
+"Stephen:
+"
+"Mr. Garrison:
+"
+"Stephen:
+"
+"
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Stan:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Mr. Garrison:
+"
+"Farmer:
+"
+"Randy:
+"
+"
+"
+"Tom Vilsack:
+"
+"Researcher:
+"
+"Tom Vilsack:
+"
+"Researcher:
+"
+"Tom Vilsack:
+"
+"Researcher:
+"
+"Tom Vilsack:
+"
+"
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Randy:
+"
+"Worker 1:
+"
+"Randy:
+"
+"Worker 2:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"Worker 1:
+"
+"Shelly:
+"
+"Randy:
+"
+"Worker 2:
+"
+"Randy:
+"
+"Worker 1:
+"
+"Randy:
+"
+"
+"
+"Randy:
+"
+"Soldier:
+"
+"Randy:
+"
+"Soldier:
+"
+"A Quarantine:
+"
+"Randy:
+"
+"Mr. Garrison:
+"
+"
+"
+"Jeff:
+"
+"Tom Vilsack:
+"
+"Researcher:
+"
+"Agent:
+"
+"Tom Vilsack:
+"
+"FDA Agent 1:
+"
+"Tom Vilsack:
+"
+"Michael Taylor:
+"
+"Tom Vilsack:
+"
+"Michael Taylor:
+"
+"
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Soldier 2:
+"
+"Stan:
+"
+"Randy:
+"
+"Soldier 2:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"
+"
+"Craig:
+"
+"Token:
+"
+"Jimmy:
+"
+"Aunt Jemima:
+"
+"Cartman:
+"
+"Aunt Jemima:
+"
+"Cartman:
+"
+"Aunt Jemima:
+"
+"Cartman:
+"
+"Aunt Jemima:
+"
+"Cartman:
+"
+"Aunt Jemima:
+"
+"Cartman:
+"
+"Aunt Jemima:
+"
+"Cartman:
+"
+"Cartman:
+"
+"
+"
+"Randy:
+"
+"Mr. Garrison:
+"
+"Blond:
+"
+"Randy:
+"
+"Blond:
+"
+"Mr. Garrison:
+"
+"Blond:
+"
+"Randy:
+"
+"Blond:
+"
+"Randy:
+"
+"Blond:
+"
+"Mr. Garrison:
+"
+"Randy:
+"
+"Blond:
+"
+"Randy:
+"
+"
+"
+"Stan:
+"
+"DJ:
+"
+"Craig:
+"
+"Kyle:
+"
+"Craig:
+"
+"DJ:
+"
+"Jamie:
+"
+"DJ:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Scott:
+"
+"Wendy:
+"
+"Kyle:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"DJ:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Tom Vilsack:
+"
+"Jeff White:
+"
+"Tom Vilsack:
+"
+"Cartman:
+"
+"Tom Vilsack:
+"
+"Cartman:
+"
+"Tom Vilsack:
+"
+"Programmer:
+"
+"Tom Vilsack:
+"
+"Cartman:
+"
+"Tom Vilsack:
+"
+"Cartman:
+"
+"Tom Vilsack:
+"
+"Programmer 2:
+"
+"Tom Vilsack:
+"
+"Michael Taylor:
+"
+"Tom Vilsack:
+"
+"Programmer 3:
+"
+"Programmer 4:
+"
+"Programmer 5:
+"
+"Tom Vilsack:
+"
+"
+"
+"Craig:
+"
+"Kyle:
+"
+"Scott:
+"
+"Kyle:
+"
+"Tom Vilsack:
+"
+"Cartman:
+"
+"Tom Vilsack:
+"
+"Cartman:
+"
+"Jeff White:
+"
+"Clyde:
+"
+"Jimmy:
+"
+"Randy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Wendy:
+"
+"Randy:
+"
+"
+"

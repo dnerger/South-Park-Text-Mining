@@ -1,0 +1,73 @@
+"x"
+"Stan Marsh
+"
+"Kyle Broflovski
+"
+"Eric Cartman
+"
+"Kenny McCormick
+"
+"Clyde Donovan
+"
+"Craig Tucker
+"
+"Jimmy Valmer
+"
+"Token Black
+"
+"Wendy Testaburger
+"
+"Scott Malkinson
+"
+"Coach
+"
+"Mr. Adler
+"
+"Mr. Garrison
+"
+"Mr. Mackey
+"
+"Woman
+"
+"Pricipal Victoria
+"
+"Randy Marsh
+"
+"Sharon Marsh
+"
+"Shelly Marsh
+"
+"Stephen Stotch
+"
+"Agent
+"
+"Aunt Jemima
+"
+"Blond
+"
+"WSPIC DJ
+"
+"Farmer
+"
+"FDA Agent 1
+"
+"Jamie (voice only)
+"
+"Jeff White
+"
+"John Garner
+"
+"Mark (voice only)
+"
+"Michael Taylor, FDA
+"
+"Researcher
+"
+"Tom Vilsack
+"
+"Programmers (1,2,3,4,5)
+"
+"Soldiers (1,2)
+"
+"Workers (1,2)
+"

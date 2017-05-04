@@ -1,0 +1,645 @@
+"x"
+"
+"
+"Sheila:
+"
+"Gerald:
+"
+"
+"
+"Sheila:
+"
+"Kyle:
+"
+"Sheila:
+"
+"Kyle:
+"
+"
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Sheila:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Sheila:
+"
+"Gerald:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Sheila:
+"
+"Kyle:
+"
+"Gerald:
+"
+"Kenny:
+"
+"Sheila:
+"
+"Kenny:
+"
+"Sheila:
+"
+"Kenny:
+"
+"Sheila:
+"
+"
+"
+"Sheila:
+"
+"Kenny:
+"
+"Sheila:
+"
+"Kenny:
+"
+"Ike:
+"
+"Kyle:
+"
+"Sheila:
+"
+"Ike:
+"
+"Kyle:
+"
+"Ike:
+"
+"Kyle:
+"
+"Gerald:
+"
+"Ike:
+"
+"Gerald:
+"
+"Kyle:
+"
+"Gerald:
+"
+"Kyle:
+"
+"Sheila:
+"
+"Gerald:
+"
+"Kyle:
+"
+"Sheila:
+"
+"
+"
+"Ranger:
+"
+"Gerald:
+"
+"Kyle:
+"
+"Ranger:
+"
+"Sheila:
+"
+"Gerald:
+"
+"Sheila:
+"
+"Kenny:
+"
+"Sheila:
+"
+"Kenny:
+"
+"Squirt leader:
+"
+"Kyle:
+"
+"Squirt leader:
+"
+"Kyle:
+"
+"Ike:
+"
+"Kyle:
+"
+"Ike:
+"
+"Squirt leader:
+"
+"Ranger:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Ranger:
+"
+"Kyle:
+"
+"Ranger:
+"
+"
+"
+"Kenny:
+"
+"Kyle:
+"
+"
+"
+"Chief elder:
+"
+"Elders:
+"
+"Chief elder:
+"
+"Elder 1:
+"
+"Elder 2:
+"
+"Elder 3:
+"
+"Chief elder:
+"
+"Elder Garth:
+"
+"
+"
+"Squirt leader:
+"
+"Squirt 1:
+"
+"Squirt leader:
+"
+"Squirt 2:
+"
+"Ike:
+"
+"Squirt 2:
+"
+"Ike:
+"
+"
+"
+"Elder:
+"
+"Kyle:
+"
+"Elder:
+"
+"Inductee:
+"
+"Elder:
+"
+"Kyle:
+"
+"Elder:
+"
+"Inductees:
+"
+"Elder:
+"
+"Inductees:
+"
+"Elder:
+"
+"Inductees:
+"
+"Elder:
+"
+"Inductees:
+"
+"Elder:
+"
+"Inductee 1:
+"
+"Elder:
+"
+"Inductee 2:
+"
+"Elder:
+"
+"Kenny:
+"
+"
+"
+"Squirt leader:
+"
+"Ishmael:
+"
+"Squirt leader:
+"
+"Matthew:
+"
+"Squirt leader:
+"
+"Joseph:
+"
+"Squirt leader:
+"
+"Ike:
+"
+"Squirt leader:
+"
+"
+"
+"Chief Elder:
+"
+"Elder Garth:
+"
+"Chief elder:
+"
+"Elder Garth:
+"
+"Chief elder:
+"
+"Elder Garth:
+"
+"Elder Harris:
+"
+"Elder Garth:
+"
+"Chief elder:
+"
+"Elder Garth:
+"
+"Chief elder:
+"
+"
+"
+"
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Chief elder:
+"
+"Scouts:
+"
+"All:
+"
+"Elder Garth:
+"
+"
+"
+"Squirt leader:
+"
+"Matthew:
+"
+"Squirt leader:
+"
+"
+"
+"All:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Chief elder:
+"
+"Moses:
+"
+"All:
+"
+"Chief elder:
+"
+"Kyle:
+"
+"
+"
+"Elder Garth:
+"
+"
+"
+"Chief elder:
+"
+"
+"
+"Squirt leader:
+"
+"Squirt:
+"
+"Squirt leader:
+"
+"Ike:
+"
+"Squirt leader:
+"
+"
+"
+"All:
+"
+"Chief elder:
+"
+"Moses:
+"
+"Chief elder:
+"
+"Moses:
+"
+"Chief elder:
+"
+"Moses:
+"
+"Garth:
+"
+"Chief elder:
+"
+"Moses:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Chief elder:
+"
+"Kyle:
+"
+"Kenny:
+"
+"
+"
+"
+"
+"Chief elder:
+"
+"Kenny:
+"
+"Chief elder:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Moses:
+"
+"Chief elder:
+"
+"Moses:
+"
+"Elder Garth:
+"
+"Chief elder:
+"
+"Elder Garth:
+"
+"Elder Harris:
+"
+"Elder Garth:
+"
+"Moses:
+"
+"Elder Garth:
+"
+"Chief elder:
+"
+"Elder Garth:
+"
+"Elder:
+"
+"Elder Garth:
+"
+"Scout:
+"
+"Elder Garth:
+"
+"Chief Elder:
+"
+"Elder Garth:
+"
+"Kyle:
+"
+"Chief elder:
+"
+"Kenny:
+"
+"
+"
+"Squirt leader:
+"
+"Squirt:
+"
+"Squirt leader:
+"
+"Ike:
+"
+"Squirt leader:
+"
+"
+"
+"Elder Garth:
+"
+"Chief elder:
+"
+"Scout:
+"
+"
+"
+"Kenny:
+"
+"
+"
+"Squirt leader:
+"
+"
+"
+"Elder Garth:
+"
+"Chief elder:
+"
+"Elder Garth:
+"
+"Kenny:
+"
+"
+"
+"Chief Elder:
+"
+"Elder:
+"
+"Elder Harris:
+"
+"Elder:
+"
+"Kyle:
+"
+"Elder 2:
+"
+"Kyle:
+"
+"
+"
+"Kenny:
+"
+"Squirt:
+"
+"Squirt 2:
+"
+"Bear cub:
+"
+"Kenny:
+"
+"Squirt:
+"
+"Kenny:
+"
+"Squirt:
+"
+"All:
+"
+"
+"
+"
+"
+"Squirt leader:
+"
+"Elder Schwartz
+"
+"Shlomo:
+"
+"Elder Schwartz
+"
+"Schlomo:
+"
+"Elder Schwartz:
+"
+"Schlomo:
+"
+"Elder Schwartz:
+"
+"Schlomo:
+"
+"Elder Garth:
+"
+"Schlomo:
+"
+"Elder Garth:
+"
+"Schlomo:
+"
+"Elder Garth:
+"
+"Schlomo:
+"
+"Elder Garth:
+"
+"Elder Schwartz:
+"
+"Elder Garth:
+"
+"Kenny:
+"
+"Elder Garth:
+"
+"Elder Schwartz:
+"
+"Kyle:
+"
+"Elder Schwartz:
+"
+"Elder Harris:
+"
+"Squirt:
+"
+"
+"
+"Elder Garth:
+"
+"Kenny:
+"
+"Elder Garth:
+"
+"Kenny:
+"
+"
+"
+"Elder Harris:
+"
+"Elder Garth:
+"
+"Kyle:
+"
+"Elder Schwartz:
+"
+"Elder Garth:
+"
+"Haman:
+"
+"Elder Garth:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Kyle:
+"
+"Kenny:
+"
+"Haman:
+"
+"Elder Garth:
+"
+"Moses:
+"
+"Elder Garth:
+"
+"All:
+"
+"Kyle:
+"
+"Elder Harris:
+"
+"Elder Carn:
+"
+"Kyle:
+"
+"Elder Harris:
+"
+"Moses:
+"
+"Elder Harris:
+"
+"Moses:
+"
+"Elder Harris:
+"
+"Moses:
+"
+"Elder Schwartz:
+"
+"
+"

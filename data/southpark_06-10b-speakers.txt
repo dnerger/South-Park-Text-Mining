@@ -1,0 +1,785 @@
+"x"
+"
+"
+"Liane:
+"
+"Stan:
+"
+"Liane:
+"
+"Kyle:
+"
+"Liane:
+"
+"Tweek:
+"
+"
+"
+"Cartman:
+"
+"Polly Prissy Pants:
+"
+"Cartman:
+"
+"Poodle:
+"
+"Cartman:
+"
+"Polly Prissy Pants:
+"
+"Cartman:
+"
+"Polly Prissy Pants:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"
+"
+"Wendy:
+"
+"Bebe:
+"
+"Wendy:
+"
+"Bebe:
+"
+"Wendy:
+"
+"Bebe:
+"
+"Mr. Mackey:
+"
+"Cartman:
+"
+"Mr. Mackey:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Clyde:
+"
+"Token:
+"
+"Butters:
+"
+"Cartman:
+"
+"Craig:
+"
+"Cartman:
+"
+"Craig:
+"
+"Mr. Mackey:
+"
+"Bebe::
+"
+"All the boys:
+"
+"Clyde:
+"
+"All the boys:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"
+"
+"Wendy:
+"
+"Stan:
+"
+"Bebe:
+"
+"Stan:
+"
+"Bebe:
+"
+"Butters:
+"
+"Kyle:
+"
+"Bebe:
+"
+"The boys:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Clyde:
+"
+"Token:
+"
+"Stan:
+"
+"Wendy:
+"
+"Stan:
+"
+"Kyle:
+"
+"Clyde:
+"
+"
+"
+"Stan:
+"
+"Driver:
+"
+"Bebe:
+"
+"Clyde:
+"
+"Bebe:
+"
+"Token:
+"
+"Driver:
+"
+"The boys:
+"
+"Butters:
+"
+"Kyle:
+"
+"Clyde:
+"
+"Kyle:
+"
+"Clyde:
+"
+"Kyle:
+"
+"Clyde:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Craig:
+"
+"Bebe:
+"
+"Stan:
+"
+"Kyle:
+"
+"The boys:
+"
+"Cartman:
+"
+"Butters:
+"
+"Jimbo:
+"
+"
+"
+"The boys:
+"
+"Bebe:
+"
+"Wendy:
+"
+"Mr. Mackey:
+"
+"Clyde:
+"
+"Stan:
+"
+"Butters:
+"
+"Clyde:
+"
+"Stan:
+"
+"Clyde:
+"
+"Mr. Mackey:
+"
+"Token:
+"
+"Mr. Mackey:
+"
+"The boys:
+"
+"Mr. Mackey:
+"
+"Bebe:
+"
+"The boys:
+"
+"Bebe:
+"
+"Clyde:
+"
+"Bebe:
+"
+"The boys:
+"
+"Cartman:
+"
+"Craig:
+"
+"Stan:
+"
+"Mr. Mackey:
+"
+"Wendy:
+"
+"Cartman:
+"
+"
+"
+"Wendy:
+"
+"Clyde:
+"
+"Wendy:
+"
+"Kyle:
+"
+"The boys:
+"
+"Wendy:
+"
+"Millie:
+"
+"Esther:
+"
+"Red:
+"
+"Millie:
+"
+"Wendy:
+"
+" Millie and Esther :
+"
+"Bebe:
+"
+"Wendy:
+"
+"Millie:
+"
+"Esther:
+"
+"Millie:
+"
+"Bebe:
+"
+"Wendy:
+"
+"Millie:
+"
+"Esther:
+"
+"Red:
+"
+"Wendy:
+"
+"Millie:
+"
+"Girls:
+"
+"
+"
+"Mrs. Stevens:
+"
+"Bebe:
+"
+"Bebe's Mom:
+"
+"Bebe:
+"
+"Bebe's Mom:
+"
+"Bebe:
+"
+"
+"
+"Tweek:
+"
+"Cartman:
+"
+"Tweek:
+"
+"Cartman:
+"
+"Stan, Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"
+"
+"Bebe:
+"
+"Stan:
+"
+"Cartman:
+"
+"
+"
+"Wendy:
+"
+"Clyde:
+"
+"Wendy:
+"
+"Craig:
+"
+"Token:
+"
+"The Other Boys:
+"
+"Wendy:
+"
+"Clyde:
+"
+"Wendy:
+"
+"Butters:
+"
+"Clyde:
+"
+"Craig:
+"
+"Butters:
+"
+"Clyde:
+"
+"Butters:
+"
+"Craig:
+"
+"Butters:
+"
+"
+"
+"Kyle:
+"
+"Stan:
+"
+"Bradley:
+"
+"Stan:
+"
+"Francis:
+"
+"Kevin:
+"
+"Stan:
+"
+"Kyle:
+"
+"Kevin:
+"
+"Francis:
+"
+"Timmy:
+"
+"Stan:
+"
+"Mrs. Stevens:
+"
+"Stan:
+"
+"Mrs. Stevens:
+"
+"Bradley:
+"
+"Mrs. Stevens:
+"
+"Stan:
+"
+"
+"
+"Cartman:
+"
+"Bebe:
+"
+"Cartman:
+"
+"Bebe:
+"
+"Cartman:
+"
+"Bebe:
+"
+"Cartman:
+"
+"Polly Prissy Pants:
+"
+"Cartman:
+"
+"Bebe:
+"
+"Cartman:
+"
+"Polly Prissy Pants:
+"
+"Cartman:
+"
+"Bebe:
+"
+"Cartman:
+"
+"Bebe:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Butters:
+"
+"Francis:
+"
+"Stan:
+"
+"Bebe:
+"
+"
+"
+"Timmy:
+"
+"
+"
+"Bebe:
+"
+"
+"
+"Bebe:
+"
+"
+"
+"Bebe:
+"
+"Stan:
+"
+"
+"
+"Mrs. Stevens:
+"
+"Bebe:
+"
+"Stan:
+"
+"Craig:
+"
+"Stan:
+"
+"Mrs. Stevens:
+"
+"Bebe:
+"
+"Mrs. Stevens:
+"
+"Bebe:
+"
+"Mrs. Stevens:
+"
+"Bebe:
+"
+"Mrs. Stevens:
+"
+"Stan:
+"
+"Astronaut 1:
+"
+"Astronaut 2:
+"
+"Astronaut 1:
+"
+"Astronaut 2:
+"
+"Astronaut 1:
+"
+"Astronaut 2:
+"
+"Bebe:
+"
+"
+"
+"A Doctor:
+"
+"Bebe:
+"
+"Dr. Hallis:
+"
+"Bebe:
+"
+"Dr. Hallis:
+"
+"Bebe:
+"
+"Dr. Hallis:
+"
+"Bebe:
+"
+"Dr. Hallis:
+"
+"Bebe:
+"
+"Dr. Hallis:
+"
+"Blonde Nurse:
+"
+"Dr. Hallis:
+"
+"Brunette Nurse:
+"
+"Dr. Hallis:
+"
+"Bebe:
+"
+"Dr. Hallis:
+"
+"Bebe:
+"
+"Dr. Hallis:
+"
+"Bebe:
+"
+"Dr. Hallis:
+"
+"Bebe:
+"
+"
+"
+"Sharon:
+"
+"Randy:
+"
+"Sharon:
+"
+"Stan:
+"
+"Sharon:
+"
+"Stan:
+"
+"Randy:
+"
+"Sharon:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Stan:
+"
+"Randy:
+"
+"Sharon:
+"
+"Randy:
+"
+"
+"
+"Right Breast:
+"
+"Left Breast:
+"
+"Right Breast:
+"
+"Left Breast:
+"
+"Right Breast:
+"
+"Left Breast:
+"
+"Right Breast:
+"
+"Bebe:
+"
+"Mrs. Stevens:
+"
+"Bebe:
+"
+"Mrs. Stevens:
+"
+"Bebe:
+"
+"Mrs. Stevens:
+"
+"Bebe:
+"
+"
+"
+"Dr. Hallis:
+"
+"Wendy:
+"
+"Mrs. Testaburger:
+"
+"Dr. Hallis:
+"
+"Mrs. Testaburger:
+"
+"Dr. Hallis:
+"
+"Wendy:
+"
+"Dr. Hallis:
+"
+"Wendy:
+"
+"Dr. Hallis:
+"
+"Mrs. Testaburger:
+"
+"Dr. Hallis:
+"
+"Mrs. Testaburger:
+"
+"Dr. Hallis:
+"
+"
+"
+"Dr. Hallis:
+"
+"
+"
+"Mr. Mackey:
+"
+"Clyde:
+"
+"Mr. Mackey:
+"
+"Bradley:
+"
+"Stan:
+"
+"Bebe:
+"
+"Craig:
+"
+"Token:
+"
+"Stan:
+"
+"Cartman:
+"
+"Bebe:
+"
+"Stan:
+"
+"Kyle:
+"
+"Bebe:
+"
+"Cartman:
+"
+"Bebe:
+"
+"Kyle:
+"
+"Stan:
+"
+"Clyde:
+"
+"Craig:
+"
+"Mr. Mackey:
+"
+"Clyde:
+"
+"The Boys:
+"
+"Kyle:
+"
+"Wendy:
+"
+"Clyde:
+"
+"Butters:
+"
+"Cartman:
+"
+"
+"

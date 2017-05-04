@@ -1,0 +1,479 @@
+"x"
+"
+"
+"Board Rep:
+"
+"Principal Victoria:
+"
+"Board Rep:
+"
+"Assembly:
+"
+"
+"
+"Coach:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Coach:
+"
+"Cartman:
+"
+"Coach:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Craig:
+"
+"Cartman:
+"
+"Wendy:
+"
+"Cartman:
+"
+"Clyde:
+"
+"Cartman:
+"
+"Stan:
+"
+"Craig:
+"
+"
+"
+"Cartman:
+"
+"Clyde Frog:
+"
+"Cartman:
+"
+"Peter Panda:
+"
+"Cartman:
+"
+"Peter Panda:
+"
+"Polly Prissypants:
+"
+"Cartman:
+"
+"
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Jimmy:
+"
+"Fifth Grader:
+"
+"Jimmy:
+"
+"
+"
+"Jimmy:
+"
+"Board Rep:
+"
+"Butters:
+"
+"Board Rep:
+"
+"Jimmy:
+"
+"Board Rep:
+"
+"Jimmy:
+"
+"Board Rep:
+"
+"Butters:
+"
+"Jimmy:
+"
+"
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Cartman:
+"
+"Craig:
+"
+"Cartman:
+"
+"Craig:
+"
+"Stan:
+"
+"Cartman:
+"
+"Class:
+"
+"Kid 1:
+"
+"Kid 2:
+"
+"Kid 4:
+"
+"Cartman:
+"
+"
+"
+"Receptionist:
+"
+"Board Rep:
+"
+"Receptionist:
+"
+"Board Rep:
+"
+"
+"
+"Butters:
+"
+"Field Reporter 1:
+"
+"
+"
+"Cartman:
+"
+"Peter Panda:
+"
+"Polly Prissypants:
+"
+"Cartman:
+"
+"Rumpertumskin:
+"
+"Cartman:
+"
+"Rumpertumskin:
+"
+"Liane:
+"
+"Polly Prissypants:
+"
+"Peter Panda:
+"
+"Cartman:
+"
+"Liane:
+"
+"Polly Prissypants:
+"
+"Rumpertumskin:
+"
+"Liane:
+"
+"Muscleman Marc:
+"
+"Cartman:
+"
+"Muscleman Marc:
+"
+"Liane:
+"
+"Muscleman Marc:
+"
+"Liane:
+"
+"Cartman:
+"
+"
+"
+"Sgt. Yates:
+"
+"Officer 1:
+"
+"Sgt. Yates:
+"
+"Officer 1:
+"
+"Sgt. Yates:
+"
+"Officer 2:
+"
+"Sgt. Yates:
+"
+"Officer 2:
+"
+"Sgt. Yates:
+"
+"
+"
+"Cartman:
+"
+"
+"
+"Fireman 1:
+"
+"Cartman:
+"
+"Peter Panda:
+"
+"Cartman:
+"
+"Peter Panda:
+"
+"Fireman 2:
+"
+"Cartman:
+"
+"
+"
+"Female Reporter:
+"
+"Patron:
+"
+"Female Reporter:
+"
+"
+"
+"Michael Moore:
+"
+"
+"
+"Kyle:
+"
+"Fifth Grader:
+"
+"Stan:
+"
+"Fifth Grader:
+"
+"Kyle:
+"
+"Fifth Grader:
+"
+"
+"
+"Liane:
+"
+"Bob:
+"
+"Linda:
+"
+"Liane:
+"
+"
+"
+"Cartman:
+"
+"Token:
+"
+"Cartman:
+"
+"
+"
+"Field Reporter 2:
+"
+"
+"
+"Field Reporter 1:
+"
+"
+"
+"
+"
+"Token:
+"
+"Cartman:
+"
+"Token:
+"
+"Cartman:
+"
+"Token:
+"
+"Cartman:
+"
+"Token:
+"
+"Cartman:
+"
+"Token:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Token:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kenny:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"
+"
+"Stephen Tamil:
+"
+"Classmates:
+"
+"Stephen Tamil:
+"
+"
+"
+"Butters:
+"
+"Stephen Tamil:
+"
+"Jimmy:
+"
+"Butters:
+"
+"Stephen Tamil:
+"
+"Jimmy:
+"
+"
+"
+"Field Reporter 3:
+"
+"Female Reporter 2:
+"
+"
+"
+"Sgt. Yates:
+"
+"Officer 2:
+"
+"
+"
+"Cartman:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Rumpertumskin:
+"
+"Cartman:
+"
+"Rumpertumskin:
+"
+"Cartman:
+"
+"Rumpertumskin:
+"
+"Cartman:
+"
+"Polly Prissypants:
+"
+"Cartman:
+"
+"Polly Prissypants:
+"
+"Cartman:
+"
+"Polly Prissypants:
+"
+"Cartman:
+"
+"Polly Prissypants:
+"
+"
+"
+"Bob:
+"
+"
+"
+"Cartman:
+"
+"Polly Prissypants:
+"
+"Cartman:
+"
+"Polly Prissypants:
+"
+"Cartman:
+"
+"Polly Prissypants:
+"
+"Cartman:
+"
+"Polly Prissypants:
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Liane:
+"
+"
+"
+"Field Reporter 3:
+"
+"Officer 2:
+"
+"Field Reporter 3:
+"
+"
+"

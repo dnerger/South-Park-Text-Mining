@@ -1,0 +1,74 @@
+"x"
+"Stan Marsh
+"
+"Kyle Broflovski
+"
+"Eric Cartman
+"
+"Kenny McCormick
+"
+"Butters Stotch
+"
+"Randy Marsh
+"
+"Cowboys Announcer and Commentator
+"
+"Redskins Coach
+"
+"Kickstarter Employees 1 and 2, and Harry
+"
+"Cowboys Fans
+"
+"Goodell
+"
+"ISIS Spokesman
+"
+"News 4 Anchor
+"
+"Protestors
+"
+"Registrar
+"
+"Owners
+Alex Spanos
+Dan Snyder
+Jerry Jones
+Jim Irsay
+Paul Allen
+Steve Bischiotti
+"
+"Alex Spanos
+"
+"Dan Snyder
+"
+"Jerry Jones
+"
+"Jim Irsay
+"
+"Paul Allen
+"
+"Steve Bischiotti
+"
+"Redskins Players
+8 - Kirk Cousins
+35 - fictional
+59 - fictional
+72 - Stephen Bowen
+92 - Chris Baker
+"
+"8 - Kirk Cousins
+35 - fictional
+59 - fictional
+72 - Stephen Bowen
+92 - Chris Baker
+"
+"8 - Kirk Cousins
+"
+"35 - fictional
+"
+"59 - fictional
+"
+"72 - Stephen Bowen
+"
+"92 - Chris Baker
+"

@@ -1,0 +1,717 @@
+"x"
+"
+"
+"Liane:
+"
+"
+"
+"Blonde Nurse:
+"
+"Paramedic 1:
+"
+"Cartman:
+"
+"Liane:
+"
+"
+"
+"Dr. Doctor:
+"
+"Liane:
+"
+" Brunette Nurse:
+"
+"
+"
+"Liane:
+"
+"Dr. Doctor:
+"
+"Liane:
+"
+"Dr. Doctor:
+"
+"Liane:
+"
+"Dr. Doctor:
+"
+"Liane:
+"
+"Dr. Doctor:
+"
+"Liane:
+"
+"Cartman:
+"
+"
+"
+"Chef:
+"
+"Stan:
+"
+"Kyle:
+"
+"Chef:
+"
+"Stan:
+"
+"Kyle:
+"
+"Chef:
+"
+"Kyle:
+"
+"Chef:
+"
+"
+"
+"Liane:
+"
+"Dr. Doctor:
+"
+"Cartman:
+"
+"Chef:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Chef:
+"
+"Cartman:
+"
+"Dr. Doctor:
+"
+"Chef:
+"
+"Cartman:
+"
+"Chef:
+"
+"Dr. Doctor:
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Dr. Doctor:
+"
+"Liane:
+"
+"Chef:
+"
+"Kyle:
+"
+"
+"
+"Flight Attendant:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Announcer:
+"
+"Stan, Kyle:
+"
+"Cartman:
+"
+"
+"
+"Chef:
+"
+"Page:
+"
+"Chef:
+"
+"
+"
+"Announcer:
+"
+"John Edward:
+"
+"Man 1:
+"
+"John Edward:
+"
+"Man 1:
+"
+"John Edward:
+"
+"Man 1:
+"
+"John Edward:
+"
+"Stan:
+"
+"Kyle:
+"
+"John Edward:
+"
+"Cartman:
+"
+"John Edward:
+"
+"Audience members:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Kyle:
+"
+"Audience members:
+"
+"Chef:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Kyle:
+"
+"John Edward:
+"
+"Kyle:
+"
+"John Edward:
+"
+"Kyle:
+"
+"John Edward:
+"
+"Woman 1:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Woman 1:
+"
+"John Edward:
+"
+"Woman 1:
+"
+"
+"
+"Chef:
+"
+"Stan:
+"
+"Chef:
+"
+"Kyle:
+"
+"Stan:
+"
+"Liane:
+"
+"Chef:
+"
+"
+"
+"Chef:
+"
+"Stan:
+"
+"Liane:
+"
+"Stan:
+"
+"Cartman:
+"
+"Chef:
+"
+"Announcer:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"
+"
+"Stan:
+"
+"Butler:
+"
+"Stan:
+"
+"Butler:
+"
+"
+"
+"Butler:
+"
+"Stan:
+"
+"Butler:
+"
+"Prerecorded Voice:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"
+"
+"Cartman:
+"
+"Liane:
+"
+"Pilot:
+"
+"Cartman:
+"
+"Pilot:
+"
+"Cartman:
+"
+"Announcer:
+"
+"Rob Schneider:
+"
+"Announcer:
+"
+"Rob Schneider:
+"
+"Announcer:
+"
+"Cartman:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"Man 2:
+"
+"Stan:
+"
+"Woman 2:
+"
+"Construction Worker:
+"
+"Woman 3:
+"
+"Stan:
+"
+"Woman 4:
+"
+"Stan:
+"
+"Woman 4:
+"
+"Stan:
+"
+"Woman 4:
+"
+"Stan:
+"
+"Woman 4:
+"
+"Stan:
+"
+"Woman 4:
+"
+"Stan:
+"
+"Man 2:
+"
+"Stan:
+"
+"Woman 4:
+"
+"Stan:
+"
+"Woman 4:
+"
+"Woman 3:
+"
+"Stan:
+"
+"Man 3:
+"
+"Man 4:
+"
+"Adults:
+"
+"Stan:
+"
+"Man 2:
+"
+"Woman 3:
+"
+"Stan:
+"
+"Construction Worker:
+"
+"Man 5:
+"
+"Man 6:
+"
+"Man 7:
+"
+"Man 8:
+"
+"Scout:
+"
+"
+"
+"Chef:
+"
+"Thomas McElroy:
+"
+"Chef:
+"
+"Thomas:
+"
+"Nelly:
+"
+"Chef:
+"
+"Nelly:
+"
+"Chef:
+"
+"Liane:
+"
+"Nelly:
+"
+"Thomas:
+"
+"Chef:
+"
+"Thomas:
+"
+"Liane:
+"
+"Thomas:
+"
+"Nelly:
+"
+"Thomas:
+"
+"Cartman:
+"
+"Thomas:
+"
+"Nelly:
+"
+"Cartman:
+"
+"Nelly:
+"
+"Thomas:
+"
+"Nelly:
+"
+"
+"
+"Announcer:
+"
+"Stan:
+"
+"Woman 5:
+"
+"Audience:
+"
+"Stan:
+"
+"Woman 5:
+"
+"Audience:
+"
+"Woman 6:
+"
+"Stan:
+"
+"Man 9:
+"
+"Stan:
+"
+"Woman 6:
+"
+"Audience:
+"
+"Man 10:
+"
+"Woman 7:
+"
+"Stan:
+"
+"
+"
+"Thomas:
+"
+"Cartman:
+"
+"Thomas:
+"
+"Nelly:
+"
+"Thomas:
+"
+"Nelly:
+"
+"Thomas:
+"
+"Chef:
+"
+"Thomas:
+"
+"Nelly:
+"
+"Chef:
+"
+"Nelly:
+"
+"Thomas:
+"
+"Nelly:
+"
+"
+"
+"Announcer:
+"
+"Rob Schneider:
+"
+"Announcer:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"
+"
+"Thomas:
+"
+"Nelly:
+"
+"Thomas:
+"
+"Nelly:
+"
+"Thomas:
+"
+"Nelly:
+"
+"Thomas:
+"
+"Nelly:
+"
+"
+"
+"Thomas:
+"
+"Liane:
+"
+"Nelly:
+"
+"Thomas:
+"
+"Chef:
+"
+"Nelly:
+"
+"Cartman:
+"
+"Chef:
+"
+"Liane:
+"
+"Nelly:
+"
+"
+"
+"Announcer:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"Audience Members:
+"
+"Kyle:
+"
+"Stan:
+"
+"John Edward:
+"
+"Stan:
+"
+"John Edward:
+"
+"Man 11:
+"
+"Woman 8:
+"
+"Lead Alien:
+"
+"John Edward:
+"
+"Lead Alien:
+"
+"John Edward:
+"
+"Stan:
+"
+"Lead Alien:
+"
+"John Edward:
+"
+"Alien 2:
+"
+"Alien 3:
+"
+"Stan:
+"
+"Alien 2:
+"
+"John Edward:
+"
+"Stan:
+"
+"Man 12:
+"
+"
+"
+"Cartman:
+"
+"Liane:
+"
+"Chef:
+"
+"Liane:
+"
+"Cartman:
+"
+"Chef:
+"
+"
+"
+"Announcer:
+"
+"
+"
+"Announcer:
+"
+"Lion-head Alien:
+"
+"Bee Alien:
+"
+"Lion-head Alien:
+"
+"Damanta Unit 5:
+"
+"Bee Alien:
+"
+"John Edward:
+"
+"Lion-head Alien:
+"
+"Bee Alien:
+"
+"John Edward:
+"
+"Frankenstein Alien:
+"
+"Announcer:
+"
+"
+"

@@ -1,0 +1,63 @@
+"x"
+" Stan Marsh
+"
+" Kyle Broflovski
+"
+" Eric Cartman
+"
+" Butters Stotch
+"
+" Kenny McCormick
+"
+" Announcer
+"
+" Chris (Commentator 2)
+"
+" Commentator 1
+"
+" Dale Evans
+"
+" Dale Earnhardt, Jr.
+"
+" Danica Patrick
+"
+" Doctor
+"
+" Driver
+"
+" FOX 11 Anchor
+"
+" Jeff Gordon
+"
+" Geoff Hamill
+"
+" Jimmie Johnson
+"
+" Lowes Pit Boss
+"
+" Man 1
+"
+" Pit Crewman
+"
+" Reporter 1
+"
+" Reporter 2
+"
+" Field Reporter
+"
+" Security Guard
+"
+" Charlie Harper
+"
+" Jake Harper
+"
+" Spokesman
+"
+" Tony Kornheiser
+"
+" Woman 1
+"
+" Woman 2
+"
+" Woman 3
+"

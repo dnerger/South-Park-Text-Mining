@@ -1,0 +1,553 @@
+"x"
+"
+"
+"Announcer:
+"
+"SNN Anchor:
+"
+"
+"
+"Prof. Thomas:
+"
+"
+"
+"Cartman:
+"
+"
+"
+"Kyle:
+"
+"
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"FOX President:
+"
+"Announcer:
+"
+"
+"
+"Phillip:
+"
+"Terrance:
+"
+"Phillip:
+"
+"Mohammad:
+"
+"Terrance:
+"
+"Mohammad:
+"
+"
+"
+"Terrance:
+"
+"Phillip:
+"
+"Network President:
+"
+"Terrance:
+"
+"Network President:
+"
+"Phillip:
+"
+"Network President:
+"
+"Terrance:
+"
+"Network President:
+"
+"
+"
+"Cartman:
+"
+"Receptionist:
+"
+"Cartman:
+"
+"Receptionist:
+"
+"Cartman:
+"
+"Bart:
+"
+"
+"
+"Kyle:
+"
+"SNN Anchor:
+"
+"Al-Zawahri:
+"
+"SNN Anchor:
+"
+"Osama bin Laden:
+"
+"SNN Anchor:
+"
+"Trucker:
+"
+"Kyle:
+"
+"Trucker:
+"
+"
+"
+"Cartman:
+"
+"Bart:
+"
+"Cartman:
+"
+"Bart:
+"
+"Cartman:
+"
+"Bart:
+"
+"Cartman:
+"
+"Bart:
+"
+"Cartman:
+"
+"Bart:
+"
+"Cartman:
+"
+"Bart:
+"
+"Cartman:
+"
+"Bart:
+"
+"Cartman:
+"
+"Bart:
+"
+"Cartman:
+"
+"
+"
+"President Bush:
+"
+"Reporters:
+"
+"Reporter 1:
+"
+"President Bush:
+"
+"Reporters:
+"
+"Reporter 1:
+"
+"President Bush:
+"
+"Reporters:
+"
+"TCO Reporter:
+"
+"LSX Reporter:
+"
+"President Bush:
+"
+"Reporter 2:
+"
+"President Bush:
+"
+"Reporters:
+"
+"Reporter 3:
+"
+"President Bush:
+"
+"TCO Reporter:
+"
+"Reporter 4:
+"
+"Reporters:
+"
+"Reporter 5:
+"
+"
+"
+"FOX President:
+"
+"Receptionist 2:
+"
+"FOX President:
+"
+"Cartman:
+"
+"Staff:
+"
+"Cartman:
+"
+"FOX President:
+"
+"Staffer:
+"
+"FOX President:
+"
+"Cartman:
+"
+"FOX President:
+"
+"Cartman:
+"
+"FOX President:
+"
+"Cartman:
+"
+"
+"
+"Kyle:
+"
+"Trucker:
+"
+"Kyle:
+"
+"Trucker:
+"
+"
+"
+"Kyle:
+"
+"Bart:
+"
+"Kyle:
+"
+"Bart:
+"
+"Kyle:
+"
+"Bart:
+"
+"
+"
+"Kyle:
+"
+"Bart:
+"
+"
+"
+"Receptionist 2:
+"
+"Mitchell:
+"
+"Miss Travis:
+"
+"Mitchell:
+"
+"Cartman:
+"
+"Mitchell:
+"
+"Cartman:
+"
+"
+"
+"Mitchell:
+"
+"Cartman:
+"
+"Mitchell:
+"
+"Cartman:
+"
+"Mitchell:
+"
+"
+"
+"Lois:
+"
+"Peter:
+"
+"
+"
+"Waiter:
+"
+"Gary Coleman:
+"
+"
+"
+"Cartman:
+"
+"Mitchell:
+"
+"Cartman:
+"
+"Mitchell:
+"
+"Cartman:
+"
+"Mitchell:
+"
+"Cartman:
+"
+"
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Bart:
+"
+"Kyle:
+"
+"Bart:
+"
+"Cartman:
+"
+"Bart:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"FOX President:
+"
+"Mitchell:
+"
+"FOX President:
+"
+"Mitchell:
+"
+"FOX President:
+"
+"Cartman:
+"
+"FOX President:
+"
+"Executive:
+"
+"FOX President:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Kyle:
+"
+"
+"
+"FOX President:
+"
+"Woman:
+"
+"FOX President:
+"
+"Computer Voice:
+"
+"Programmer 1:
+"
+"Woman:
+"
+"FOX President:
+"
+"Kyle:
+"
+"FOX President:
+"
+"Kyle:
+"
+"FOX President:
+"
+"Woman:
+"
+"FOX President:
+"
+"Kyle:
+"
+"FOX President:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Woman:
+"
+"Kyle:
+"
+"Cartman:
+"
+"FOX President:
+"
+"Cartman:
+"
+"FOX President:
+"
+"Kyle:
+"
+"FOX President:
+"
+"Kyle:
+"
+"Cartman:
+"
+"FOX President:
+"
+"Kyle:
+"
+"Cartman:
+"
+"FOX President:
+"
+"Woman:
+"
+"Kyle:
+"
+"FOX President:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Woman:
+"
+"Kyle:
+"
+"Woman:
+"
+"FOX President:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Woman:
+"
+"
+"
+"Lois:
+"
+"Peter:
+"
+"
+"
+"Peter:
+"
+"
+"
+"
+"
+"Peter:
+"
+"
+"
+"Peter:
+"
+"
+"
+"Peter:
+"
+"President Bush:
+"
+"An Official:
+"
+"President Bush:
+"
+"Peter:
+"
+"SNN anchor:
+"
+"Al-Zawahri:
+"
+"
+"
+"
+"
+"American Male 1:
+"
+"American Male 2:
+"
+"American Male 1:
+"
+"President Bush:
+"
+"American Male 2:
+"
+"American Female:
+"
+"American Male 3:
+"
+"Jesus:
+"
+"All:
+"
+"
+"
+"
+"
+"Al-Zawahri:
+"
+"
+"

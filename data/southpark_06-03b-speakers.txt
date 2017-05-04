@@ -1,0 +1,731 @@
+"x"
+"
+"
+"Announcer:
+"
+"
+"
+"Stan:
+"
+"""Kenny"":
+"
+"Stan:
+"
+"""Kenny"":
+"
+"Cartman:
+"
+"Butters:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"
+"
+"Maury:
+"
+"Damla:
+"
+"
+"
+"Cartman:
+"
+"
+"
+"Maury:
+"
+"Damla:
+"
+"Maury:
+"
+"Damla:
+"
+"Maury:
+"
+"Damla:
+"
+"Maury:
+"
+"Damla:
+"
+"Maury:
+"
+"Damla:
+"
+"Maury:
+"
+"Damla:
+"
+"Maury:
+"
+"
+"
+"Kyle:
+"
+"
+"
+"Announcer:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Butters:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Butters:
+"
+"Cartman:
+"
+"Stan:
+"
+"Butters:
+"
+"Kyle:
+"
+"Butters:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Cartman:
+"
+"Butters:
+"
+"Kyle:
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Stan:
+"
+"Cartman:
+"
+"Butters:
+"
+"
+"
+"Brunet Trekker:
+"
+"Butters:
+"
+"Stan:
+"
+"Brunet Trekker:
+"
+"Cartman:
+"
+"Blond Trekker:
+"
+"Stan:
+"
+"Kyle:
+"
+"Butters:
+"
+"Cartman:
+"
+"Blond Trekker:
+"
+"Stan:
+"
+"Brunet Trekker:
+"
+"Blond Trekker:
+"
+"
+"
+"Kyle:
+"
+"Cartman:
+"
+"Blond Trekker:
+"
+"Brunet Trekker:
+"
+"
+"
+"Announcer:
+"
+"Stan:
+"
+"Cartman:
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"Cartman:
+"
+"Kyle:
+"
+"Stan:
+"
+"Cartman:
+"
+"Butters:
+"
+"
+"
+"Stagehand:
+"
+"Butters:
+"
+"Man With No Face:
+"
+"Stagehand:
+"
+"Man with Foot on Head:
+"
+"Disfigured Country Singer:
+"
+"Roger:
+"
+"Disfigured Country Singer:
+"
+"Butters:
+"
+"Man with Foot on Head:
+"
+"Butters:
+"
+"Man With No Face:
+"
+"Disfigured Country Singer:
+"
+"Man with Foot on Head:
+"
+"Man With No Limbs:
+"
+"Disfigured Country Singer:
+"
+"Man with Foot on Head:
+"
+"Man With No Face:
+"
+"Butters:
+"
+"Disfigured Country Singer:
+"
+"Man With No Limbs:
+"
+"Butters:
+"
+"Man With No Limbs:
+"
+"Butters:
+"
+"Man with Foot on Head:
+"
+"Disfigured Country Singer:
+"
+"Man With No Limbs:
+"
+"Man with Foot on Head:
+"
+"Butters:
+"
+"Man with Foot on Head:
+"
+"Disfigured Country Singer:
+"
+"Butters:
+"
+"Man with Foot on Head:
+"
+"Stagehand:
+"
+"Butters:
+"
+"
+"
+"Announcer:
+"
+"
+"
+"Stan:
+"
+"Kyle:
+"
+"
+"
+"Maury:
+"
+"Cartman:
+"
+"Maury:
+"
+"Butters:
+"
+"Maury:
+"
+"Butters:
+"
+"Maury:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Maury:
+"
+"Butters:
+"
+"Maury:
+"
+"Butters:
+"
+"Stan, Kyle:
+"
+"Cartman:
+"
+"Maury:
+"
+"Butters:
+"
+"Maury:
+"
+"Butters:
+"
+"Maury:
+"
+"Butters:
+"
+"Maury:
+"
+"Stan, Kyle:
+"
+"Cartman:
+"
+"Maury:
+"
+"Butters:
+"
+"Kyle:
+"
+"Cartman:
+"
+"Maury:
+"
+"Stan:
+"
+"Kyle:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Operator:
+"
+"Cartman:
+"
+"Operator:
+"
+"Cartman:
+"
+"Operator:
+"
+"Cartman:
+"
+"Operator:
+"
+"Cartman:
+"
+"Operator:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"
+"
+"Linda:
+"
+"Butters:
+"
+"Chris:
+"
+"Butters:
+"
+"Chris:
+"
+"Linda:
+"
+"Butters:
+"
+"
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"Stan:
+"
+"Butters:
+"
+"
+"
+"Man with Foot on Head:
+"
+"Disfigured Country Singer:
+"
+"Butters:
+"
+"Disfigured Country Singer:
+"
+"Man with Foot on Head:
+"
+"Butters:
+"
+"Disfigured Country Singer:
+"
+"Butters:
+"
+"Man with Foot on Head:
+"
+"Butters:
+"
+"Man With No Face:
+"
+"The Freaks:
+"
+"
+"
+"Announcer:
+"
+"Maury:
+"
+"Studio Audience:
+"
+"Maury:
+"
+"Vanessa:
+"
+"Studio Audience:
+"
+"Maury:
+"
+"Vanity:
+"
+"Maury:
+"
+"Some audience members:
+"
+"Vanity:
+"
+"
+"
+"Cartman:
+"
+"Stagehand:
+"
+"
+"
+"Vanessa:
+"
+"Vanity:
+"
+"
+"
+"Liane:
+"
+"Cartman:
+"
+"Stagehand:
+"
+"
+"
+"The Freaks:
+"
+"Man with Terrible Skin Condition:
+"
+"The Freaks:
+"
+"Man with Terrible Skin Condition:
+"
+"The Freaks:
+"
+"Butters:
+"
+"Hammerhead Man:
+"
+"Man with Terrible Skin Condition:
+"
+"Disfigured Country Singer:
+"
+"Butters:
+"
+"Man with No Limbs:
+"
+"Butters:
+"
+"Man with Terrible Skin Condition:
+"
+"Incredibly Obese Black Man:
+"
+"Man with Terrible Skin Condition:
+"
+"
+"
+"Announcer:
+"
+"Maury:
+"
+"Studio Audience:
+"
+"Vanessa:
+"
+"Vanity:
+"
+"Maury:
+"
+"Liane:
+"
+"Maury:
+"
+"Cartman:
+"
+"Studio Audience:
+"
+"Liane:
+"
+"Maury:
+"
+"Cartman:
+"
+"Maury:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Studio Audience:
+"
+"Cartman:
+"
+"Vanity:
+"
+"Cartman:
+"
+"Vanity:
+"
+"Cartman:
+"
+"
+"
+"Man with Terrible Skin Condition:
+"
+"The Freaks:
+"
+"Man with Terrible Skin Condition:
+"
+"The Freaks:
+"
+"Man with Terrible Skin Condition:
+"
+"The Freaks:
+"
+"Butters:
+"
+"Man with Terrible Skin Condition:
+"
+"The Freaks:
+"
+"Butters:
+"
+"Man with Terrible Skin Condition:
+"
+"Butters:
+"
+"Man with Terrible Skin Condition:
+"
+"The Freaks:
+"
+"Man with Terrible Skin Condition:
+"
+"The Freaks:
+"
+"Butters:
+"
+"Police Captain:
+"
+"Man with Foot on Head:
+"
+"Police Captain:
+"
+"Middle Dwarf:
+"
+"Police Captain:
+"
+"Man with Foot on Head:
+"
+"Butters:
+"
+"
+"
+"Announcer:
+"
+"Maury:
+"
+"Vanity:
+"
+"Cartman:
+"
+"Maury:
+"
+"Studio Audience:
+"
+"Joline:
+"
+"Maury:
+"
+"Joline:
+"
+"Studio Audience:
+"
+"Vanity:
+"
+"Cartman:
+"
+"Maury:
+"
+"Joline:
+"
+"Studio Audience:
+"
+"Joline:
+"
+"
+"
+"Man with Foot on Head:
+"
+"Maury:
+"
+"Elephant Man:
+"
+"Butters and the Freaks:
+"
+"Maury:
+"
+"Man:
+"
+"Maury:
+"
+"Cartman:
+"
+"Cameraman:
+"
+"Maury:
+"
+"
+"
+"Maury:
+"
+"Man with Foot on Head:
+"
+"Man with Terrible Skin Condition:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Man with Foot on Head:
+"
+"Incredibly Obese Black Man:
+"
+"Cartman:
+"
+"Incredibly Obese Black Man:
+"
+"Butters:
+"
+"Chris:
+"
+"Butters:
+"
+"
+"

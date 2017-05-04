@@ -1,0 +1,573 @@
+"x"
+"
+"
+"Narrator:
+"
+"
+"
+"Otter Leader:
+"
+"Otter 1:
+"
+"Cartman:
+"
+"Otter 1:
+"
+"Cartman:
+"
+"Otter Leader:
+"
+"Cartman:
+"
+"Otter Leader:
+"
+"Blavius:
+"
+"
+"
+"Cartman:
+"
+"Blavius:
+"
+"Cartman:
+"
+"Blavius:
+"
+"Otter Leader:
+"
+"Blavius:
+"
+"
+"
+"Cartman:
+"
+"UAA Leader:
+"
+"UAA 1:
+"
+"Cartman:
+"
+"UAA Leader:
+"
+"Cartman:
+"
+"UAA Leader:
+"
+"Cartman:
+"
+"UAA 1:
+"
+"UAA Leader:
+"
+"Cartman:
+"
+"
+"
+"Cartman:
+"
+"Maintenance Guy:
+"
+"Cartman:
+"
+"Maintenance Guy:
+"
+"Cartman:
+"
+"UAA Woman:
+"
+"Cartman:
+"
+"UAA Woman:
+"
+"K-10:
+"
+"Cartman:
+"
+"
+"
+"UAA Leader:
+"
+"UAA 2:
+"
+"UAA Leader:
+"
+"UAA 3:
+"
+"UAA Leader:
+"
+"
+"
+"UAL 1:
+"
+"UAL 2:
+"
+"UAL 3:
+"
+"Shvek:
+"
+"
+"
+"Announcer:
+"
+"Woman:
+"
+"Cartman:
+"
+"Boy 1:
+"
+"Boy 2:
+"
+"Cartman:
+"
+"Boy 3:
+"
+"Boy 1:
+"
+"Boy 3:
+"
+"Singers:
+"
+"Announcer:
+"
+"Boy Announcer:
+"
+"Boy 1:
+"
+"Singers:
+"
+"Cartman:
+"
+"Boy 2:
+"
+"Announcer:
+"
+"Cartman:
+"
+"K-10:
+"
+"Cartman:
+"
+"K-10:
+"
+"Cartman:
+"
+"K-10:
+"
+"
+"
+"Cartman:
+"
+"Voice:
+"
+"Cartman:
+"
+"Clerk:
+"
+"Cartman:
+"
+"Clerk:
+"
+"Cartman:
+"
+"Clerk:
+"
+"Cartman:
+"
+"Clerk:
+"
+"Cartman:
+"
+"Clerk:
+"
+"K-10:
+"
+"Cartman:
+"
+"K-10:
+"
+"Clerk:
+"
+"Cartman:
+"
+"K-10:
+"
+"Cartman:
+"
+"K-10:
+"
+"
+"
+"Blavius:
+"
+"Otters:
+"
+"Blavius:
+"
+"
+"
+"Man:
+"
+"Boy 4:
+"
+"Man:
+"
+"Boy 4:
+"
+"Man:
+"
+"Boy 4:
+"
+"Man:
+"
+"Boy 4:
+"
+"Man:
+"
+"Boy 5:
+"
+"Man:
+"
+"Boy 4:
+"
+"Boy 5:
+"
+"Cartman:
+"
+"Boy 4:
+"
+"Cartman:
+"
+"Boy 5:
+"
+"Cartman:
+"
+"Boy 4:
+"
+"
+"
+"The Wise One:
+"
+"Otter 1:
+"
+"Otter 2:
+"
+"The Wise One:
+"
+"Blavius:
+"
+"The Wise One:
+"
+"Blavius:
+"
+"Otter Leader:
+"
+"The Wise One:
+"
+"Otter Soldier:
+"
+"Otter 3:
+"
+"The Wise One:
+"
+"
+"
+"Cartman:
+"
+"Time Child:
+"
+"Cartman:
+"
+"Time Child:
+"
+"Cartman:
+"
+"Time Child:
+"
+"Cartman:
+"
+"Time Child:
+"
+"Cartman:
+"
+"Time Child:
+"
+"Cartman:
+"
+"Time Child:
+"
+"Cartman:
+"
+"Time Child:
+"
+"Cartman:
+"
+"Time Child:
+"
+"
+"
+"Butters:
+"
+"Time Child:
+"
+"Butters:
+"
+"Time Child:
+"
+"Butters:
+"
+"Time Child:
+"
+"Butters:
+"
+"Cartman:
+"
+"Time Child:
+"
+"Butters:
+"
+"Cartman:
+"
+"Butters:
+"
+"Cartman:
+"
+"Time Child:
+"
+"Cartman:
+"
+"Time Child:
+"
+"Cartman:
+"
+"Time Child:
+"
+"Cartman:
+"
+"Time Child:
+"
+"Cartman:
+"
+"Butters:
+"
+"Time Child:
+"
+"
+"
+"UAA Leader:
+"
+"
+"
+"UAL Aide:
+"
+"UAL Leader:
+"
+"
+"
+"Otter Leader:
+"
+"
+"
+"Kyle:
+"
+"Time Child:
+"
+"Kyle:
+"
+"Time Child:
+"
+"Kyle:
+"
+"Time Child:
+"
+"Kyle:
+"
+"Time Child:
+"
+"Kyle:
+"
+"Time Child:
+"
+"K-10:
+"
+"Kyle:
+"
+"Time Child:
+"
+"Kyle:
+"
+"Time Child:
+"
+"Kyle:
+"
+"Time Child:
+"
+"KIT-9:
+"
+"Time Child:
+"
+"KIT-9:
+"
+"Time Child:
+"
+"KIT-9:
+"
+"Time Child:
+"
+"KIT-9:
+"
+"UAA Woman:
+"
+"Time Child:
+"
+"UAA Woman:
+"
+"
+"
+"UAA Leader:
+"
+"Cartman:
+"
+"Tactical Officer:
+"
+"
+"
+"UAA Leader:
+"
+"Shvek:
+"
+"Blavius:
+"
+"UAA Leader:
+"
+"Blavius:
+"
+"UAA Leader:
+"
+"Cartman:
+"
+"KIT-9:
+"
+"Shvek:
+"
+"UAA Leader:
+"
+"Blavius:
+"
+"Shvek:
+"
+"Tactical Officer:
+"
+"Cartman:
+"
+"KIT-9:
+"
+"Cartman:
+"
+"KIT-9:
+"
+"Cartman:
+"
+"
+"
+"Mrs. Garrison:
+"
+"Mr. Dawkins:
+"
+"Mrs. Garrison:
+"
+"Mr. Dawkins:
+"
+"Cartman:
+"
+"Mr. Dawkins:
+"
+"Cartman:
+"
+"Mr. Dawkins:
+"
+"Cartman:
+"
+"Mr. Dawkins:
+"
+"Mrs. Garrison:
+"
+"Mr. Dawkins:
+"
+"Mrs. Garrison:
+"
+"Mr. Dawkins:
+"
+"Mrs. Garrison:
+"
+"
+"
+"Cartman:
+"
+"Shvek:
+"
+"Cartman:
+"
+"UAA Leader:
+"
+"Blavius:
+"
+"Cartman:
+"
+"Shvek:
+"
+"Medic:
+"
+"Cartman:
+"
+"Blavius:
+"
+"All:
+"
+"UAA Leader:
+"
+"Shvek:
+"
+"Cartman:
+"
+"Shvek:
+"
+"Cartman:
+"
+"COCKA-3:
+"
+"Cartman:
+"
+"UAA Leader:
+"
+"
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Liane:
+"
+"Cartman:
+"
+"Clerk:
+"
+"Cartman:
+"
+"
+"
+"Time Child:
+"
+"Cartman:
+"
+"
+"

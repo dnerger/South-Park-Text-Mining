@@ -1,0 +1,517 @@
+"x"
+"
+"
+"Stephen:
+"
+"Sheila:
+"
+"Gerald:
+"
+"Stephen:
+"
+"Gerald:
+"
+"Linda:
+"
+"Stephen:
+"
+"Gerald:
+"
+"Stephen:
+"
+"Timmy:
+"
+"Stephen:
+"
+"Gerald:
+"
+"Timmy:
+"
+"Stephen:
+"
+"
+"
+"Passenger:
+"
+"Russian:
+"
+"Passenger:
+"
+"Russian:
+"
+"Passenger:
+"
+"Russian:
+"
+"Timmy:
+"
+"Russian:
+"
+"
+"
+"Mr. Stevenson:
+"
+"Younger Man:
+"
+"Mr. Stevenson:
+"
+"Older Man:
+"
+"Younger Man:
+"
+"Timmy:
+"
+"Mr. Stevenson:
+"
+"
+"
+"Steve:
+"
+"All:
+"
+"Steve:
+"
+"All:
+"
+"Steve:
+"
+"Timmy:
+"
+"Steve:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"Nathan:
+"
+"Steve:
+"
+"Nathan:
+"
+"Steve:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"
+"
+"SP Cabbie:
+"
+"Mr. Stevenson:
+"
+"Russian:
+"
+"Arab:
+"
+"SP Cabbie:
+"
+"Arab:
+"
+"Nathan:
+"
+"American:
+"
+"Nathan:
+"
+"Russian:
+"
+"Arab:
+"
+"Mimsy:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"Nathan:
+"
+"Mr. Stevenson:
+"
+"Nathan:
+"
+"
+"
+"SP Cabbie:
+"
+"Timmy:
+"
+"SP Cabbie:
+"
+"
+"
+"Nathan:
+"
+"SP Cabbie:
+"
+"Russian:
+"
+"SP Cabbie:
+"
+"Nathan:
+"
+"Timmy:
+"
+"Randy:
+"
+"Russian:
+"
+"Nathan:
+"
+"
+"
+"Nathan:
+"
+"Mimsy:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"Nathan:
+"
+"
+"
+"Woman 1:
+"
+"Timmy:
+"
+"Woman 1:
+"
+"Timmy:
+"
+"Nathan:
+"
+"Timmy:
+"
+"Nathan:
+"
+"Timmy:
+"
+"Nathan:
+"
+"Timmy:
+"
+"Nathan:
+"
+"Timmy:
+"
+"Nathan:
+"
+"
+"
+"Mimsy:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"
+"
+"Nathan:
+"
+"Woman 2:
+"
+"Nathan:
+"
+"
+"
+"Nathan:
+"
+"
+"
+"Gerald:
+"
+"Stephen:
+"
+"Gerald:
+"
+"Stephen:
+"
+"HC Driver 1:
+"
+"Stephen:
+"
+"HC Driver 2:
+"
+"Stephen:
+"
+"Mimsy:
+"
+"HC Driver 3:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"Nathan:
+"
+"
+"
+"Announcer:
+"
+"Elon Musk:
+"
+"Reporter 1:
+"
+"Elon Musk:
+"
+"Reporter 2:
+"
+"Reporter 3:
+"
+"
+"
+"Elon Musk:
+"
+"Exec. 1:
+"
+"Exec. 2:
+"
+"Exec. 3:
+"
+"Elon Musk:
+"
+"Nathan:
+"
+"Elon Musk:
+"
+"Nathan:
+"
+"Exec. 4:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"Nathan:
+"
+"
+"
+"HC Driver 4:
+"
+"Timmy:
+"
+"Nathan:
+"
+"Timmy:
+"
+"Nathan:
+"
+"Elon Musk:
+"
+"Timmy:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"Elon Musk:
+"
+"Nathan:
+"
+"
+"
+"Jimbo:
+"
+"CNN Anchor:
+"
+"Randy:
+"
+"CNN Anchor:
+"
+"
+"
+"Shoppers:
+"
+"Gerald:
+"
+"Randy:
+"
+"Manager:
+"
+"Shoppers:
+"
+"Manager:
+"
+"
+"
+"Stephen:
+"
+"HC Driver 5:
+"
+"HC Driver 6:
+"
+"Timmy:
+"
+"HC Driver 7:
+"
+"Matthew McConaughey:
+"
+"Stephen:
+"
+"
+"
+"Announcer:
+"
+"Stuart:
+"
+"Gerald:
+"
+"Randy:
+"
+"
+"
+"BBC Announcer:
+"
+"BBC Anchor:
+"
+"
+"
+"Annoucer:
+"
+"Timmy:
+"
+"Announcer:
+"
+"Nathan:
+"
+"Elon Musk:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"Nathan:
+"
+"Announcer:
+"
+"Matthew McConaughey:
+"
+"Announcer:
+"
+"Mr. Stevenson:
+"
+"Announcer:
+"
+"Gerald:
+"
+"Randy:
+"
+"Stuart:
+"
+"Randy:
+"
+"Announcer:
+"
+"Timmy:
+"
+"Announcer:
+"
+"Dick Dastardly:
+"
+"Announcer:
+"
+"Randy:
+"
+"Gerald:
+"
+"Sharon:
+"
+"Randy:
+"
+"Mrs. McCormick:
+"
+"Stuart:
+"
+"Announcer:
+"
+"Nathan:
+"
+"HC drivers:
+"
+"Elon Musk:
+"
+"HC drivers:
+"
+"Announcer:
+"
+"Matthew McConaughey:
+"
+"Announcer:
+"
+"Timmy:
+"
+"Nathan:
+"
+"Mimsy:
+"
+"Nathan:
+"
+"Announcer:
+"
+"Matthew McConaughey:
+"
+"Announcer:
+"
+"Timmy:
+"
+"
+"
+"Steve:
+"
+"
+"
+"Nathan's Mom:
+"
+"Nathan:
+"
+"Nathan's Mom:
+"
+"Nathan:
+"
+"Nathan's Mom:
+"
+"Nathan:
+"
+"Nathan's Mom:
+"
+"Nathan:
+"
+"Nathan's Mom:
+"
+"Nathan:
+"
+"Nathan's Mom:
+"
+"Nathan:
+"
+"
+"
+"Nathan's Dad:
+"
+"Nathan's Mom:
+"
+"Nathan's Dad:
+"
+"Nathan:
+"
+"
+"

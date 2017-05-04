@@ -1,0 +1,90 @@
+"x"
+"Stan Marsh
+"
+"Kyle Broflovski
+"
+"Eric Cartman
+"
+"Butters Stotch
+"
+"Kenny McCormick
+"
+"Wendy Testaburger
+"
+"Clyde Donovan
+"
+"Molly
+"
+"Riley
+"
+"Mr. Garrison
+"
+"Mr. Mackey
+"
+"Nurse Bronski
+"
+"Randy Marsh
+"
+"Sharon Marsh
+"
+"Officer Barbrady
+"
+"Entertainers
+Adam Sandler
+Jill
+Aide 1
+Aide 2
+Anchor
+Big Harry and Mike
+"
+"Adam Sandler
+"
+"Jill
+"
+"Aide 1
+"
+"Aide 2
+"
+"Anchor
+"
+"Big Harry and Mike
+"
+"Restaurant Executives
+Burger King Exec
+McDonald's Exec
+KFC Exec
+Pizza Hut Exec
+Taco Bell Exec
+"
+"Burger King Exec
+"
+"McDonald's Exec
+"
+"KFC Exec
+"
+"Pizza Hut Exec
+"
+"Taco Bell Exec
+"
+"Secret Society of Cynics
+Researcher/Morpheus
+Martin
+Mr. Mathers
+Neo
+Neo 2
+Bald Guy
+"
+"Researcher/Morpheus
+"
+"Martin
+"
+"Mr. Mathers
+"
+"Neo
+"
+"Neo 2
+"
+"Bald Guy
+"
+"Various Unnamed Boys
+"

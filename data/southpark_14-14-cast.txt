@@ -1,0 +1,48 @@
+"x"
+" Stan Marsh
+"
+" Kyle Broflovski
+"
+" Eric Cartman
+"
+" Kenny McCormick
+"
+" Craig Tucker
+"
+" Randy Marsh
+"
+" Sharon Marsh
+"
+" Sheila Broflovski
+"
+" Terrance and Phillip
+"
+" Shake Weight Commercial Woman 1 and 2
+"
+" Announcer
+"
+" Michael, BB&B Associate
+"
+" Reporter
+"
+" Rosemary
+"
+" Amanda and Hotline Man, from the Food Network Hotline
+"
+" Celebrity Chefs
+ Alton Brown
+ Bobby Flay
+ Guy Fieri
+ Jamie Oliver
+ Paula Deen
+"
+" Alton Brown
+"
+" Bobby Flay
+"
+" Guy Fieri
+"
+" Jamie Oliver
+"
+" Paula Deen
+"
