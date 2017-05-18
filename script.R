@@ -184,15 +184,28 @@ for (i in episode_files_to_merge){
   episode_data_to_merge[i] <-read.table(i, header=TRUE, sep="\t", quote="\"")
 }
 
-episode_data_to_merge[51]
-episode_data_to_merge[52]
+episode_data_to_merge[69]
+episode_data_to_merge[70]
 
 
 
-testxy <- data.frame(episode_data_to_merge[3], episode_data_to_merge[4])
+
+testxy <- data.frame(episode_data_to_merge[1], episode_data_to_merge[2])
 testxy$data.southpark_03.01b.txt[[4]]
 testxy$data.southpark_03.01b.txt <- gsub("\"", "", testxy$data.southpark_03.01b.txt)
 write.table(testxy, file="testxy.csv", row.names=FALSE, col.names=FALSE)
+
+
+ins <- function(a, to.insert=list(), pos=c()) {
+
+c(a[seq(pos[1])], 
+  to.insert[[1]], 
+  a[seq(pos[1]+1, pos[2])], 
+  to.insert[[2]], 
+  a[seq(pos[2]+1, length(a))]
+)
+}
+
 for (i in 1:length(episode_data_to_merge)){
   if (i%%2==1){
     i
@@ -228,6 +241,18 @@ for (i in 1:length(episode_data_to_merge)){
     if (i==47){
       episode_text <- episode_text[-c(346,347)]
     }
+    if (i==51){
+      episode_text <- ins(episode_text, list(" ", " "), pos=c(371, 372))
+      episode_text <- episode_text[-375]
+      
+    }
+    if (i==65){
+      episode_text <- episode_text[-187]
+    }
+    if (i==69){
+      episode_text <- c(episode_text[seq(56)], " ", episode_text)
+     
+    }
     episode_data$Text <- episode_text
     
     write.table(episode_data, "dialogue.csv", row.names=FALSE,col.names = TRUE, append = TRUE)
@@ -235,7 +260,6 @@ for (i in 1:length(episode_data_to_merge)){
   }
 }
 
-dialogue_csv <- read.csv("dialogue.csv",stringsAsFactors = FALSE, sep=" ")
 
 
 
