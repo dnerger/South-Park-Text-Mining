@@ -42,8 +42,15 @@ fourier_sentiment <- function (sentiment) {
 plotshape <- data_frame(linenumber = 1:100, ft = fourier_sentiment(xy)) %>% mutate(series="South Park")
 
 
-pp <- ggplot(data = plotshape) + geom_area(alpha = 0.7) + 
-  theme_minimal() +
+pp <- ggplot(data = plotshape,aes(x = linenumber, y = ft, fill = series)) + geom_area(alpha = 0.7) + 
+  theme_minimal() + ylab("Transformed Sentiment Value") +
+  labs(title = "Sentiment over 18 seasons of South Park") +xlab("Position in script")+scale_fill_viridis(end = 0.1, discrete=TRUE) +
+  scale_x_discrete(expand=c(0,0)) +
+  theme(strip.text=element_text(hjust=0)) +
+  theme(strip.text = element_text(face = "italic")) +
+  theme(plot.caption=element_text(size=9)) +
+  theme(legend.position="none") 
+
 pp$data$ft
 pp
    
