@@ -23,7 +23,8 @@ for(g in seq_along(episodes)){
 }
 
 seasons <-unique(dialogue$Season)
-seasons <-seasons[order(seasons)]
+seasons <-sort(seasons, as.numeric(as.character(seasons)))
+seasons
 by.season <- NULL;
 for(g in seq_along(seasons)){
   subset <- dialogue[dialogue$Season==seasons[g], ]
@@ -61,39 +62,26 @@ write.csv(count.ep, "southpark_tdm_episode.csv", row.names=FALSE)
 
 
 dialogue <- read.csv('all-seasons.csv',stringsAsFactors = FALSE)
-full_dialogue = paste(by.season$text[18], collapse = " ")
-
+namevector <-c('person','location','organization')
+by.season[,namevector] <- NA
 library(NLP)
 library(openNLP)
 library(magrittr)
 install.packages('rJava')
 
-full_dialogue <-as.String(full_dialogue)
-full_dialogue <- substr(full_dialogue,1,100000)
+
+
 word_ann <- Maxent_Word_Token_Annotator()
 sent_ann <- Maxent_Sent_Token_Annotator()
-
-dialogue_annotations <- annotate(full_dialogue, list(sent_ann, word_ann))
-
-class(dialogue_annotations)
-head(dialogue_annotations)
-
 person_ann <- Maxent_Entity_Annotator(kind = "person")
 location_ann <- Maxent_Entity_Annotator(kind = "location")
 organization_ann <- Maxent_Entity_Annotator(kind = "organization")
-
-dialogue_doc <- AnnotatedPlainTextDocument(full_dialogue, dialogue_annotations)
-sents(dialogue_doc) %>% head(10)
-
 
 pipeline <- list(sent_ann,
                  word_ann,
                  person_ann,
                  location_ann,
                  organization_ann)
-
-dialogue_annotations <- annotate(full_dialogue, pipeline)
-dialogue_doc <- AnnotatedPlainTextDocument(full_dialogue, dialogue_annotations)
 
 # Extract entities from an AnnotatedPlainTextDocument
 entities <- function(doc, kind) {
@@ -107,5 +95,50 @@ entities <- function(doc, kind) {
   }
 }
 
-entities(dialogue_doc, kind = "person")
-sents(dialogue_doc)
+full_sents <- NULL
+for (g in seasons){
+  
+  full_dialogue = paste(by.season$text[g], collapse = " ")
+  nchar(full_dialogue)
+  full_dialogue <-as.String(full_dialogue)
+  
+  first_half <- substr(full_dialogue,0,nchar(full_dialogue)/2)
+  second_half <- substr(full_dialogue,nchar(full_dialogue)/2, nchar(full_dialogue))
+
+  full_dialogue <- first_half
+  dialogue_annotations <- annotate(full_dialogue, pipeline)
+  dialogue_doc <- AnnotatedPlainTextDocument(full_dialogue, dialogue_annotations)
+  org1 <-entities(dialogue_doc, kind = "organization")
+  loc1 <-entities(dialogue_doc, kind = "location")
+  pers1<-entities(dialogue_doc, kind = "person")
+  
+  full_sents <- c(full_sents, sents(dialogue_doc))
+  
+  full_dialogue <- second_half
+  dialogue_annotations <- annotate(full_dialogue, pipeline)
+  dialogue_doc <- AnnotatedPlainTextDocument(full_dialogue, dialogue_annotations)
+  
+  org1 <-rbind(org1,entities(dialogue_doc, kind = "organization"))
+  loc1 <-rbind(loc1,entities(dialogue_doc, kind = "location"))
+  pers1<-rbind(pers1,entities(dialogue_doc, kind = "person"))
+
+  by.season$organization[g]<-str_c(org1, collapse= ";")
+  by.season$location[g]<-str_c(loc1, collapse=";")
+  by.season$person[g]<-str_c(pers1, collapse=";")
+  full_sents <- c(full_sents, sents(dialogue_doc))
+}
+
+
+
+full_sents
+testxx<-sents(dialogue_doc)
+by.season$organization[18]
+organizations <- strsplit(by.season$organization, ";")
+persons <- strsplit(by.season$person, ";")
+locations <- strsplit(by.season$location, ";")
+
+
+
+library(tidytext)
+by.season
+by.season %>% unnest_tokens(word, text)
