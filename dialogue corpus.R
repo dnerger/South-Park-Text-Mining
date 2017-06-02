@@ -22,7 +22,7 @@ for(g in seq_along(episodes)){
   #if (subset$Season[1]==18){
   row <- data.frame(episode.number=g, episode.code=episodes[g], season=subset$Season[1], text=text)
   by.episode <- rbind(by.episode, row)
-  #}
+#}
   
 }
 
@@ -131,8 +131,8 @@ for (g in seasons){
   by.season$person[g]<-str_c(pers1, collapse=";")
   full_sents <- c(full_sents, sents(dialogue_doc))
 }
-
-full_dialogue = paste(by.episode$text[1], collapse = " ")
+dialogue_doc$annotations
+full_dialogue <- paste(by.episode$text[1], collapse = " ")
 dialogue_annotations <- annotate(as.String(full_dialogue), pipeline)
 dialogue_doc <- AnnotatedPlainTextDocument(full_dialogue, dialogue_annotations)
 org1 <-entities(dialogue_doc, kind = "organization")
@@ -141,6 +141,10 @@ pers1<-entities(dialogue_doc, kind = "person")
 org1
 loc1
 pers1
+ent1<-entities(dialogue_doc)
+ent1
+
+dialogue_doc$content
 
 full_sents
 testxx<-sents(dialogue_doc)
@@ -154,7 +158,7 @@ locations <- strsplit(by.season$location, ";")
 
 library(tidytext)
 myReader <- readTabular(mapping=list(content="text", id="season"))
-corpus <- Corpus(DataframeSource(by.season), readerControl=list(reader=myReader))
+corpus <- Corpus(DataframeSource(by.episode), readerControl=list(reader=myReader))
 
 corpus <- tm_map(corpus,content_transformer(function(x) iconv(x, to='UTF-8', sub='byte')))
 corpus <- tm_map(corpus, content_transformer(tolower))
@@ -178,6 +182,58 @@ tf_idf_v <- sort(colSums(tf_idf_mat), decreasing=TRUE)
 head(tf_idf_v, 20)
 tf_idf_v[1]<-0
 dfxxx <- data.frame(word = names(tf_idf_v), value = tf_idf_v)
+characters <- unique(dialogue$Character)
+major_characters <- count()
+character_appear <- aggregate(data.frame(count = dialogue$Character), list(value = dialogue$Character), length)
+character_appear <- character_appear[order(character_appear$count, decreasing = TRUE),]
+
+transcripts_3 <- dialogue[which(dialogue$Character %in% character_appear$value[1:40]), ]
+library(tidyr)
+library(reshape2)
+speaker_scene_matrix <- transcripts_3 %>%
+  acast(Character ~ Episode, fun.aggregate = length)
+
+data_matrix <- as.matrix(t(speaker_scene_matrix))
+total_occurrences <- colSums(t(speaker_scene_matrix))
+
+co_occurrence <- t(data_matrix) %*% data_matrix
+
+library(igraph)
+g <- graph.adjacency(co_occurrence, weighted = TRUE, mode = "undirected", diag = FALSE)
+plot(g, edge.width = E(g)$weight/500000)
+
+library(igraph)
+g <- graph.adjacency(co_occurrence,
+                     weighted = TRUE,
+                     diag = FALSE,
+                     mode = "upper")
+
+g <- simplify(g, remove.multiple = FT, remove.loops = T, edge.attr.comb = c(weight = "sum", type = "ignore"))
+
+females <- c("Liane", "Sharon", "Sheila", "Wendy") 
+
+V(g)$gender <- ifelse(V(g)$name %in% females, "female", "male")
+
+plot(g,
+     vertex.label.family = "Helvetica",
+     vertex.label.font = 1,
+     vertex.shape = "sphere",
+     vertex.size=total_occurrences/230,
+     vertex.label.cex=0.9,
+     vertex.color=c( "pink", "skyblue")[1+(V(g)$gender=="male")],
+     vertex.label.color="black",
+     vertex.frame.color = NA,
+     edge.width = E(g)$weight/300000,
+     edge.curved=.1,
+     layout=layout_in_circle)
+
+norm <- speaker_scene_matrix / rowSums(speaker_scene_matrix)
+
+h <- hclust(dist(norm, method = "manhattan"))
+
+plot(h)
+
+head(by.episode)
 
 library("wordcloud")
 library("RColorBrewer")
@@ -372,7 +428,7 @@ dt2
 
 allTokenizer <- function(x) NGramTokenizer(x, Weka_control(min = 1, max = 1))
 tdm <- TermDocumentMatrix(corpus, control = list(tokenize = allTokenizer))
-tdm <- removeSparseTerms(tdm, 0.3)
+tdm <- removeSparseTerms(tdm, 0.5)
 tdm
 tdmMatrix <- as.matrix(tdm)
 
@@ -391,7 +447,7 @@ library(igraph)
    g <- simplify(g)
  # set labels and degrees of vertices
   V(g)$label <- V(g)$name
-V(g)$degree <- degree(g)
+V(g)$degree <- degree(g)/30000
 set.seed(3952)
 layout1 <- layout.fruchterman.reingold(g)
 pdf("term-network.pdf")
@@ -401,7 +457,7 @@ plot(g, layout=layout1)
  
 
  library(NMF)
- nmf_overall <- nmf(as.matrix((tdm)),3, .options="t") 
+ nmf_overall <- nmf(as.matrix((tdm)),20,"lee", .options="t" ) 
 nmf_overall2 <- fit(nmf_overall)
 nmf_hat <- fitted(nmf_overall)
 summary(nmf_hat)
@@ -411,11 +467,18 @@ coeff <- coef(nmf_overall)
 coeff
 algorithm(nmf_overall)
 coefmap(nmf_overall, subsetRow = TRUE)
-
+base[,1]
+nmf_w <- nmf_overall2@W
+nmf_h <- nmf_overall2@H
+nmf_h
+nmf_test[,1]
+nmf_test <- sort(nmf_w[,20], decreasing = TRUE)
+coefmap(nmf_overall2)
+names(nmf_test)
 nmf_overall.multi.method <- nmf(as.matrix((tdm)), 3, list("brunet", "lee", "ns"),
                         seed = 123456, .options = "t")
 plot(nmf_overall.multi.method)
-
+which.max(nmf_h[,241])
 
 organizations[18]
 findFreqTerms(organizations)
@@ -425,14 +488,18 @@ library(stm)
 library(tidytext)
 install.packages("tidytext")
 
-processed <- textProcessor(by.season$text, metadata = by.season)
+processed <- textProcessor(by.episode$text, metadata = by.episode)
+out <- prepDocuments(processed$documents, processed$vocab, processed$meta, lower.thresh = 0, upper.thresh = 25)
 out <- prepDocuments(processed$documents, processed$vocab, processed$meta)
-out <- prepDocuments(processed$documents, processed$vocab, processed$meta, lower.thresh = 5)
 
-southparkPrevFit <- stm(documents = out$documents, vocab = out$vocab,K=10, data = out$meta)
+
+southparkPrevFit <- stm(documents = out$documents, vocab = out$vocab,K=25, data = out$meta)
+
+
+southparkPrevFit <- stm(documents = out$documents, vocab = out$vocab,K=4, data = out$meta)
 yyyyy<-labelTopics(southparkPrevFit, c(1,2,3,4,5))
 yyyyy
-plot(southparkPrevFit, type = "summary")
+plot(southparkPrevFitSeason18, type = "summary", main="Top Topics of Season 18")
 
 install.packages("maps")
 install.packages("ggplot2")
@@ -463,13 +530,50 @@ corpus_new <- tm_map(corpus_new, content_transformer(stripWhitespace))
 corpus_new <- tm_map(corpus_new, removeWords, stopwords("english"))
 corpus_new <- tm_map(corpus_new, stemDocument, language = "english")
 dtMatrix <- DocumentTermMatrix(corpus_new, control = list(tokenize = allTokenizer))
-container <- create_container(dtMatrix, by.episode$text, trainSize=1:200, virgin=FALSE)
 
-# train a SVM Model
-model <- train_model(container, "SVM", kernel="linear", cost=1)
-predictionData <- list(by.episode$text[205], by.episode$text[207])
-predMatrix <- create_matrix(predictionData, originalMatrix=dtMatrix)
-predSize = length(predictionData);
-predictionContainer <- create_container(predMatrix, labels=rep(0,predSize), testSize=1:predSize, virgin=FALSE)
-results <- classify_model(predictionContainer, model)
-results
+mat.df <- as.data.frame(data.matrix(dtMatrix), stringsAsfactors = FALSE)
+
+# Column bind category (known classification)
+mat.df <- cbind(mat.df, by.episode$season)
+
+# Change name of new column to "category"
+colnames(mat.df)[ncol(mat.df)] <- "category"
+
+# Split data by rownumber into two equal portions
+train <- sample(nrow(mat.df), ceiling(nrow(mat.df) * .50))
+test <- (1:nrow(mat.df))[- train]
+
+# Isolate classifier
+cl <- mat.df[, "category"]
+
+# Create model data and remove "category"
+modeldata <- mat.df[,!colnames(mat.df) %in% "category"]
+
+# Create model: training set, test set, training set classifier
+knn.pred <- knn(modeldata[train, ], modeldata[test, ], cl[train])
+
+# Confusion matrix
+conf.mat <- table("Predictions" = knn.pred, Actual = cl[test])
+conf.mat
+
+# Accuracy
+(accuracy <- sum(diag(conf.mat))/length(test) * 100)
+
+# Create data frame with test data and predicted category
+df.pred <- cbind(knn.pred, modeldata[test, ])
+write.table(df.pred, file="output.csv", sep=";")
+
+lda_show <- toLDAvis(southparkPrevFitSeason18, docs = out$documents)
+lda_show <- toLDAvis(southparkPrevFit, docs = out$documents)
+
+
+
+library(LDAvis)
+help(createJSON, package = "LDAvis")
+xyyy<- apply(southparkPrevFit$theta, 1, which.max) 
+
+topic_episodes <- data.frame(xyyy)
+p <- ggplot(topic_episodes,aes(seq_along(xyyy), xyyy, colour=xyyy)) + geom_point()
+p + xlab("Episode") + ylab("Topic")+theme(legend.position="none")
+
+createJSON(phi=southparkPrevFit$eta, theta=southparkPrevFit$theta, vocab = southparkPrevFit$vocab)
