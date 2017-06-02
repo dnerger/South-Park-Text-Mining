@@ -35,7 +35,7 @@ g <- graph.adjacency(co_occurrence,
                      diag = FALSE,
                      mode = "upper")
 
-g <- simplify(g, remove.multiple = FT, remove.loops = T, edge.attr.comb = c(weight = "sum", type = "ignore"))
+g <- simplify(g, remove.multiple = F, remove.loops = T, edge.attr.comb = c(weight = "sum", type = "ignore"))
 
 females <- c("Liane", "Sharon", "Sheila", "Wendy") 
 
