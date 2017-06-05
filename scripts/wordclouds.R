@@ -50,7 +50,7 @@ for(g in seq_along(seasons)){
 myReader <- readTabular(mapping=list(content="text", id="season"))
 
 #can exchange by.season with by.episode, delivers different results for tf-idf
-corpus <- Corpus(DataframeSource(by.season), readerControl=list(reader=myReader))
+corpus <- Corpus(DataframeSource(by.episode), readerControl=list(reader=myReader))
 #preprocessing
 corpus <- tm_map(corpus,content_transformer(function(x) iconv(x, to='UTF-8', sub='byte')))
 corpus <- tm_map(corpus, content_transformer(tolower))
@@ -62,7 +62,7 @@ corpus <- tm_map(corpus, stemDocument, language = "english")
 
 #dtm with tf-idf weighting
 terms <-DocumentTermMatrix(corpus,control = list(weighting = function(x) weightTfIdf(x, normalize = FALSE)))
-#remove sparse terms to decrease size
+#remove sparse terms to decrease size, choose 0.95 for seasons and 0.99 for episodes
 terms <- removeSparseTerms(terms, 0.99)
 
 
@@ -74,8 +74,8 @@ head(tf_idf_v, 20)
 tf_idf_v[1]<-0
 tf_idf_wordcloud <- data.frame(word = names(tf_idf_v), value = tf_idf_v)
 
-png(file="WordCloud-TFIDF.png",width=1000,height=700, bg="grey30")
-wordcloud(tf_idf_wordcloud$word, tf_idf_wordcloud$value, col=terrain.colors(length(tf_idf_wordcloud$word), alpha=0.9), max.words=100, random.order=FALSE, rot.per=0.3 )
+png(file="WordCloud-TFIDF.png",width=1000,height=700)
+wordcloud(tf_idf_wordcloud$word, tf_idf_wordcloud$value, col=terrain.colors(length(tf_idf_wordcloud$word), alpha=1), max.words=100, random.order=FALSE, rot.per=0.3)
 title(main = "Words by tf-idf score over 18 seasons of South Park", font.main = 1, col.main = "cornsilk3", cex.main = 1.5)
 dev.off()
 
@@ -91,8 +91,8 @@ ngram_dfm <- dfm(episodes_text, stem=TRUE, remove_punct=TRUE, ngrams=4:4, verbos
 ngram_df <- data.frame(word=ngram_dfm@Dimnames$features, freq=ngram_dfm@x)
 ngram_df <- arrange(ngram_df, -freq)
 
-png(file="WordCloud-ngram.png",width=1000,height=700, bg="grey30")
-wordcloud(ngram_df$word, ngram_df$freq, col=terrain.colors(length(ngram_df$word), alpha=0.9), max.words=100, random.order=FALSE, rot.per=0.3 )
+png(file="WordCloud-ngram.png",width=1000,height=700)
+wordcloud(ngram_df$word, ngram_df$freq, col=terrain.colors(length(ngram_df$word), alpha=1), max.words=100, random.order=FALSE, rot.per=0.3 )
 title(main = "Quadgrams over 18 seasons of South Park", font.main = 1, col.main = "cornsilk3", cex.main = 1.5)
 dev.off()
 
@@ -134,5 +134,5 @@ pdf("term-network.pdf")
 plot(g, layout=layout1)
 dev.off()
 
-
+display.brewer.all()
 

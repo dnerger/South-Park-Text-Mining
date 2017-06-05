@@ -52,7 +52,7 @@
 	
 	 I made an attempt at a crawl with the R package \textbf{rvest}, which is able to harvest data from websites.  However, the \textit{html data} of the episode scripts provided on the South Park Archives differ between episodes. For 16 of 20 seasons, the whole episode needs to be pre-processed manually because the \textbf{line} and \textit{character} are extracted individually and can not be merged because of random whitespace lines that are introduced by \textbf{rvest}.
 	 
-	 The data set is used in three different versions:
+	 In the scripts, the data set is used in three different variations:
 	 \begin{enumerate}
 	 \item \textit{dialogue} - each entry holds information about season, episode, character and line
 	 \item \textit{by.season} - each entry holds information about season and the complete script for that season
@@ -62,29 +62,11 @@
 	 Both \textit{by.episode} and \textit{by.season} are created by using the data from \textit{dialogue}.
 	
 	
-	\begin{figure}[h]
-	\centering
-	\includegraphics[scale=0.9]{images/WordCloud.png}
-	\caption{General wordcloud, containing terms by frequency}
-	\label{fig:WordCloud}
-	\end{figure}
+	
 	
 	\begin{figure}[h]
 	\centering
-	\includegraphics[scale=0.9]{images/WordCloud-TFIDF.png}
-	\caption{Wordcloud containing terms by TF-IDF score}
-	\label{fig:WordCloud-TFIDF}
-	\end{figure}
-	\begin{figure}[h]
-	\centering
-	\includegraphics[scale=0.9]{images/WordCloud-ngram.png}
-	\caption{Wordcloud containing ngrams (n=4) by frequency}
-	\label{fig:WordCloud-ngram}
-	\end{figure}
-	
-	\begin{figure}[h]
-	\centering
-	\includegraphics[scale=0.7]{images/CoOccurence Matrix.pdf}
+	\includegraphics[scale=0.85]{images/CoOccurenceMatrix.png}
 	\caption{Co-occurences of characters over 257 episodes, size of vertex in relation to amount of lines}
 	\label{fig:CoOccurence}
 	\end{figure}
@@ -92,7 +74,7 @@
 	
 	\section{Pre-processing}
 	In general, the standard pre-processing tasks are executed on the corpus. Depending on the later use, different packages perform these.
-	The package \textbf{tm} is used to convert the corpus to lower case, remove punctuation and numbers as well as strip whitespaces. Furthermore, stopwords are removed using the stopword list from the Snowball stemmer project  the corpus is stemmed using Porter's stemming algorithm.\footnote{\url{http://snowball.tartarus.org/algorithms/english/stop.txt}} It is used together with several DocumentTerm- and TermDocument-Matrices.
+	The package \textbf{tm} is used to convert the corpus to lower case, remove punctuation and numbers as well as strip whitespaces. Furthermore, stopwords are removed using the stopword list from the Snowball stemmer project. The corpus is stemmed using Porter's stemming algorithm.\footnote{\url{http://snowball.tartarus.org/algorithms/english/stop.txt}} It is used together with several DocumentTerm- and TermDocument-Matrices. From these DTMs/TDMs, sparse terms are removed. The maximum allowed sparsity depends on the data set and the intended use, with the allowed percentage being higher for the \textit{by.episode} data set in comparison to \textit{by.season} because there are more documents in the \textit{by.episod} data set. 
 	
 	The pre-processing for the Structural Topic Model is done with the same tasks, however those are performed by the package \textbf{stm} itself.
 	
@@ -102,6 +84,33 @@
 	
 	\section{Results and visualization}
 	
+	To sufficiently present the results and the corresponding visualization, each relevant script will present them in their own subsection.
+	
+	\subsection{Wordclouds}
+	To start to gain an insight into South Park, I started with building wordclouds that display the most frequent words to see what South Park is about. However, even with stopwords removed, the words that are most frequent include words like \textit{get, just} and \textit{now}. From these words, nothing about the TV show can be derived, so to get meaningful answers to what is important in and characterisic for South Park, the corpus is built with a term frequency-inverse document frequency (tf-idf) weight, which reflects how important each term is to the corresponding document in the corpus.
+	With this weighting, meaningful results can be derived, as can be seen in Figures~\ref{fig:WordCloud-TFIDF-ep} and~\ref{fig:WordCloud-TFIDF-s}.
+	\begin{figure}[!tbp]
+  \centering
+  \begin{minipage}[b]{0.45\textwidth}
+    \includegraphics[width=\textwidth]{images/WordCloud-TFIDF-episode.png}
+    \caption{ Terms with highest TF-IDF score - \textit{by.episode}}
+	\label{fig:WordCloud-TFIDF-ep}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[b]{0.5\textwidth}
+    \includegraphics[width=\textwidth]{images/WordCloud-TFIDF.png}
+    \caption{Terms with highest TF-IDF score - \textit{by.season}}
+	\label{fig:WordCloud-TFIDF-s}
+  \end{minipage}
+\end{figure}
+		
+
+	\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.6]{images/WordCloud-ngram.png}
+	\caption{Wordcloud containing ngrams (n=4) by frequency}
+	\label{fig:WordCloud-ngram}
+	\end{figure}	
 	
 	\section{Conclusion}
 	In conclusion, 
