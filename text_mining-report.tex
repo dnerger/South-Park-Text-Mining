@@ -10,7 +10,7 @@
 \usepackage{amsmath}
 \usepackage{hyperref}
 \usepackage{epigraph}
-
+\usepackage{dirtytalk}
 \author{Dominik Nerger (i6146759)}
 \title{Text Mining South Park}
 \date{\today}
@@ -87,8 +87,8 @@
 	To sufficiently present the results and the corresponding visualization, each relevant script will present them in their own subsection.
 	
 	\subsection{Wordclouds}
-	To start to gain an insight into South Park, I started with building wordclouds that display the most frequent words to see what South Park is about. However, even with stopwords removed, the words that are most frequent include words like \textit{get, just} and \textit{now}. From these words, nothing about the TV show can be derived, so to get meaningful answers to what is important in and characterisic for South Park, the corpus is built with a term frequency-inverse document frequency (tf-idf) weight, which reflects how important each term is to the corresponding document in the corpus.
-	With this weighting, meaningful results can be derived, as can be seen in Figures~\ref{fig:WordCloud-TFIDF-ep} and~\ref{fig:WordCloud-TFIDF-s}.
+	To start to gain an insight into South Park, I started with building wordclouds that display the most frequent words to see what South Park is about. However, even with stopwords removed, the words that are most frequent mostly include words such as \textit{get, just} and \textit{now}. From these words, nothing about the TV show can be derived. To get meaningful answers to what is important in and characteristic for South Park, the corpus is built with a term frequency-inverse document frequency (tf-idf) weight, which reflects how important each term is to the corresponding document in the corpus.
+	With this weighting, the terms that are most important over all 18 seasons can be derived, as can be seen in Figures~\ref{fig:WordCloud-TFIDF-ep} and~\ref{fig:WordCloud-TFIDF-s}.
 	\begin{figure}[!tbp]
   \centering
   \begin{minipage}[b]{0.45\textwidth}
@@ -103,7 +103,9 @@
 	\label{fig:WordCloud-TFIDF-s}
   \end{minipage}
 \end{figure}
+		The difference between the wordclouds descends from the different \textit{idf} weights for the data sets \textit{by.season} and \textit{by.episode}. The words in Figure~\ref{fig:WordCloud-TFIDF-ep} show the names of secondary characters such as Butters, Kenny and Wendy. These characters are not featured in Figure~\ref{fig:WordCloud-TFIDF-s} since they do appear in every season, but not in every episode.
 		
+		Figure~\ref{fig:WordCloud-ngram} shows the most frequent quadgram phrases without stopwords included. This includes sentences like the trademark phrase \say{Oh my god, they killed Kenny}, which is shown as \say{oh god kill kenni}.
 
 	\begin{figure}[h]
 	\centering
@@ -111,6 +113,8 @@
 	\caption{Wordcloud containing ngrams (n=4) by frequency}
 	\label{fig:WordCloud-ngram}
 	\end{figure}	
+	
+	\subsection{Co-occurences and dendogram}
 	
 	\section{Conclusion}
 	In conclusion, 
