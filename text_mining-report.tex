@@ -10,7 +10,6 @@
 \usepackage{amsmath}
 \usepackage{hyperref}
 \usepackage{epigraph}
-\usepackage{dirtytalk}
 \author{Dominik Nerger (i6146759)}
 \title{Text Mining South Park}
 \date{\today}
@@ -105,7 +104,7 @@
 \end{figure}
 		The difference between the wordclouds descends from the different \textit{idf} weights for the data sets \textit{by.season} and \textit{by.episode}. The words in Figure~\ref{fig:WordCloud-TFIDF-ep} show the names of secondary characters such as Butters, Kenny and Wendy. These characters are not featured in Figure~\ref{fig:WordCloud-TFIDF-s} since they do appear in every season, but not in every episode.
 		
-		Figure~\ref{fig:WordCloud-ngram} shows the most frequent quadgram phrases without stopwords included. This includes sentences like the trademark phrase \say{Oh my god, they killed Kenny}, which is shown as \say{oh god kill kenni}.
+		Figure~\ref{fig:WordCloud-ngram} shows the most frequent quadgram phrases without stopwords included. This includes sentences like the trademark phrase "Oh my god, they killed Kenny", which is shown as "oh god kill kenni".
 
 	\begin{figure}[h]
 	\centering
@@ -115,7 +114,30 @@
 	\end{figure}	
 	
 	\subsection{Co-occurences and dendogram}
+	To gain insight into the relations between characters and to confirm the major characters of South Park, which are Stan, Kyle and Cartman, I decided to visualize the 20 characters with the most lines.
 	
+	As can be seen in Figure~\ref{fig:SpeakingPercentage}, Cartman is the character with most lines overall, with Stan and Kyle, as well as Butters and Randy being other major characters.
+	
+	\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.5]{images/speakingPercentage.png}
+	\caption{Speaking percentage for 20 major characters}
+	\label{fig:SpeakingPercentage}
+	\end{figure}	
+	
+	However, this does not show 
+	
+		
+	
+		
+	
+	
+	\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.6]{images/CoOccurenceMatrix.png}
+	\caption{Co-occurence }
+	\label{fig:WordCloud-ngram}
+	\end{figure}	
 	\section{Conclusion}
 	In conclusion, 
 

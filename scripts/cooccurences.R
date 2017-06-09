@@ -1,3 +1,5 @@
+#if packages missing, uncomment install.packages
+#install.packages(c("stringr","tidyr","reshape2","igraph"))
 library(stringr)
 library(tidyr)
 library(reshape2)
