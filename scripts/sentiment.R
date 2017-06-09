@@ -1,3 +1,5 @@
+#install.packages(c("stringr","dplyr","NLP","openNLP","magrittr","ggplot2","syuzhet","viridis"))
+#also needs OpenNLPmodels.en from <http://datacube.wu.ac.at/>
 library(stringr)
 library(dplyr)
 library(NLP)

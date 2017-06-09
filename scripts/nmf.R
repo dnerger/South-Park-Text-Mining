@@ -1,3 +1,4 @@
+#install.packages(c("stringr","NMF","tm","RWeka"))
 library(stringr)
 library(NMF)
 library(tm)

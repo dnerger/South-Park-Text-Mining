@@ -1,3 +1,4 @@
+#install.packages(c("stringr","wordcloud","RColorBrewer", "quanteda", "tm","igraph","ggraph"))
 library(stringr)
 library(wordcloud)
 library(RColorBrewer)

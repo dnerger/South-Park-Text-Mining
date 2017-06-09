@@ -1,3 +1,4 @@
+#install.packages(c("stringr","stm","LDAvis","ggplot2"))
 library(stringr)
 library(stm)
 library(LDAvis)

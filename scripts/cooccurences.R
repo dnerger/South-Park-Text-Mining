@@ -1,9 +1,10 @@
 #if packages missing, uncomment install.packages
-#install.packages(c("stringr","tidyr","reshape2","igraph"))
+#install.packages(c("stringr","tidyr","reshape2","igraph", "ggplot2"))
 library(stringr)
 library(tidyr)
 library(reshape2)
 library(igraph)
+library(ggplot2)
 
 directory <- "~/GitHub/South-Park-Text-Mining"
 dir.create(directory, recursive = TRUE, showWarnings = FALSE)
@@ -23,6 +24,26 @@ character_appear <- character_appear[order(character_appear$count, decreasing = 
 
 #lines of 20 major characters
 major_character_lines <- dialogue[which(dialogue$Character %in% character_appear$value[1:20]), ]
+character_percentage <- table(major_character_lines$Character)/70896*100
+character_percentage <- sort(character_percentage, decreasing = TRUE)
+character_percentage_frame <- as.data.frame(character_percentage)
+character_percentage_frame$Freq
+
+
+ggplot(character_percentage_frame, aes(x=character_percentage_frame$Var1,character_percentage_frame$Freq))+
+geom_bar(stat="identity", aes(fill=Var1)) + 
+ 
+  theme_classic()+   labs(title="Cartman speaks the most") + 
+  ylab("Lines in %") + 
+  xlab("")   +
+  geom_text(aes(x=Var1, y=Freq-0.2, label=ceiling(Freq*100) / 100), 
+            color="white", fontface="bold", size=2)+
+  theme(legend.position=1,plot.title = element_text(size=20), 
+        axis.title.y=element_text(margin=margin(0,10,0,0)),
+        axis.text.x = element_text(angle = 35, hjust = 1, size=12),
+        axis.text.y = element_text(size=12),
+        axis.title=element_text(size=14))
+
 
 speaker_scene_matrix <- major_character_lines %>%
   acast(Character ~ ES, fun.aggregate = length)

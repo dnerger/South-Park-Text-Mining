@@ -1,3 +1,4 @@
+#install.packages(c("tm","RWeka","stringr"))
 library(tm)
 library(RWeka)
 library(stringr)
