@@ -8,7 +8,6 @@ library(tm)
 library(openNLP)
 library(openNLPmodels.en)
 library(magrittr)
-library(ggplot2)
 library(syuzhet)
 library(viridis)
 
@@ -110,6 +109,9 @@ process_sentiment <- function (rawtext, mymethod) {
 
 full_sentiments <- process_sentiment(full_sents,"nrc")
 season18_sentiments <- process_sentiment(season18_sents,"nrc")
+
+#load ggplot2 after sentiments have been processed, otherwise annotate function is blocked
+library(ggplot2)
 
 plot_sentiment <- function (mySentiment) {
   g <- ggplot(data = mySentiment, aes(x = linenumber, y = sentiment)) +

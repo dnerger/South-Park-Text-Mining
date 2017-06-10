@@ -52,7 +52,7 @@ coeff <- coef(nmf_overall)
 
 #show clusters of topics
 coefmap(nmf_overall, subsetRow = TRUE)
-
+basismap(nmf_overall, subsetRow = TRUE)
 #
 nmf_overall.multi.method <- nmf(as.matrix((tdm)), 3, list("brunet", "lee", "ns"),
                                 seed = 123456, .options = "t")
