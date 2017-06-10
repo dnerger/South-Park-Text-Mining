@@ -118,7 +118,7 @@
 	\subsection{Co-occurences and dendrogram}
 	To gain insight into the relations between characters and to confirm the major characters of South Park, which are Stan, Kyle and Cartman, I decided to visualize the 20 characters with the most lines.
 	
-	As can be seen in Figure~\ref{fig:SpeakingPercentage}, Cartman is the character with most lines overall, with Stan and Kyle, as well as Butters and Randy being other major characters.
+	As can be seen in Figure~\ref{fig:SpeakingPercentage}, Cartman is the character with most lines overall, with Stan and Kyle, as well as Butters and Randy being other major characters. This has been implemented by aggregating all lines for a character and then calculating the percentages in respect to the overall lines.
 	
 	\begin{figure}[h]
 	\centering
@@ -161,12 +161,58 @@
 	Another approach to learn something about South Park is to extract the sentiments and emotions that are expressed by the characters. The sentiments are annotated onto the seasons, using ...
 	
 	After the complete corpus has been annotated, which results in little chunks of words being tied together, the sentiments are processed with the library \textbf{syuzhet} and the sentiment dictionary \textit{nrc}.
-	During the processing the word chunks are grouped with 100 chunks being tied together. Under the assumption that each character line contains at least 1 chunk, this results in a minimum of 700 grouped chunks for 70000 character lines, which can be seen as roughly three different sentiment values for each episode. This enables a nice visualization of 
+	During the processing the word chunks are grouped with 100 chunks being tied together. Under the assumption that each character line contains at least 1 chunk, this results in a minimum of 700 grouped chunks for 70000 character lines, which can be seen as roughly three different sentiment values for each episode. This can be visualized with a sentiment timeline, as can be seen in Figures~\ref{fig:sentimentInitAll} and~\ref{fig:sentimentInit18}. One interesting observation is that the sentiments in Figure~\ref{fig:sentimentInit18} for season 18 are mostly positive with only a few segments having a negative sentiment score.
 		
+	\begin{figure}[!h]
+  \centering
+  \begin{minipage}[b]{0.45\textwidth}
+    \includegraphics[width=\textwidth]{images/sentimentInitAll.png}
+    \caption{Sentiment timeline over 18 seasons}
+	\label{fig:sentimentInitAll}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[b]{0.5\textwidth}
+    \includegraphics[width=\textwidth]{images/sentimentInit18.png}
+    \caption{Sentiment timeline for season 18}
+	\label{fig:sentimentInit18}
+  \end{minipage}
+\end{figure}
+
+However, it is hard to derive a meaning from the sentiments that are shown in Figure~\ref{fig:sentimentInitAll}. Therefore, I decided to filter and transform the sentiment timelines with a low-pass Fourier transform using a low-pass size of 3. The Fourier Transform puts the data into a periodic shape.
+		
+	
+	
+	\begin{figure}[!h]
+  \centering
+  \begin{minipage}[b]{0.45\textwidth}
+    \includegraphics[width=\textwidth]{images/sentimentAll.png}
+    \caption{Fourier transformed sentiment timeline over 18 seasons}
+	\label{fig:sentimentInitAll}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[b]{0.5\textwidth}
+    \includegraphics[width=\textwidth]{images/sentiment18.png}
+    \caption{Fourier transformed sentiment timeline for season 18}
+	\label{fig:sentimentInit18}
+  \end{minipage}
+\end{figure}		
+			
+			%
+	\subsection{Non-negative Matrix Factorization}
+	
+	
+	
+	
+	\subsection{Structural Topic Model}
+	
+	To gain further insights into the topics that define South Park, I decided to use 
+	the \textbf{stm} package, which provides the Structural Topic Model. Basically, \textbf{stm} is similar to other probabilistic topic models like the Latent Dirichlet allocation(LDA). However, it allows to incorporate metadata into the topic model and enables the user to discover the main topics in a text corpus with a connection to the metadata. 
 	
 	
 	\section{Conclusion}
 	In conclusion, 
 
 	\section{Future work}
+	
+	One possible future implementation is to visualize the sentiment and emotion timelines for different characters, which would then combine the three W-questions \textit{who, why}  and \textit{when}.
 \end{document}

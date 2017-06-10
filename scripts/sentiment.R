@@ -4,7 +4,9 @@
 library(stringr)
 library(dplyr)
 library(NLP)
+library(tm)
 library(openNLP)
+library(openNLPmodels.en)
 library(magrittr)
 library(ggplot2)
 library(syuzhet)
@@ -80,7 +82,7 @@ for (g in seasons){
     season18_sents<- c(season18_sents, sents(dialogue_doc))
   }
   full_dialogue <- second_half
-  dialogue_annotations <- annotate(full_dialogue, pipeline)
+  dialogue_annotations <- NLP::annotate(full_dialogue, pipeline)
   dialogue_doc <- AnnotatedPlainTextDocument(full_dialogue, dialogue_annotations)
   
   org1 <-rbind(org1,entities(dialogue_doc, kind = "organization"))
